@@ -2,7 +2,9 @@
 
 This repository contains the [Hugo content directory](https://gohugo.io/content/organization/) for the Hacks/Hackers website.
 
-To edit a page or create a new one, fork this repository and make a pull request.
+To edit the content or metadata of any page , or to create a new one, fork this repository and make a pull request.
+
+For the main Hugo site configuration and theme, use the [hackshackers-hugo](https://github.com/hackshackers/hackshackers-hugo) repository.
 
 ## Front matter style
 
