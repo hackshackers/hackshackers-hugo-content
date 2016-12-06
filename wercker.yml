@@ -26,10 +26,10 @@ deploy:
         - script:
             name: update content submodule
             code: |
-                git checkout -vb auto-update
+                git checkout -b auto-update
                 cd content
-                git checkout -v $WERCKER_GIT_COMMIT
+                git checkout $WERCKER_GIT_COMMIT
                 cd ..
-                git add -v content/
-                git commit -vm "Automatic content submodule update"
-                git push -v origin auto-update
+                git add content/
+                git commit -m "Automatic content submodule update"
+                git push origin auto-update
