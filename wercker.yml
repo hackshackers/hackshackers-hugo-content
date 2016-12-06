@@ -26,6 +26,13 @@ deploy:
         - script:
             name: Auto-update content submodule
             code: |
-                git submodule update --init --recursive --remote content
-                git commit -am "Auto-update content submodule"
+                echo "initializing submodules"
+                git submodule update --init --recursive
+                echo "updating content submodule to remote HEAD"
+                git submodule update --remote content
+                echo "staging content submodule"
+                git add content
+                echo "committing content submodule"
+                git commit -m "Auto-update content submodule"
+                echo "pushing auto-update-content branch to main repo"
                 git push origin auto-update-content
