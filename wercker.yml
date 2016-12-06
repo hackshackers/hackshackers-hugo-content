@@ -27,7 +27,7 @@ deploy:
             name: update content submodule
             code: |
                 git checkout -b auto-update
-                cd content
+                cd hackshackers-hugo/content
                 git checkout $WERCKER_GIT_COMMIT
                 cd ..
                 git add content/
