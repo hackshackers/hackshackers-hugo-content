@@ -1,0 +1,35 @@
+box: debian
+build:
+    steps:
+        - script:
+            name: print commit
+            code: echo "Will update submodule to $WERCKER_GIT_COMMIT"
+deploy:
+    steps:
+        - script:
+            name: install git
+            code: |
+                apt-get update
+                apt-get install git -y
+        - add-ssh-key:
+            keyname: HH_CONTENT
+            host: github.com
+        - add-to-known_hosts:
+            hostname: github.com
+            fingerprint: 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48
+        - script:
+            name: clone main repo
+            code: |
+                git clone git@github.com:hackshackers/hackshackers-hugo.git
+                cd hackshackers-hugo
+                git submodule update --init --recursive
+        - script:
+            name: update content submodule
+            code: |
+                git checkout -b auto-update
+                cd hackshackers-hugo/content
+                git checkout $WERCKER_GIT_COMMIT
+                cd ..
+                git add content/
+                git commit -m "Automatic content submodule update"
+                git push origin auto-update
