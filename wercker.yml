@@ -20,14 +20,17 @@ deploy:
         - script:
             name: clone main repo
             code: |
-                git clone git@github.com:hackshackers/hackshackers-hugo.git
+                cd $WERCKER_ROOT
+                git clone git@github.com:hackshackers/hackshackers-hugo.git hackshackers-hugo
                 cd hackshackers-hugo
                 git submodule update --init --recursive
+        # - internal/shell:
+        #     code: echo "hello there"
         - script:
             name: update content submodule
             code: |
                 git checkout -b auto-update
-                cd hackshackers-hugo/content
+                cd $WERCKER_ROOT/hackshackers-hugo/content
                 git checkout $WERCKER_GIT_COMMIT
                 cd ..
                 git add content/
