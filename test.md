@@ -1,10 +1,9 @@
-{
-	"title": "Test Single Page",
-	"description": "Testing a single page layout with the Hugo theme",
-	"date": "2016-11-21",
-	"tags": ["demo", "test"],
-	"type": "page"
-}
+---
+title: "Test Single Page"
+description: "Testing a single page layout with the Hugo theme"
+date: "2016-11-21"
+tags: ["demo", "test"]
+---
 
 ### Just testing again
 
