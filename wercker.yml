@@ -26,13 +26,9 @@ deploy:
         - script:
             name: Auto-update content submodule
             code: |
-                echo "initializing submodules"
-                git submodule update --init --recursive
-                echo "updating content submodule to remote HEAD"
-                git submodule update --remote content
-                echo "staging content submodule"
+                cd hackshackers-hugo
+                git config --global user.email "josh+wercker@alleyinteractive.com"
+                git submodule update --init --recursive --remote content
                 git add content
-                echo "committing content submodule"
                 git commit -m "Auto-update content submodule"
-                echo "pushing auto-update-content branch to main repo"
                 git push origin auto-update-content
