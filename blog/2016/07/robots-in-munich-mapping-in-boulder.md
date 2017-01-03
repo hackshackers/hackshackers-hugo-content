@@ -1,15 +1,13 @@
 ---
 title: Robots in Munich; mapping in Boulder
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-07-11"
 _migration:
   id: 17526
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Happy July, hacks and hackers. Meetups tripled from last week to this, with chapters building robots, making maps and hacking hackathons from Portland to Patagonia. Los Angeles also rebooted last week, with the first of a two-parter workshop on Javascript and D3. Let&#8217;s check out their meetup and others coming up this week.

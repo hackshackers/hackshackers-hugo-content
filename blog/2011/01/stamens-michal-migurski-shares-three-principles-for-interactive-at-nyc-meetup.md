@@ -1,21 +1,21 @@
 ---
 title: Stamen&#8217;s Michal Migurski shares three principles for interactive at NYC
   Meetup
-tags:
-- cartography
-- maps
-- Michal Migurski
-- Stamen
-categories:
-- New York City
-- News
-- Talks
 authors:
 - Kennedy Elliott
 date: "2011-01-16"
 _migration:
   id: 1855
-  timestamp: 1482973864
+  timestamp: 1483471676
+tags:
+- maps
+- Maps
+- Stamen
+groups:
+- New York
+categories:
+- News
+- Talks
 ---
 
 Much to the enjoyment of the map junkies of the group, Hacks/Hackers NYC welcomed [Michal Migurski][1], partner and resident cartography guru of interactive agency [Stamen Design][2], to the [Jan. 11 meetup][3]. He showcased two of his “civic-oriented” projects, Oakland Crimespotting and This Tract, each aiming to make government data interactive and accessible for the public good.

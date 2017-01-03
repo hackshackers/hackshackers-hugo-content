@@ -1,14 +1,13 @@
 ---
 title: 'Reporting Recipe: Using Amazon&#8217;s Mechanical Turk for Data Projects'
-tags: []
-categories:
-- News
 authors:
 - Burt Herman
 date: "2010-10-15"
 _migration:
   id: 1028
-  timestamp: 1482973866
+  timestamp: 1483471678
+categories:
+- News
 ---
 
 _This is a guest post that also appeared on Oct. 15 on ProPublica&#8217;s blog at <http://www.propublica.org/article/how-we-use-mechanical-turk-to-do-data-driven-reporting-and-how-you-can-too> by Amanda Michel ProPublica_

@@ -1,17 +1,16 @@
 ---
 title: 'Hacks/Hackers Austin: Tableau Public'
-tags:
-- Austin
-- data visualization
-- Tableau
-categories:
-- Austin
 authors:
 - Cindy Royal
 date: "2013-04-25"
 _migration:
   id: 16927
-  timestamp: 1482973852
+  timestamp: 1483471664
+groups:
+- Austin
+tags:
+- data visualization
+- Tableau
 ---
 
 {{< figure src="http://photos3.meetupstatic.com/photos/event/b/4/b/6/600_228766262.jpeg" >}}

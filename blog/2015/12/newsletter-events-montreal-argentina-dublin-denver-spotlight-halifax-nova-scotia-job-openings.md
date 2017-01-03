@@ -1,16 +1,14 @@
 ---
 title: 'Newsletter: Events in Montreal, Argentina, Dublin and Denver | Spotlight on
   Halifax, Nova Scotia | Job openings'
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - Julia Haslanger
 date: "2015-12-02"
 _migration:
   id: 17369
-  timestamp: 1482973850
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 **Ten events in the next seven days! And in the past week, we’ve also had several great events, including Hacks/Hackers Vancouver powering through their meetup by [only candlelight][1]:**

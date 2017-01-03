@@ -1,16 +1,15 @@
 ---
 title: Win a Scholarship to a Poynter Journalism Programming Seminar
-tags: []
-categories:
-- Announcements
-- News
-- Opportunities
 authors:
 - Jennifer 8. Lee
 date: "2010-07-16"
 _migration:
   id: 549
-  timestamp: 1482973867
+  timestamp: 1483471679
+categories:
+- Announcements
+- News
+- Opportunities
 ---
 
 Hacks/Hackers and The Poynter Institute are offering one full scholarship (a $795 value!) to attend the institute&#8217;s three-day seminar in St. Petersburg, Florida: Programming for Journalists / Journalism for Programmers (More info at <http://hckhc.kr/doUlhi>). The seminar takes place from August 25-27, 2010. Faculty includes Hacks/Hackers co-founder Aron Pilhofer of The New York Times; Matt Waite, who designed the Pulitzer Prize-winning Politifact at the St. Petersburg Times; and other industry leaders. It&#8217;s designed to help hacks and hackers better understand each other &#8216;s thinking through hands-on training.

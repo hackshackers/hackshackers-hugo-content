@@ -1,15 +1,13 @@
 ---
 title: Welcome a thousand hacks and hackers on the phone next week
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-09-30"
 _migration:
   id: 17620
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Hello, new hacks and hackers! As of last week, he have 1,000 subscribers on this newsletter. So if you haven&#8217;t already heard, we hold [global open calls][1] for the entire Hacks/Hackers community on the first Wednesday of every month. Please join us next Wednesday, October 5!

@@ -1,17 +1,16 @@
 ---
-title: "ShowTimeLine Hecho! Hackat\xF3n sobre visualizaciones de l\xEDneas de tiempo
-  en @HacksHackersBA"
-tags: []
-categories:
-- Buenos Aires
-- Hackathons
-- Latin America
+title: ShowTimeLine Hecho! Hackatón sobre visualizaciones de líneas de tiempo en @HacksHackersBA
 authors:
 - Mariano Blejman
 date: "2012-04-19"
 _migration:
   id: 6296
-  timestamp: 1482973855
+  timestamp: 1483471667
+groups:
+- Buenos Aires
+tags:
+- Hackathons
+- Latin America
 ---
 
 ([english post here][1])

@@ -1,20 +1,19 @@
 ---
 title: Public media needs coding collaborators
-tags:
-- apm
-- cpb
-- npr
-- prx
-- pubmedia
-- radio
-categories:
-- News
 authors:
 - Barrett Golding
 date: "2010-11-22"
 _migration:
   id: 1025
-  timestamp: 1482973865
+  timestamp: 1483471677
+tags:
+- APM
+- npr
+- PRX
+- pubmedia
+- radio
+categories:
+- News
 description: Growing a Pubmedia Commons, sharing code and community.
 ---
 

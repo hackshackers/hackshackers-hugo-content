@@ -1,14 +1,12 @@
 ---
 title: 'How Twitter does data journalism: San Francisco Hacks/Hackers goes inside
   the nest'
-tags: []
-categories: []
 authors:
 - Burt Herman
 date: "2014-10-09"
 _migration:
   id: 17210
-  timestamp: 1482973850
+  timestamp: 1483471661
 ---
 
 More than 150 hacks and hackers gathered Wednesday at Twitter&#8217;s main headquarters in San Francisco to hear the company&#8217;s Data Editor Simon Rogers talk about data&#8217;s increasingly important role in journalism and how Twitter makes sense of the hundreds of millions of tweets passing through its platform every day.

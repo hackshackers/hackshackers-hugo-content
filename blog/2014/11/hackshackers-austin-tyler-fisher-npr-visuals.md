@@ -1,15 +1,13 @@
 ---
 title: 'Hacks/Hackers Austin: Tyler Fisher, NPR Visuals'
-tags:
-- Austin
-categories:
-- Austin
 authors:
 - Cindy Royal
 date: "2014-11-15"
 _migration:
   id: 17226
-  timestamp: 1482973850
+  timestamp: 1483471661
+groups:
+- Austin
 ---
 
 {{< figure src="http://photos3.meetupstatic.com/photos/event/3/0/a/d/600_431532461.jpeg" >}}

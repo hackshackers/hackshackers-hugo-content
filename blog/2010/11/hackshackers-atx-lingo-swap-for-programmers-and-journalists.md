@@ -1,16 +1,15 @@
 ---
 title: Hacks/Hackers ATX &#8211; Lingo Swap for Programmers and Journalists
-tags:
-- Austin
-categories:
-- Austin
-- News
 authors:
 - Cindy Royal
 date: "2010-11-22"
 _migration:
   id: 1505
-  timestamp: 1482973865
+  timestamp: 1483471677
+groups:
+- Austin
+categories:
+- News
 ---
 
 The next meeting of Hacks/Hackers ATX (and last of 2010) will be on Dec. 8 at the Austin American-Statesman, 6:30-8:30pm. This meeting seeks to bridge the gap between journalists and programmers by explaining some of the terms and techniques of each field. [Mattt Thompson][1], a hacker at [Gowalla][2], will untangle and demystify some of the finer points of the programmer craft. And [Matt Stiles][3] of the [Texas Tribune][4] will talk about newsroom lingo and processes. So, if you don&#8217;t know the difference between a programming language and a framework, or if you have no idea what a nut graph is, this is the meeting for you.

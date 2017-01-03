@@ -1,17 +1,17 @@
 ---
 title: 'Recap of Hacks/Hackers goes to Google: Wave and journalism'
-tags:
-- collaboration tools
-- google wave
-- robots
-categories:
-- News
 authors:
 - Burt Herman
 date: "2010-03-19"
 _migration:
   id: 277
-  timestamp: 1482973867
+  timestamp: 1483471679
+tags:
+- collaboration
+- google wave
+- robots
+categories:
+- News
 ---
 
 Thanks to all who turned out at Google for our event on Wave and journalism.

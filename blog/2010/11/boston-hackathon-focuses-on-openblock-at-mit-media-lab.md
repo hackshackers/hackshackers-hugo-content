@@ -1,18 +1,19 @@
 ---
 title: Boston Hackathon Focuses on OpenBlock at MIT Media Lab
-tags:
-- MIT
-- OpenBlock
-categories:
-- Boston
-- Hackathons
-- News
 authors:
 - Jennifer 8. Lee
 date: "2010-11-03"
 _migration:
   id: 1359
-  timestamp: 1482973866
+  timestamp: 1483471678
+tags:
+- MIT
+- OpenBlock
+- Hackathons
+groups:
+- Boston
+categories:
+- News
 ---
 
 {{< youtube qCl4qimMxeA >}}

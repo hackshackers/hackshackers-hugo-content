@@ -1,14 +1,13 @@
 ---
 title: Knight Mozilla London Mojo brainstorming session at the Guardian
-tags: []
-categories:
-- London
 authors:
 - Jennifer 8. Lee
 date: "2011-06-05"
 _migration:
   id: 3260
-  timestamp: 1482973857
+  timestamp: 1483471668
+groups:
+- London
 ---
 
 

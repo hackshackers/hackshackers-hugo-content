@@ -1,14 +1,13 @@
 ---
 title: 'The Media Party at Buenos Aires: the biggest Hacks/Hackers meetup ever'
-tags: []
-categories:
-- Buenos Aires
 authors:
 - Mariano Blejman
 date: "2013-09-05"
 _migration:
   id: 17054
-  timestamp: 1482973852
+  timestamp: 1483471663
+groups:
+- Buenos Aires
 ---
 
 {{< figure src="https://lh5.googleusercontent.com/o82zM8-rUnAukh9\---rzYsB0GDYIiSnzu58Nnpv047d5-q7tn56YcD4Z1IoJhpYw762r-Xit1Z7bE5cptfFAPLMc-p1gu0RBxoUWYxjUaVb1rHgiJJLMDOgC" >}}

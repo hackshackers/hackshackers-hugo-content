@@ -1,16 +1,16 @@
 ---
 title: Line-up Announced for NYC Demo Day on April 5
-tags: []
-categories:
-- Demos
-- New York City
-- News
 authors:
 - Jennifer 8. Lee
 date: "2011-03-30"
 _migration:
   id: 2218
-  timestamp: 1482973864
+  timestamp: 1483471676
+categories:
+- Demos
+- News
+groups:
+- New York
 ---
 
 <!-- p.p1 {margin: 0.0px 0.0px 9.0px 0.0px; line-height: 18.0px; font: 14.0px Arial; color: #272727} li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 18.0px; font: 14.0px Arial; color: #272727} span.s1 {color: #14466b} span.s2 {font: 16.0px Arial} span.s3 {font: 16.0px Arial; color: #14466b} ul.ul1 {list-style-type: disc} -->The line up for the 

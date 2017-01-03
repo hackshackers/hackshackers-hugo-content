@@ -1,17 +1,17 @@
 ---
 title: Habits of highly successful web developers (journalism edition)
+authors:
+- Aron Pilhofer
+date: "2010-03-26"
+_migration:
+  id: 299
+  timestamp: 1483471679
 tags:
 - newsroom
 - source control
 - web applications
 categories:
 - News
-authors:
-- Aron Pilhofer
-date: "2010-03-26"
-_migration:
-  id: 299
-  timestamp: 1482973867
 ---
 
 My pal Brian Boyer wrote an excellent [synopsis][1] of his [NICAR 2010][2] talk recently. It&#8217;s well worth a read even if you aren&#8217;t writing web applications in your newsroom.

@@ -1,20 +1,19 @@
 ---
 title: 'Hacks/Hackers New Delhi: How to Visualize Big Data?'
-tags:
-- data
-- hackathon
-- India
-- New Delhi
-categories:
-- Hackathons
-- New Delhi
-- News
 authors:
 - Anika Gupta
 date: "2013-02-12"
 _migration:
   id: 16797
-  timestamp: 1482973853
+  timestamp: 1483471664
+tags:
+- data
+- Hackathons
+groups:
+- India
+- New Delhi
+categories:
+- News
 ---
 
 {{< figure src="/content-images/blog/2013/02/HHDEL-1302-big-data-welcome.jpg" alt="Hacks/Hackers New Delhi gathers for their first hackathon." >}}

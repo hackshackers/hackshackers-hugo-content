@@ -1,16 +1,16 @@
 ---
 title: Collaborate on your Knight News Challenge ideas
-tags:
-- knight news challenge
-categories:
-- Announcements
-- News
 authors:
 - Jennifer 8. Lee
 date: "2010-11-21"
 _migration:
   id: 1480
-  timestamp: 1482973865
+  timestamp: 1483471677
+tags:
+- knight news challenge
+categories:
+- Announcements
+- News
 ---
 
 We&#8217;re trying to spur ideas/collaboration among Hacks/Hackers members for the [Knight News Challenge][1], a grant program that supports news innovation that has a Dec. 1 deadline. So far more than $20 million has been granted to dozens of projects, including [Spot.us][2], [DocumentCloud][3], [Ushahidi][4] and [MediaBugs][5]. Who knows? Yours could be next.

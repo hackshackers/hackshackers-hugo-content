@@ -1,16 +1,17 @@
 ---
 title: HACKATHON [YAN] 2012 best 24 hours event in Armenia
-tags:
-- entrepreneurship
-categories:
-- Announcements
-- Yerevan (Armenia)
 authors:
 - Seda Muradyan
 date: "2012-12-04"
 _migration:
   id: 16694
-  timestamp: 1482973853
+  timestamp: 1483471665
+tags:
+- entrepreneurship
+categories:
+- Announcements
+groups:
+- Yerevan
 ---
 
 **HACKATHON [YAN] 2012**

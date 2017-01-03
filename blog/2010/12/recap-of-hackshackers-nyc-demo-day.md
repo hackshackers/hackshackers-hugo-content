@@ -1,20 +1,23 @@
 ---
 title: 'Recap of Hacks/Hackers NYC Demo Day: Lots of Raphael'
+authors:
+- Lori White
+date: "2010-12-08"
+_migration:
+  id: 1657
+  timestamp: 1483471677
 tags:
 - data
-- dataviz
-- demo
+- data visualization
 - editflow
 - foursquare
 - newscred
-- newworkcity
-- NewYork
 - NWC
 - nyc
 - opencongress
 - opendata
 - opengov
-- propublica
+- ProPublica
 - publishing
 - slate
 - talkingpointsmemo
@@ -22,19 +25,15 @@ tags:
 - tpm
 - vizthink
 categories:
-- New York City
+- Demos
 - News
-authors:
-- Lori White
-date: "2010-12-08"
-_migration:
-  id: 1657
-  timestamp: 1482973864
+groups:
+- New York
 description: "The New York City chapter of Hacks/Hackers  met last Wednesday, December
   3rd for Demo Day at the generously donated space, New Work City. The pizza was delicious
   and the place was packed. People had to raise their hands if there was an empty
-  seat. Let\u2019s time travel back to Wednesday, December 1, 2010 \u2013 at 8pm-ish,
-  and learn what these folks are up to. \r\n\r\n"
+  seat. Let’s time travel back to Wednesday, December 1, 2010 – at 8pm-ish, and learn
+  what these folks are up to. \r\n\r\n"
 ---
 
 The New York City chapter of Hacks/Hackers metWednesday, December 1 for [Demo Day][1] at the generously donated space, New Work City.

@@ -1,18 +1,18 @@
 ---
 title: Open(source).athon in NYC kicks off
-tags:
-- hackathon
-- nyc
-categories:
-- Hackathons
-- New York City
-- News
 authors:
 - stacycowley
 date: "2010-10-02"
 _migration:
   id: 900
-  timestamp: 1482973866
+  timestamp: 1483471678
+tags:
+- Hackathons
+- nyc
+groups:
+- New York
+categories:
+- News
 ---
 
 {{< figure link="/content-images/blog/2010/10/hackathon-0261.jpg" src="/content-images/blog/2010/10/hackathon-0261.jpg" >}}

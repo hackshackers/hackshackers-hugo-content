@@ -1,15 +1,15 @@
 ---
 title: Demos, Tech Staffing, and Funding Challenges/Solutions at Hacks/Hackers Colorado
-tags: []
-categories:
-- Colorado
-- News
 authors:
 - vanessamartinez
 date: "2011-08-16"
 _migration:
   id: 3485
-  timestamp: 1482973856
+  timestamp: 1483471668
+groups:
+- Colorado
+categories:
+- News
 ---
 
 by Sandra Fish

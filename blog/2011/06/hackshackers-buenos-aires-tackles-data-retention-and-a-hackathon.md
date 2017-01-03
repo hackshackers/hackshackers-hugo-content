@@ -1,18 +1,18 @@
 ---
 title: Hacks/Hackers Buenos Aires tackles data retention and a hackathon
-tags: []
-categories:
-- Buenos Aires
-- Demo
-- Demos
-- Latin America
-- Meetups
 authors:
 - Mariano Blejman
 date: "2011-06-28"
 _migration:
   id: 3241
-  timestamp: 1482973857
+  timestamp: 1483471668
+groups:
+- Buenos Aires
+categories:
+- Demos
+- Meetups
+tags:
+- Latin America
 ---
 
 [Este post también está en español][1]

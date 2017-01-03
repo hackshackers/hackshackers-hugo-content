@@ -1,16 +1,16 @@
 ---
 title: Data And Metadata In News Gathering and Management by Hacks/Hacks NYC
-tags: []
-categories:
-- Meetups
-- New York City
-- News
 authors:
 - Chrys Wu
 date: "2010-09-30"
 _migration:
   id: 845
-  timestamp: 1482973866
+  timestamp: 1483471678
+categories:
+- Meetups
+- News
+groups:
+- New York
 ---
 
 _(A big thanks to [Daniel Bachhuber][1] for initiating notes on [TypeWithMe.com][2], with help from [Greg Linch][3] and [Chrys Wu][4]. This is version 5 of [the notes][5], lightly edited, with more context added.)_

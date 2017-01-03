@@ -1,15 +1,13 @@
 ---
 title: Lessons from Media Party Africa
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-10-28"
 _migration:
   id: 17658
-  timestamp: 1482973849
+  timestamp: 1483471659
+categories:
+- Newsletter
 ---
 
 It&#8217;s almost election time in the U.S., hacks and hackers! Please join us next Wednesday as reporters catch up after [Media Party Africa][1] and batten down the hatches for the American election. The [global open call][2] will take place at 1500 UTC ([find your local time here][3]).

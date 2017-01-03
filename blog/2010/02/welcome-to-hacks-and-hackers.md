@@ -1,22 +1,22 @@
 ---
 title: Welcome to the online home of Hacks/Hackers
+authors:
+- Burt Herman
+date: "2010-02-16"
+_migration:
+  id: 4
+  timestamp: 1483471679
 tags:
 - design
 - hackers
 - hacks
 - innovation
 - media revolution
-- meetup
 - user-centered
 - welcome
 categories:
+- Meetups
 - News
-authors:
-- Burt Herman
-date: "2010-02-16"
-_migration:
-  id: 4
-  timestamp: 1482973867
 description: Welcome to Hacks and Hackers, the online community for discussion around
   the real-life meetups of the same name.
 ---

@@ -1,15 +1,13 @@
 ---
 title: 'Hacks/Hackers Austin: Tableau for Mac'
-tags:
-- Austin
-categories:
-- Austin
 authors:
 - Cindy Royal
 date: "2014-07-29"
 _migration:
   id: 17222
-  timestamp: 1482973850
+  timestamp: 1483471661
+groups:
+- Austin
 ---
 
 {{< figure src="http://photos3.meetupstatic.com/photos/event/5/0/5/2/event_425960562.jpeg" >}}

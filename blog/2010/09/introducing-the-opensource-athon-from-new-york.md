@@ -1,17 +1,18 @@
 ---
 title: Introducing the Open(source).athon in NYC
-tags: []
-categories:
-- Hackathons
-- Meetups
-- New York City
-- News
 authors:
 - Scott Klein
 date: "2010-09-01"
 _migration:
   id: 699
-  timestamp: 1482973866
+  timestamp: 1483471678
+tags:
+- Hackathons
+categories:
+- Meetups
+- News
+groups:
+- New York
 ---
 
 The Hacks/Hackers NYC is throwing an [open(source).athon in the OpenPlans penthouse][1] on Oct 2 to see how much great software for news/information we can open source in 12 hours?

@@ -1,23 +1,22 @@
 ---
 title: Hacks/Hackers Amman Supports Jordanian Journalists
-tags:
-- Amman
-- Arab World
-- Drupal
-- Jordan
-- mapping
-- Middle East
-- mobile apps
-- SMS
-categories:
-- Amman
-- Meetups
 authors:
 - Ayman Salah
 date: "2012-10-29"
 _migration:
   id: 16626
-  timestamp: 1482973853
+  timestamp: 1483471665
+groups:
+- Amman
+tags:
+- Arab World
+- Drupal
+- Maps
+- Middle East
+- mobile apps
+- SMS
+categories:
+- Meetups
 ---
 
 UNESCO’s Amman office was home to the technical day organized by Hacks/Hackers Amman Chapter with the objective to provide technology solution to different issues Jordanian journalists face.

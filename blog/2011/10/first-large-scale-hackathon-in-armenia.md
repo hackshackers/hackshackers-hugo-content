@@ -1,15 +1,15 @@
 ---
 title: First Large-Scale Hackathon in Armenia
-tags: []
-categories:
-- Announcements
-- Yerevan (Armenia)
 authors:
 - Seda Muradyan
 date: "2011-10-25"
 _migration:
   id: 3845
-  timestamp: 1482973856
+  timestamp: 1483471667
+categories:
+- Announcements
+groups:
+- Yerevan
 ---
 
 Hackathon[YAN] Yerevan 2011

@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers off and running after IRE, tronc and Brexit news
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-06-24"
 _migration:
   id: 17517
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 This week, journalists chortled over tronc&#8217;s &#8220;[deadly swarm of buzzwords][1],&#8221; watched the U.S. Congress [livestream over Periscope][2] and [traded tips and tools][3] after a record-setting IRE conference. Let&#8217;s see what hacks and hackers are getting up to next week.

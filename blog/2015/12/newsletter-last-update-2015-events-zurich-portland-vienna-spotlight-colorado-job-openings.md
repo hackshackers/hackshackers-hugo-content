@@ -1,16 +1,14 @@
 ---
 title: 'Newsletter: Last update of 2015 | Events in Zurich, Portland, Vienna and more
   | Spotlight on Colorado | Job openings'
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - Julia Haslanger
 date: "2015-12-09"
 _migration:
   id: 17373
-  timestamp: 1482973850
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 **This is your last update until 2016 — the newsletter will be on hiatus until the new year. Happy holidays and may the rest of your 2015 be full of good cheer.**

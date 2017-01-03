@@ -1,16 +1,16 @@
 ---
 title: 'Chicago Debut Meetup: September 15 at the Holiday Club'
-tags: []
-categories:
-- Chicago
-- Meetups
-- News
 authors:
 - TracySamantha
 date: "2010-08-24"
 _migration:
   id: 693
-  timestamp: 1482973866
+  timestamp: 1483471678
+groups:
+- Chicago
+categories:
+- Meetups
+- News
 ---
 
 Hacks/Hackers Chicago is getting into gear with i[ts first Meetup on Wednesday, Sept. 15][1] from 6-8 p.m. at the Holiday Club (4000 N Sheridan Road). More details below

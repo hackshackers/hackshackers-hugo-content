@@ -1,17 +1,17 @@
 ---
 title: Hacks/Hackers Brighton launches Sept. 8
-tags: []
-categories:
-- Announcements
-- Brighton
-- Meetups
-- News
 authors:
 - Sarah Marshall
 date: "2011-07-26"
 _migration:
   id: 3334
-  timestamp: 1482973857
+  timestamp: 1483471668
+categories:
+- Announcements
+- Meetups
+- News
+groups:
+- Brighton
 ---
 
 {{< figure link="http://hackshackers.com/blog/2011/07/26/hackshackers-brighton-launches-sept-8/brighton-dome-resized/" src="/content-images/blog/2011/07/Brighton-Dome-resized1-300x198.jpg" >}}

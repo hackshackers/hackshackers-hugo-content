@@ -1,16 +1,16 @@
 ---
 title: Hacks/Hackers Chicago is Now in Session
-tags: []
-categories:
-- Announcements
-- Chicago
-- News
 authors:
 - Jennifer 8. Lee
 date: "2010-07-19"
 _migration:
   id: 573
-  timestamp: 1482973867
+  timestamp: 1483471679
+categories:
+- Announcements
+- News
+groups:
+- Chicago
 ---
 
 Hacks/Hackers goes to the heartland with its [new Chicago chapter][1].  This will be spearheaded by Rich Gordon, a Northwestern prof who is one of the original founders of Hacks/Hackers, and [Tracy Schmidt][2] of ChicagoNow.

@@ -1,20 +1,19 @@
 ---
 title: Mobile, Gawker redesign, and Twitterfication of news at Hacks/Hackers Boston
-tags:
-- BostInnovation
-- gawker
-- wbur
-categories:
-- Boston
-- Meetups
-- News
-- Summaries
 authors:
 - Matt Carroll
 date: "2011-02-23"
 _migration:
   id: 2062
-  timestamp: 1482973864
+  timestamp: 1483471676
+tags:
+- gawker
+- WBUR
+groups:
+- Boston
+categories:
+- Meetups
+- News
 ---
 
 The future of news is snuggled in your pocket.

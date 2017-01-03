@@ -1,15 +1,15 @@
 ---
 title: 'NYC SeedStart Incubator Deadline for Media Startups: March 31'
-tags: []
-categories:
-- New York City
-- News
 authors:
 - Jennifer 8. Lee
 date: "2011-03-23"
 _migration:
   id: 2157
-  timestamp: 1482973864
+  timestamp: 1483471676
+groups:
+- New York
+categories:
+- News
 ---
 
 Great opportunity for hacks and hackers.

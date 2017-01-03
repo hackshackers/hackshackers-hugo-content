@@ -1,18 +1,17 @@
 ---
 title: Hacks/Hackers Austin Hosts News Hackathon
-tags:
-- Austin
-- hackathon
-categories:
-- Austin
-- Hackathons
-- News
 authors:
 - Cindy Royal
 date: "2010-11-02"
 _migration:
   id: 1107
-  timestamp: 1482973866
+  timestamp: 1483471678
+groups:
+- Austin
+tags:
+- Hackathons
+categories:
+- News
 ---
 
 {{< figure src="http://photos4.meetupstatic.com/photos/event/c/2/7/d/600_18889789.jpeg" >}}

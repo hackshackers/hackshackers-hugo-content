@@ -1,19 +1,18 @@
 ---
 title: Panel on Future of Personalized News
-tags:
-- business model
-- contact sports
-- curation
-- design
-- personalized news
-categories:
-- News
 authors:
 - Burt Herman
 date: "2010-02-19"
 _migration:
   id: 63
-  timestamp: 1482973867
+  timestamp: 1483471679
+tags:
+- business model
+- curation
+- design
+- personalized news
+categories:
+- News
 ---
 
 Thanks to all who attended the Hacks/Hackers meetup on the Future of Personalized News! I&#8217;ll be writing more about the event in a separate post &#8212; things got a bit heated at times and there was some good debate about how to ensure quality content survives in the aggregation age. The archived livestream is below, and here&#8217;s a [written summary on Google Buzz][1] by [Abe Epton][2] of Google News. (thanks Abe!)

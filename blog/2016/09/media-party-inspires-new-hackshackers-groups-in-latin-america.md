@@ -1,15 +1,13 @@
 ---
 title: Media Party inspires new Hacks/Hackers groups in Latin America
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-09-13"
 _migration:
   id: 17602
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Welcome to another week, hacks and hackers. The [Media Party][1] last month saw the creation of several new exciting Meetup groups, like [Caracas][2], Venezuela, and [Quito][3], Ecuador. Spread the word to your friends in the LatAm community!

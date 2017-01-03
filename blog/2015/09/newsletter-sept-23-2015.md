@@ -1,15 +1,13 @@
 ---
 title: 'Newsletter: Sept. 23, 2015'
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - Julia Haslanger
 date: "2015-09-23"
 _migration:
   id: 17316
-  timestamp: 1482973850
+  timestamp: 1483471661
+categories:
+- Newsletter
 ---
 
 **Welcome to the new Hacks/Hackers weekly newsletter.** This newsletter aims to be a service to you &#8211; a way for you to learn from and about what&#8217;s going on in the 75(!) Hacks/Hackers chapters around the world. The newsletter has four parts (for now &#8211; &#8217;til you suggest others):

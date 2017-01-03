@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers Connect leaves Brussels, sets sights on Toronto
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-06-03"
 _migration:
   id: 17464
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Welcome to June, hacks and hackers! Brussels just wrapped up another action-packed Connect, but Hacks/Hackers isn&#8217;t slowing down. We&#8217;re excited to announce [Connect Toronto][1], coming to the great white north in September:

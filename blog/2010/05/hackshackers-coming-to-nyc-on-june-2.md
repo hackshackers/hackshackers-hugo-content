@@ -1,16 +1,16 @@
 ---
 title: Hacks/Hackers coming to NYC on June 2
-tags:
-- meetup
-- new york
-categories:
-- News
 authors:
 - Burt Herman
 date: "2010-05-23"
 _migration:
   id: 396
-  timestamp: 1482973867
+  timestamp: 1483471679
+categories:
+- Meetups
+- News
+groups:
+- New York
 ---
 
 The word is out and already more than 100 people have signed up to attend the first Hacks/Hackers gathering in New York on June 2. Please sign up to attend at <http://meetupnyc.hackshackers.com>.

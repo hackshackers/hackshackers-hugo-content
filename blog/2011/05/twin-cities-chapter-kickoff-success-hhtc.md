@@ -1,15 +1,15 @@
 ---
 title: Hacks/Hackers Twin Cities chapter kickoff draws Hundred-Person crowd.
-tags: []
-categories:
-- Meetups
-- Twin Cities
 authors:
 - pedstrom
 date: "2011-05-02"
 _migration:
   id: 2794
-  timestamp: 1482973863
+  timestamp: 1483471675
+categories:
+- Meetups
+groups:
+- Twin Cities
 ---
 
 The event Friday night was crowded, fun and fascinating.  We had about a hundred people and our guest, Matt Thompson, gave a provocative talk on what needs changing in media. The [reviews][1] from the crew were positive, and we look forward to the next event. Thanks to all that came!

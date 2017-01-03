@@ -1,15 +1,13 @@
 ---
 title: Media Party ignites in Buenos Aires this week
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-08-22"
 _migration:
   id: 17591
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Get ready, hacks and hackers: there are meetups on every continent of the world this week (not counting Antarctica). Not to mention the [HHBA Media Party][1], the biggest Hacks/Hackers event in the world.

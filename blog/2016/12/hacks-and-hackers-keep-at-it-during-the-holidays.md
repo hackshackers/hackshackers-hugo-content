@@ -1,15 +1,13 @@
 ---
 title: Hacks and hackers keep at it during the holidays
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-12-09"
 _migration:
   id: 17696
-  timestamp: 1482973848
+  timestamp: 1483471659
+categories:
+- Newsletter
 ---
 
 Season&#8217;s greetings, hacks and hackers! The holidays are closing in on us &#8211; at least on those of us in the western world, and many groups and people are slowing down and starting to hibernate. But not Hacks/Hackers! There&#8217;s still time to help us pick a new logo, if you&#8217;re so inclined &#8211; and check out what local groups are up to next week and onward:

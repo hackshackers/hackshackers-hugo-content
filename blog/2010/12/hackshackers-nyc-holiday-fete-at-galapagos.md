@@ -1,15 +1,15 @@
 ---
-title: "Hacks/Hackers Party at the NYC Holiday F\xEAte at Galapagos"
-tags: []
-categories:
-- New York City
-- News
+title: Hacks/Hackers Party at the NYC Holiday Fête at Galapagos
 authors:
 - Jennifer 8. Lee
 date: "2010-12-22"
 _migration:
   id: 1826
-  timestamp: 1482973864
+  timestamp: 1483471676
+groups:
+- New York
+categories:
+- News
 ---
 
 Hacks/Hackers NYC ended the year with a great flourish at the Galapagos Arts Space in Dumbo on Decembe with catering provided by [Crave Catering][1]: cornbread cup with chili, caramelized cheddar cheese, chili froth with micro basil; vegetable ceviche Persian cucumber cups, crispy shallots; parmesan risotto cakes with white truffle oil, micro greens; mini-beef sliders with spiced pomegranate ketchup duck confit spring rolls. Yum.

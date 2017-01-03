@@ -1,16 +1,16 @@
 ---
 title: NYC December 1st Demo Day line-up
-tags: []
-categories:
-- Demos
-- New York City
-- News
 authors:
 - Jennifer 8. Lee
 date: "2010-11-29"
 _migration:
   id: 1526
-  timestamp: 1482973865
+  timestamp: 1483471677
+categories:
+- Demos
+- News
+groups:
+- New York
 ---
 
 We had lots of excellent submissions for our [Demo Day][1] at New Work City. Thanks for all interest. We are sure to do it again, such that all worthy projects will gain an audience. 

@@ -1,17 +1,16 @@
 ---
 title: 'Hacks/Hackers Austin June Meetup: Integrating Tech Skills in Your Communications
   Career'
-tags:
-- Austin
-categories:
-- Austin
-- News
 authors:
 - Cindy Royal
 date: "2011-05-24"
 _migration:
   id: 2973
-  timestamp: 1482973863
+  timestamp: 1483471675
+groups:
+- Austin
+categories:
+- News
 ---
 
 Join Hacks/Hackers Austin on June 7 for a panel discussion on ways to integrate tech skills in a communications career. Four recent grads will discuss their positions at the Statesman, Austin Post, Texas Tribune and Facebook. They will share their experiences in using technology in their jobs and personal lives, what they learned in school, what they wish they had learned and how they acquire the skills they need. The panel will be moderated by Travis Swicegood ([@tswicegood)][1], a developer at [Texas Tribune][2], who will provide the context of how technology is shaping processes in the modern newsroom.

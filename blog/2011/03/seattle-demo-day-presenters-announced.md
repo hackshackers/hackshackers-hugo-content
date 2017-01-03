@@ -1,16 +1,16 @@
 ---
 title: 'UPDATED: Seattle Demo Day Presenters Announced'
-tags: []
-categories:
-- Announcements
-- News
-- Seattle
 authors:
 - Karen Johnson
 date: "2011-03-23"
 _migration:
   id: 2175
-  timestamp: 1482973864
+  timestamp: 1483471676
+categories:
+- Announcements
+- News
+groups:
+- Seattle
 ---
 
 **UPDATE: [Watch][1] UStream video of the 2011 Seattle Hacks/Hackers demo beginning at 6:3o p.m. on Tuesday, March 29, 2011.**

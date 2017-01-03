@@ -1,18 +1,18 @@
 ---
 title: Lightning talks and a healthy dose of start-up projects launch Hacks/Hackers
   Berlin
-tags:
-- berlin
-- startup
-categories:
-- Berlin
-- Meetups
 authors:
 - Adam Thomas
 date: "2012-07-19"
 _migration:
   id: 16307
-  timestamp: 1482973854
+  timestamp: 1483471666
+groups:
+- Berlin
+tags:
+- startup
+categories:
+- Meetups
 ---
 
 ![][1]

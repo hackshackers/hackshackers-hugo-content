@@ -1,16 +1,14 @@
 ---
 title: 'Newsletter: Nov. 4, 2015: Hacks/Hackers at MozFest | Events in Singapore,
   Bengaluru | Job openings'
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - Julia Haslanger
 date: "2015-11-04"
 _migration:
   id: 17342
-  timestamp: 1482973850
+  timestamp: 1483471661
+categories:
+- Newsletter
 ---
 
 ****A cute tweet-length story to start off your newsletter:****

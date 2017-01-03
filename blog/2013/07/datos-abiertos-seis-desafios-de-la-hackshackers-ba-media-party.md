@@ -1,14 +1,13 @@
 ---
-title: "Datos abiertos: seis desaf\xEDos de la Hacks/Hackers BA Media Party"
-tags: []
-categories:
-- Buenos Aires
+title: 'Datos abiertos: seis desafíos de la Hacks/Hackers BA Media Party'
 authors:
 - Mariano Blejman
 date: "2013-07-29"
 _migration:
   id: 17000
-  timestamp: 1482973852
+  timestamp: 1483471664
+groups:
+- Buenos Aires
 ---
 
 {{< figure src="http://ijnet.org/sites/default/files/imagecache/large/images/mediaparty.jpg" alt="image:" >}}

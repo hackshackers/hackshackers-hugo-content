@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers global call tomorrow
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-09-05"
 _migration:
   id: 17598
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Welcome to September, hacks and hackers, and happy [Labor Day][1] to those laboring in the U.S. Tomorrow we&#8217;ll be holding our [monthly global call][2] at 1500 GMT. Please join in!

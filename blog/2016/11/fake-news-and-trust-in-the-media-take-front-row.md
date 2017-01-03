@@ -1,15 +1,13 @@
 ---
 title: Fake news and trust in the media take front row
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-11-18"
 _migration:
   id: 17675
-  timestamp: 1482973849
+  timestamp: 1483471659
+categories:
+- Newsletter
 ---
 
 Good morning, afternoon, evening or night, hacks and hackers. After a year of news events like Brexit, the European refugee crisis and the U.S. election, journalists are getting more concerned about the spread of fake news and an apparent lack of trust from the public. Organizations and private companies are starting to take action, but it&#8217;s going to be a long road ahead.

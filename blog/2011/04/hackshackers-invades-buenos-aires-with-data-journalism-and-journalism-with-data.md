@@ -1,18 +1,19 @@
 ---
 title: Hacks/Hackers invades Buenos Aires with data journalism and journalism with
   data
-tags: []
-categories:
-- Buenos Aires
-- Latin America
-- Meetups
-- News
 authors:
 - Mariano Blejman
 date: "2011-04-29"
 _migration:
   id: 2746
-  timestamp: 1482973863
+  timestamp: 1483471675
+groups:
+- Buenos Aires
+tags:
+- Latin America
+categories:
+- Meetups
+- News
 ---
 
 _Usted puede leer [este post en español][1]._

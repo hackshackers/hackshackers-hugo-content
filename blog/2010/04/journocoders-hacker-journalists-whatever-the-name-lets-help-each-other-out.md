@@ -1,17 +1,17 @@
 ---
 title: Journocoders? Hacker journalists? Whatever the name, let&#8217;s help each
   other out!
-tags:
-- questions and answers
-- stack overflow
-categories:
-- News
 authors:
 - Rich Gordon
 date: "2010-04-18"
 _migration:
   id: 366
-  timestamp: 1482973867
+  timestamp: 1483471679
+tags:
+- question and answer
+- Stack Overflow
+categories:
+- News
 ---
 
 For months now, [Aron Pilhofer][1] and I have been talking about a Web site where people doing computer programming in journalism could ask and answer questions, solve each other&#8217;s problems and, in general, build a supportive community. Somewhere along the way, someone said to me, &#8220;You mean, like [Stack Overflow][2]?&#8221; I went to visit the site &#8212; a thriving support community for software developers &#8212; and it looked very much like what we had in mind.

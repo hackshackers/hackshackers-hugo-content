@@ -1,16 +1,16 @@
 ---
 title: Google&#8217;s Ngram attracts a crowd
-tags: []
-categories:
-- Boston
-- Meetups
-- News
 authors:
 - Matt Carroll
 date: "2011-02-14"
 _migration:
   id: 1974
-  timestamp: 1482973864
+  timestamp: 1483471676
+groups:
+- Boston
+categories:
+- Meetups
+- News
 ---
 
 Take 15 million books and 4 billion words, use a simple interface to search for a few words or phrases, and presto – you have Google’s Ngram Viewer.

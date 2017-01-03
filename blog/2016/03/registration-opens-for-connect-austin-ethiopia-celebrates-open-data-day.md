@@ -1,15 +1,13 @@
 ---
 title: Registration opens for Connect Austin; Ethiopia celebrates Open Data Day
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-03-25"
 _migration:
   id: 17414
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Greetings, hacks and hackers! We’ve got some news on the latest [Connect milestone][1]:

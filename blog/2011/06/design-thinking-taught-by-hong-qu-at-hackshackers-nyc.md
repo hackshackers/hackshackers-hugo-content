@@ -1,19 +1,20 @@
 ---
 title: Design Thinking taught by Hong Qu at Hacks/Hackers NYC
+authors:
+- Becky Kazansky
+date: "2011-06-16"
+_migration:
+  id: 3204
+  timestamp: 1483471668
 tags:
 - design
 - UI
 - UX
 categories:
 - Meetups
-- New York City
 - News
-authors:
-- Becky Kazansky
-date: "2011-06-16"
-_migration:
-  id: 3204
-  timestamp: 1482973857
+groups:
+- New York
 ---
 
 {{< figure src="http://s3.amazonaws.com/files.posterous.com/jenny8lee/8cLL5C2kIYCYmfZt7WF5lf5aeXYJHfh14oKzE2kbC4IFErSBnDFVaYLtdFHu/photo.jpg?AWSAccessKeyId=AKIAJFZAE65UYRT34AOQ&Expires=1309117653&Signature=j0RKPfeWCYd5CcYRrO2%2FhngDjJY%3D" alt="Hong Qu at Hacks/Hackers NYC" >}}

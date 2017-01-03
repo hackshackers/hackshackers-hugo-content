@@ -1,5 +1,11 @@
 ---
 title: MIT project looking for WordPress users to beta test data visualization tools
+authors:
+- Jennifer 8. Lee
+date: "2010-11-19"
+_migration:
+  id: 1468
+  timestamp: 1483471677
 tags:
 - data visualization
 - MIT
@@ -8,12 +14,6 @@ categories:
 - Announcements
 - News
 - Opportunities
-authors:
-- Jennifer 8. Lee
-date: "2010-11-19"
-_migration:
-  id: 1468
-  timestamp: 1482973865
 ---
 
 An MIT research project is looking for beta testers for its  [Knight News Challenge][1] proposal for a WordPress data visualization plugin. [Sign up on their blog.][2]

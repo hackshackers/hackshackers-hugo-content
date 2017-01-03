@@ -1,15 +1,13 @@
 ---
 title: 'Newsletter: Oct. 28, 2015'
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - Julia Haslanger
 date: "2015-10-28"
 _migration:
   id: 17338
-  timestamp: 1482973850
+  timestamp: 1483471661
+categories:
+- Newsletter
 ---
 
 Happy Wednesday. Starting next week, we’ll include job postings as a section of this newsletter. If you’re hiring for a position that’d be of interest to Hacks/Hackers members, send it our way.

@@ -1,14 +1,13 @@
 ---
 title: Subscribe to Hacks/Hackers Jobs Newsletter
-tags: []
-categories:
-- Jobs
 authors:
 - Jennifer 8. Lee
 date: "2012-02-25"
 _migration:
   id: 4260
-  timestamp: 1482973855
+  timestamp: 1483471667
+categories:
+- Jobs
 ---
 
 Based on the number of job postings we are hearing about at Hacks/Hackers meetups, we are trying to compile a newsletter of jobs at the intersection of journalism x technology. The email may be frequent or sporadic depending on jobs volume. It may or may not be targeted. 

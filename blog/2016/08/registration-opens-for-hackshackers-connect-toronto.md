@@ -1,15 +1,13 @@
 ---
 title: Registration opens for Hacks/Hackers Connect Toronto
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-08-29"
 _migration:
   id: 17593
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Happy Monday, hacks and hackers. Quite a few chapters are taking a break this week after a [whirlwind of activity last week][1], and Buenos Aires just wrapped up the [Media Party][2] yesterday. Check out the Chapter Spotlight for some of the highlights of that conference.

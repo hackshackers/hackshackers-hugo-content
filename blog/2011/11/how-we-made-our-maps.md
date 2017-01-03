@@ -1,22 +1,23 @@
 ---
 title: How we made our maps | Hacks/Hackers NYC
-tags:
-- census
-- Google FusionTables
-- mapping
-- nyc
-- propublica
-- Wall Street Journal
-- WNYC
-categories:
-- Meetups
-- New York City
 authors:
 - Lam Thuy Vo
 date: "2011-11-06"
 _migration:
   id: 3922
-  timestamp: 1482973856
+  timestamp: 1483471667
+tags:
+- census
+- Google Fusion Tables
+- Maps
+- nyc
+- ProPublica
+- Wall Street Journal
+- WNYC
+categories:
+- Meetups
+groups:
+- New York
 ---
 
 When a story is best told through a visual representation of geography, maps are often the best way of telling it. Three journalists joined [Hacks/Hackers NYC][1] to explain how they approached mapmaking for their recent projects. Slides and code from their presentations are available in [this link bundle][2].

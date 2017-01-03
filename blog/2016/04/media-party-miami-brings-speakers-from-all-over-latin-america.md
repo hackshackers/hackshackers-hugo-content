@@ -1,15 +1,13 @@
 ---
 title: Media Party Miami brings speakers from all over Latin America
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-04-08"
 _migration:
   id: 17429
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Greetings, hacks and hackers! It’s just one week til [Connect Austin][1], and in the meantime, Miami is staging a mediathon, Karachi is learning Instagram, and London is nabbing data guru Simon Rogers for its monthly meetup.

@@ -1,17 +1,17 @@
 ---
 title: 'Hacks/Hackers Austin: Innovation in Media'
-tags:
-- Austin
-- innovation
-categories:
-- Austin
-- Meetups
 authors:
 - Cindy Royal
 date: "2013-02-02"
 _migration:
   id: 16783
-  timestamp: 1482973853
+  timestamp: 1483471665
+groups:
+- Austin
+tags:
+- innovation
+categories:
+- Meetups
 ---
 
 {{< figure src="http://photos3.meetupstatic.com/photos/event/4/f/a/8/600_200840392.jpeg" >}}

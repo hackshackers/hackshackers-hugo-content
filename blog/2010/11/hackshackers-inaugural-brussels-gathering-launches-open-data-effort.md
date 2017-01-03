@@ -1,15 +1,15 @@
 ---
 title: Hacks/Hackers inaugural Brussels gathering launches open data effort
-tags:
-- Brussels
-categories:
-- News
 authors:
 - Damien Van Achter
 date: "2010-11-19"
 _migration:
   id: 1442
-  timestamp: 1482973865
+  timestamp: 1483471678
+groups:
+- Brussels
+categories:
+- News
 ---
 
 Journalists and developers at the first Hacks/Hackers event in Belgium launched an effort Thursday to gather information on open databases in the country and on the European Parliament and Commission.

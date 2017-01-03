@@ -1,15 +1,13 @@
 ---
 title: Dublin (and others) traverse the digital frontier
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-11-04"
 _migration:
   id: 17664
-  timestamp: 1482973849
+  timestamp: 1483471659
+categories:
+- Newsletter
 ---
 
 Greetings, hacks and hackers. By the time you read this next newsletter, the American president will have been chosen (finally), so let&#8217;s take a look at what other countries are up to in the meantime.

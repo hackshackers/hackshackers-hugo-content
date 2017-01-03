@@ -1,20 +1,20 @@
 ---
 title: Don&#8217;t mistake your CMS for a development platform
+authors:
+- Scott Klein
+date: "2010-04-13"
+_migration:
+  id: 353
+  timestamp: 1483471679
 tags:
 - content management system
 - development
 - news applications
 categories:
 - News
-authors:
-- Scott Klein
-date: "2010-04-13"
-_migration:
-  id: 353
-  timestamp: 1482973867
-description: "You\u2019ll be quicker and have happier programmers if you leave the
-  CMS to what it\u2019s really good at, and let the newsroom developers use MVC frameworks
-  like Django and Ruby on Rails."
+description: You’ll be quicker and have happier programmers if you leave the CMS to
+  what it’s really good at, and let the newsroom developers use MVC frameworks like
+  Django and Ruby on Rails.
 ---
 
 The Washington Post was an early pioneer in building interactive journalism applications, hiring luminaries no less bright than Adrian Holovaty and Derek Willis, among others. But they admit they’ve fallen behind in recent years.

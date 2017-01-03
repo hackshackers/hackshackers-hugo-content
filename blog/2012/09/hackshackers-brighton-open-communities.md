@@ -1,18 +1,15 @@
 ---
 title: 'Hacks/Hackers Brighton: Open communities'
-tags:
-- aral balkan
-- brighton
-- joanna geary
-categories:
-- Brighton
-- Meetups
 authors:
 - Sarah Marshall
 date: "2012-09-13"
 _migration:
   id: 16525
-  timestamp: 1482973854
+  timestamp: 1483471666
+groups:
+- Brighton
+categories:
+- Meetups
 ---
 
 _

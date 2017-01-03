@@ -1,18 +1,18 @@
 ---
 title: Awesomest Journalism Party. Ever @ SXSW
-tags:
-- Austin
-- SXSW
-categories:
-- Announcements
-- Austin
-- News
 authors:
 - Cindy Royal
 date: "2011-03-01"
 _migration:
   id: 2024
-  timestamp: 1482973864
+  timestamp: 1483471676
+groups:
+- Austin
+tags:
+- SXSW
+categories:
+- Announcements
+- News
 ---
 
 {{< figure link="http://awesomest.journalismparty.com/ever/" src="/content-images/blog/2011/02/title.jpg" >}}

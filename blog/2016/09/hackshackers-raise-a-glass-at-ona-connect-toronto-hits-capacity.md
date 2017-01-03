@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers raise a glass at ONA; Connect Toronto hits capacity
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-09-19"
 _migration:
   id: 17610
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 The Online Journalism Association held its [yearly conference][1] this weekend in Denver, Colorado, and Hacks/Hackers was there to celebrate. [Abigail Edge][2] has managed to drum up significant interest &#8211; including sponsors! &#8211; for the relatively new [Colorado chapter][3] by holding happy hours during national events like [NICAR][4].

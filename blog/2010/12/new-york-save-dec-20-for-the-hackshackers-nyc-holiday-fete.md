@@ -1,17 +1,18 @@
 ---
-title: "New York, RSVP for the Dec. 20 Hacks/Hackers NYC Holiday F\xEAte"
-tags:
-- holiday party
-categories:
-- Announcements
-- New York City
-- News
+title: New York, RSVP for the Dec. 20 Hacks/Hackers NYC Holiday Fête
 authors:
 - Chrys Wu
 date: "2010-12-05"
 _migration:
   id: 1695
-  timestamp: 1482973864
+  timestamp: 1483471677
+tags:
+- Happy Holidays!
+categories:
+- Announcements
+- News
+groups:
+- New York
 ---
 
 {{< figure link="/content-images/blog/2010/12/hh\_holiday\_logo.png" src="/content-images/blog/2010/12/hh\_holiday\_logo-300x192.png" >}}

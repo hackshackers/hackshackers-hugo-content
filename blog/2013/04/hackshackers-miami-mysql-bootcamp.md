@@ -1,15 +1,15 @@
 ---
 title: 'Hacks/Hackers Miami: MySQL bootcamp'
-tags: []
-categories:
-- Meetups
-- Miami
 authors:
 - Rebekah Monson
 date: "2013-04-19"
 _migration:
   id: 16877
-  timestamp: 1482973853
+  timestamp: 1483471664
+categories:
+- Meetups
+groups:
+- Miami
 ---
 
 {{< figure src="http://photos1.meetupstatic.com/photos/event/7/6/e/highres_224881902.jpeg" alt="Hacks/Hackers Miami MySQL bootcamp" >}}

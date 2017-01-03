@@ -1,15 +1,13 @@
 ---
 title: Miami plans its first Media Party; Brisbane relaunches
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-04-01"
 _migration:
   id: 17417
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Happy Friday, hacks and hackers! I thought about putting an April Fool’s joke in here, but don’t worry. I wouldn’t do that to you.

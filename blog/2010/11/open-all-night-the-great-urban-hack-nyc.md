@@ -1,20 +1,20 @@
 ---
 title: 'Open All Night: The Great Urban Hack NYC'
-tags:
-- collaboration
-- Great Urban Hack
-- hack day
-- hackathon
-categories:
-- Hackathons
-- New York City
-- News
 authors:
 - John Keefe
 date: "2010-11-08"
 _migration:
   id: 1238
-  timestamp: 1482973865
+  timestamp: 1483471678
+tags:
+- collaboration
+- Great Urban Hack
+- hack day
+- Hackathons
+groups:
+- New York
+categories:
+- News
 ---
 
 **

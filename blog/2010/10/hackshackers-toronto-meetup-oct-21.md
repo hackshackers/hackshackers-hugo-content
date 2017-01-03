@@ -1,18 +1,16 @@
 ---
 title: Hacks/Hackers Toronto Meetup Oct. 21
-tags:
-- meetup
-- toronto
-- toronto meetup
-categories:
-- Meetups
-- News
 authors:
 - Craig Silverman
 date: "2010-10-13"
 _migration:
   id: 1015
-  timestamp: 1482973866
+  timestamp: 1483471678
+categories:
+- Meetups
+- News
+groups:
+- Toronto
 ---
 
 Hacks/Hackers is coming to Canada.

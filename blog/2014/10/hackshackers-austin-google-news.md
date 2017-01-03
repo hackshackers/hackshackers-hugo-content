@@ -1,15 +1,13 @@
 ---
 title: 'Hacks/Hackers Austin: Google News'
-tags:
-- Austin
-categories:
-- Austin
 authors:
 - Cindy Royal
 date: "2014-10-26"
 _migration:
   id: 17216
-  timestamp: 1482973850
+  timestamp: 1483471661
+groups:
+- Austin
 ---
 
 {{< figure src="http://photos2.meetupstatic.com/photos/event/3/5/5/e/600_425953662.jpeg" >}}

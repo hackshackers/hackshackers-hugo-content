@@ -1,19 +1,20 @@
 ---
 title: Announcing new Connect events in SF, London &#038; NYC
-tags:
-- Connect
-- events
-categories:
-- Announcements
-- Bay Area
-- London
-- New York City
 authors:
 - Julia Haslanger
 date: "2015-11-19"
 _migration:
   id: 17355
-  timestamp: 1482973850
+  timestamp: 1483471661
+tags:
+- Connect
+- events
+categories:
+- Announcements
+groups:
+- Bay Area
+- London
+- New York
 ---
 
 

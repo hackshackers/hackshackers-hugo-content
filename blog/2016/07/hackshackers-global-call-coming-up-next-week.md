@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers global call coming up tomorrow!
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-07-04"
 _migration:
   id: 17522
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Welcome to July, hacks and hackers! In the first half of 2016, H/H chapters held nearly 100 meetups in dozens of cities. We also held seven [Connect events][1] from San Francisco to London, with another coming up in [Toronto in a couple months][2].

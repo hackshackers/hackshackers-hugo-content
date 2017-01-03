@@ -1,15 +1,15 @@
 ---
 title: 'Introducing Hacks/Hackers Twin Cities! #hhtc'
-tags: []
-categories:
-- News
-- Twin Cities
 authors:
 - pedstrom
 date: "2011-04-15"
 _migration:
   id: 2619
-  timestamp: 1482973863
+  timestamp: 1483471676
+categories:
+- News
+groups:
+- Twin Cities
 ---
 
 [Public Radio International][1] and [Minne*][2] are joining forces to launch the [Twin Cities Chapter of Hacks/Hackers][3].  We are excited to have our fledgling chapter join the good company of chapters spreading from the [Bay Area][4] to [NYC][5], to [Buenos Aires][6].

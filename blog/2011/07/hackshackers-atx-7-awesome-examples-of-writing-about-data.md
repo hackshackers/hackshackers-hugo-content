@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers ATX &#8211; 7 Awesome Examples of Writing About Data
-tags:
-- Austin
-categories:
-- Austin
 authors:
 - Cindy Royal
 date: "2011-07-10"
 _migration:
   id: 3278
-  timestamp: 1482973857
+  timestamp: 1483471668
+groups:
+- Austin
 ---
 
 {{< figure link="http://hackshackers.com/blog/2011/07/10/hackshackers-atx-7-awesome-examples-of-writing-about-data/kristen/" src="/content-images/blog/2011/07/kristen.jpg" >}}

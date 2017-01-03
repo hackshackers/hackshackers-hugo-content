@@ -1,15 +1,13 @@
 ---
 title: Investigative journalists gather in Asia, Africa, Middle East
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-10-07"
 _migration:
   id: 17625
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Welcome to October, hacks and hackers! The [Investigating Asia conference][1] took place in Kathmandu last week, as did digital journalism convenings on practically every other continent.

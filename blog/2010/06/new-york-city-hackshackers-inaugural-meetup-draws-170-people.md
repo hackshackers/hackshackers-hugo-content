@@ -1,18 +1,16 @@
 ---
 title: New York City Hacks/Hackers Inaugural Meetup Draws 170 People
-tags:
-- meetup
-- new york
-categories:
-- Meetups
-- New York City
-- News
 authors:
 - Jennifer 8. Lee
 date: "2010-06-10"
 _migration:
   id: 448
-  timestamp: 1482973867
+  timestamp: 1483471679
+categories:
+- Meetups
+- News
+groups:
+- New York
 ---
 
 {{< figure link="http://meetupnyc.hackshackers.com/photos/947426/" src="http://photos2.meetupstatic.com/photos/event/d/5/1/8/event_15594552.jpeg" alt="New York City June 2 Meetup at Chinatown Brasserie" >}}

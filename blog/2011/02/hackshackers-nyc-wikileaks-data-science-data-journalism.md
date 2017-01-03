@@ -1,20 +1,21 @@
 ---
 title: 'Hacks/Hackers NYC: Wikileaks &#8211; Data Science &#038; Data Journalism'
-tags:
-- data visualization
-- meetup
-- new york times
-- Wikileaks
-categories:
-- Announcements
-- New York City
-- News
 authors:
 - Chrys Wu
 date: "2011-02-20"
 _migration:
   id: 2025
-  timestamp: 1482973864
+  timestamp: 1483471676
+tags:
+- data visualization
+- New York Times
+- Wikileaks
+categories:
+- Meetups
+- Announcements
+- News
+groups:
+- New York
 ---
 
 When WikiLeaks released the Afghanistan and Iraq war logs, news organizations and the public alike sprang into action to understand the documents.

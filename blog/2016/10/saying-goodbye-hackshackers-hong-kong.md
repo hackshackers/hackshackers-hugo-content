@@ -1,14 +1,13 @@
 ---
 title: Saying goodbye to Hacks/Hackers Hong Kong
-tags: []
-categories:
-- News
 authors:
 - samanthasunne
 date: "2016-10-19"
 _migration:
   id: 17639
-  timestamp: 1482973849
+  timestamp: 1483471659
+categories:
+- News
 ---
 
 **by [Cedric Sam][1]**

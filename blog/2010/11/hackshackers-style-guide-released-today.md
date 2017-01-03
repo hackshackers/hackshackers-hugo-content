@@ -1,17 +1,17 @@
 ---
 title: Hacks/Hackers style guide released today
+authors:
+- Beth Davidz
+date: "2010-11-30"
+_migration:
+  id: 1529
+  timestamp: 1483471677
 tags:
 - logos
 - style guide
 categories:
 - Announcements
 - News
-authors:
-- Beth Davidz
-date: "2010-11-30"
-_migration:
-  id: 1529
-  timestamp: 1482973864
 ---
 
 {{< figure link="/content-images/blog/2010/11/hh\_styleguide\_113010.pdf" src="/content-images/blog/2010/11/style\_guide\_180.jpg" >}}

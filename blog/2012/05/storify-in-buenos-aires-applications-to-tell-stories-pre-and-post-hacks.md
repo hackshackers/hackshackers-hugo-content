@@ -1,16 +1,17 @@
 ---
 title: Storify in Buenos Aires! Applications to tell stories. Pre and post hacks.
-tags: []
-categories:
-- Buenos Aires
-- Demos
-- Latin America
 authors:
 - Mariano Blejman
 date: "2012-05-11"
 _migration:
   id: 11200
-  timestamp: 1482973855
+  timestamp: 1483471666
+groups:
+- Buenos Aires
+categories:
+- Demos
+tags:
+- Latin America
 ---
 
 {{< figure link="http://hackshackers.com/blog/2012/05/11/storify-in-buenos-aires-applications-to-tell-stories-pre-and-post-hacks/tumblr\_m0h769pqny1r8u1sp/" src="/content-images/blog/2012/05/tumblr\_m0h769pQnY1r8u1sp-300x164.jpg" >}}

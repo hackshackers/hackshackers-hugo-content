@@ -1,15 +1,13 @@
 ---
 title: Hacking public transit with HackDash
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-11-25"
 _migration:
   id: 17680
-  timestamp: 1482973849
+  timestamp: 1483471659
+categories:
+- Newsletter
 ---
 
 Greetings, hacks and hackers. A lot of the suggested reads this week follow the same trends as last week: cybersecurity and privacy, fake news and press freedom. On the plus side, there&#8217;s a veritable deluge of journalism job postings this week, from San Francisco to Hong Kong to Johannesburg.

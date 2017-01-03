@@ -1,23 +1,22 @@
 ---
-title: "Retour sur la 1\xE8re \xE9dition de Hacks/Hackers Paris."
-tags:
-- apps
-- data
-- "Lib\xE9ration"
-- Paris
-- rue89
-categories:
-- Meetups
-- Paris
+title: Retour sur la 1ère édition de Hacks/Hackers Paris.
 authors:
 - Mael Inizan
 date: "2012-09-19"
 _migration:
   id: 16547
-  timestamp: 1482973853
-description: "Le meetup inaugural de Hacks/Hackers Paris a eu lieu le 28 ao\xFBt dans
-  les locaux de la r\xE9daction de StreetPress. Entre deux retours d'exp\xE9riences,
-  quelques id\xE9es et rencontres pour l'avenir."
+  timestamp: 1483471665
+tags:
+- Apps
+- data
+- rue89
+groups:
+- Paris
+categories:
+- Meetups
+description: Le meetup inaugural de Hacks/Hackers Paris a eu lieu le 28 août dans
+  les locaux de la rédaction de StreetPress. Entre deux retours d'expériences, quelques
+  idées et rencontres pour l'avenir.
 ---
 
 **“Comment le travail entre journalistes et développeurs peut-il améliorer l’information ?” : retour sur le meetup inaugural de Hacks/Hackers Paris**

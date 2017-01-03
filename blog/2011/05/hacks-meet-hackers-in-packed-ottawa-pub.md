@@ -1,21 +1,19 @@
 ---
 title: Hacks meet Hackers in packed Ottawa pub
-tags:
-- data visualization
-- dataviz
-- meetup
-- ottawa
-- politics
-categories:
-- Meetups
-- News
-- Ottawa
 authors:
 - Nick Taylor-Vaisey
 date: "2011-05-17"
 _migration:
   id: 2930
-  timestamp: 1482973863
+  timestamp: 1483471675
+tags:
+- data visualization
+- politics
+categories:
+- Meetups
+- News
+groups:
+- Ottawa
 ---
 
 ![Hacks/Hackers Ottawa logo][1]Walking and biking to work is most popular in Nunavut. Canada’s federal Conservative Party raises more funds through personal donations than the rival Liberal Party does overall. And in Ottawa, you’re most likely to get a parking ticket on Lynda Lane, not far from the Ottawa Hospital.

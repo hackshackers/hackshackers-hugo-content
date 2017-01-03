@@ -1,18 +1,19 @@
 ---
-title: "\xA1Demo Day en Buenos Aires y hackat\xF3n en Rosario!"
-tags: []
-categories:
-- Announcements
-- Buenos Aires
-- Latin America
-- Meetups
-- News
+title: ¡Demo Day en Buenos Aires y hackatón en Rosario!
 authors:
 - Mariano Blejman
 date: "2011-06-01"
 _migration:
   id: 3012
-  timestamp: 1482973857
+  timestamp: 1483471668
+categories:
+- Announcements
+- Meetups
+- News
+groups:
+- Buenos Aires
+tags:
+- Latin America
 ---
 
 [This post also in english][1]

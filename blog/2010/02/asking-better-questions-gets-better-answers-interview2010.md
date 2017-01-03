@@ -1,18 +1,17 @@
 ---
 title: 'Asking better questions gets better answers: Interview2010'
-tags:
-- answer system
-- news tools
-- personalized news
-- question and answer
-categories:
-- News
 authors:
 - Burt Herman
 date: "2010-02-28"
 _migration:
   id: 190
-  timestamp: 1482973867
+  timestamp: 1483471679
+tags:
+- news tools
+- personalized news
+- question and answer
+categories:
+- News
 ---
 
 Asking the right questions is critical in getting compelling answers from sources, as all reporters know. A problem with online comments is that they are often unfocused and off-topic given the open nature of many commenting systems.

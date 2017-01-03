@@ -1,17 +1,17 @@
 ---
 title: London 5/28 Design Jam by Mozilla, Knight, the Guardian, and Hacks/Hackers
   London
-tags: []
-categories:
-- Announcements
-- London
-- News
 authors:
 - Jennifer 8. Lee
 date: "2011-05-25"
 _migration:
   id: 2977
-  timestamp: 1482973863
+  timestamp: 1483471675
+categories:
+- Announcements
+- News
+groups:
+- London
 ---
 
 Do you have **ideas for how news and journalism can be edgier**, cooler, and more interactive online? Are you a web developer? A designer? A news junkie with a hankering to hack?

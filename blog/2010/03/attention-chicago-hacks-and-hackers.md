@@ -1,14 +1,13 @@
 ---
 title: Attention, Chicago hacks and hackers!
-tags: []
-categories:
-- News
 authors:
 - Rich Gordon
 date: "2010-03-23"
 _migration:
   id: 286
-  timestamp: 1482973867
+  timestamp: 1483471679
+categories:
+- News
 ---
 
 The Online News Association, the premier organization for online journalists, is holding a [meetup Wednesday night][1] (March 24), and you are invited.  It&#8217;s not an official Hacks/Hackers event, but it&#8217;s a chance to network with Chicago area online journalists. Location: the [Holiday Club][2], 4000 N. Sheridan Rd. (near Sheridan and Irving Park).

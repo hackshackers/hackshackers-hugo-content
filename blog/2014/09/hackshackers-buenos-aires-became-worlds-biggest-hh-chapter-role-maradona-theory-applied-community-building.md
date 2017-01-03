@@ -1,14 +1,12 @@
 ---
-title: "How Hacks/Hackers Buenos Aires became the world\u2019s biggest HH chapter,
-  or the role of the \u201CMaradona theory\u201D applied to community-building"
-tags: []
-categories: []
+title: How Hacks/Hackers Buenos Aires became the world’s biggest HH chapter, or the
+  role of the “Maradona theory” applied to community-building
 authors:
 - Mariano Blejman
 date: "2014-09-26"
 _migration:
   id: 17193
-  timestamp: 1482973850
+  timestamp: 1483471661
 ---
 
 <figure> 

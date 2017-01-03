@@ -1,17 +1,18 @@
 ---
-title: "Retenci\xF3n de datos en Demo Day / Visualizaci\xF3n en HTML5 en Hackat\xF3n"
-tags: []
-categories:
-- Buenos Aires
-- Demo
-- Hackathons
-- Latin America
+title: Retención de datos en Demo Day / Visualización en HTML5 en Hackatón
 authors:
 - Mariano Blejman
 date: "2011-06-22"
 _migration:
   id: 3237
-  timestamp: 1482973857
+  timestamp: 1483471668
+groups:
+- Buenos Aires
+categories:
+- Demos
+tags:
+- Hackathons
+- Latin America
 ---
 
 [This post is also in english][1]

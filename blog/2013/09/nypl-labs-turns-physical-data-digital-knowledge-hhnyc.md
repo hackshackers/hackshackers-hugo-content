@@ -1,8 +1,14 @@
 ---
 title: How NYPL Labs Turns Physical Data Into Digital Knowledge, a Hacks/Hackers NYC
   guest post
+authors:
+- Chrys Wu
+date: "2013-09-16"
+_migration:
+  id: 17060
+  timestamp: 1483471663
 tags:
-- maps
+- Maps
 - New York Public Library
 - NYPL Labs
 - public participation
@@ -10,13 +16,8 @@ tags:
 - video
 categories:
 - Meetups
-- New York City
-authors:
-- Chrys Wu
-date: "2013-09-16"
-_migration:
-  id: 17060
-  timestamp: 1482973852
+groups:
+- New York
 ---
 
 {{< figure link="http://www.nypl.org/collections/labs" src="http://newyorkfamilyhistory.org/sites/default/files/nypl\_logo1\_0.gif" alt="New York Public Library" >}}

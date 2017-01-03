@@ -1,16 +1,15 @@
 ---
 title: 'Hacks/Hackers Austin: Innovation at the Texas Tribune'
-tags:
-- Austin
-- texas tribune
-categories:
-- Austin
 authors:
 - Cindy Royal
 date: "2012-09-11"
 _migration:
   id: 16509
-  timestamp: 1482973854
+  timestamp: 1483471666
+groups:
+- Austin
+tags:
+- texas tribune
 ---
 
 {{< figure link="http://hackshackers.com/blog/2012/09/11/hackshackers-austin-innovation-at-the-texas-tribune/hh1/" src="/content-images/blog/2012/09/hh1-300x225.jpg" >}}

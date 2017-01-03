@@ -1,16 +1,14 @@
 ---
 title: 'Newsletter: Nov. 18, 2015: Hacks and hackers gathering in Munich, Lima, Los
   Angeles and more | Spotlight on Buenos Aires'
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - Julia Haslanger
 date: "2015-11-18"
 _migration:
   id: 17351
-  timestamp: 1482973850
+  timestamp: 1483471661
+categories:
+- Newsletter
 ---
 
 Happy Wednesday! Watch for news soon from Hacks/Hackers about the next [Connect][1] events in New York, San Francisco and London.

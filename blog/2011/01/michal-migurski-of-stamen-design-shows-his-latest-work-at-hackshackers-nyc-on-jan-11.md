@@ -1,18 +1,19 @@
 ---
 title: Michal Migurski of Stamen Design shows his latest work at Hacks/Hackers NYC
   on Jan. 11
-tags: []
-categories:
-- Hackathons
-- Meetups
-- New York City
-- News
 authors:
 - Jennifer 8. Lee
 date: "2011-01-06"
 _migration:
   id: 1793
-  timestamp: 1482973864
+  timestamp: 1483471676
+tags:
+- Hackathons
+categories:
+- Meetups
+- News
+groups:
+- New York
 ---
 
 **Stamen Design** has developed a reputation as one of the country&#8217;s leading interactive design and data visualization studios. Its director of technology, [**Michal Migurski**][1], will [join Hacks/Hackers NYC to talk about his latest project][2], [This Tract][3], which combines government census data, data visualization tools, map tools and geolocation to better understand the area near where you are.

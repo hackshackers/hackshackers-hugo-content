@@ -1,16 +1,16 @@
 ---
 title: 'Hacks/Hackers NYC and Facebook: Making Your News Social'
-tags: []
-categories:
-- Meetups
-- New York City
-- News
 authors:
 - Chrys Wu
 date: "2010-10-01"
 _migration:
   id: 834
-  timestamp: 1482973866
+  timestamp: 1483471678
+categories:
+- Meetups
+- News
+groups:
+- New York
 ---
 
 (_Photo of the Hacks/Hackers NYC [meetup][1] at [OpenPlans][2] by [Dan Nguyen/Flickr][3]_)

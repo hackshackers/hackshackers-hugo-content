@@ -1,16 +1,15 @@
 ---
 title: Jacqui Maher of The New York Times Talks About News Interactives in Austin
-tags:
-- Austin
-categories:
-- Austin
-- News
 authors:
 - Cindy Royal
 date: "2010-11-02"
 _migration:
   id: 1174
-  timestamp: 1482973866
+  timestamp: 1483471678
+groups:
+- Austin
+categories:
+- News
 ---
 
 On October 26, Hacks/Hackers ATX welcomed Jacqui Maher of [The New York Times][1] Interactive News Technology group to discuss data-driven news interactives. The event was held at the offices of the [Texas Tribune][2], with food sponsored by delicious [Home Slice Pizza][3]. Jacqui demonstrated projects, including the award-winning [Toxic Waters][4], and then discussed ways in which programmers and journalists could collaborate. See her entire talk in the video below.

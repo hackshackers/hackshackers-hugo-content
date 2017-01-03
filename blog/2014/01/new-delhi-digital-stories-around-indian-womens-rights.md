@@ -1,15 +1,15 @@
 ---
-title: "New Delhi: Digital Stories Around Indian Women\u2019s Rights"
-tags: []
-categories:
-- Meetups
-- New Delhi
+title: 'New Delhi: Digital Stories Around Indian Women’s Rights'
 authors:
 - Anika Gupta
 date: "2014-01-27"
 _migration:
   id: 17123
-  timestamp: 1482973852
+  timestamp: 1483471663
+categories:
+- Meetups
+groups:
+- New Delhi
 ---
 
 From Dec. 7-8, 2013, activists, journalists, researchers, and coders met up at [91springboard][1] in New Delhi to look at data about women’s rights in India, and find ways to create apps and multimedia stories that talked about women’s experiences in ways they hadn’t been talked about before.

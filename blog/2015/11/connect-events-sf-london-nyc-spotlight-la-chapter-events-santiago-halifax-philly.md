@@ -1,16 +1,14 @@
 ---
 title: Connect events SF, London, NYC | Spotlight on LA | Chapter events in Santiago,
   Halifax, Philly
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - Julia Haslanger
 date: "2015-11-25"
 _migration:
   id: 17367
-  timestamp: 1482973850
+  timestamp: 1483471661
+categories:
+- Newsletter
 ---
 
 [Hacks/Hackers Connect][1], the launchpad event series for news-media entrepreneurs developed in partnership with Google News Labs, is on the road again. Mark your calendars now for the next three events:

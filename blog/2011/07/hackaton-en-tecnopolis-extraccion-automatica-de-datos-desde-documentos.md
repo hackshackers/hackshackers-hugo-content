@@ -1,18 +1,18 @@
 ---
-title: "Hackat\xF3n en Tecn\xF3polis Argentina: extracci\xF3n autom\xE1tica de datos
-  desde documentos"
-tags: []
-categories:
-- Buenos Aires
-- Hackathons
-- Latin America
-- News
+title: 'Hackatón en Tecnópolis Argentina: extracción automática de datos desde documentos'
 authors:
 - Mariano Blejman
 date: "2011-07-29"
 _migration:
   id: 3373
-  timestamp: 1482973857
+  timestamp: 1483471668
+groups:
+- Buenos Aires
+tags:
+- Hackathons
+- Latin America
+categories:
+- News
 ---
 
 [English post here!][1]**[

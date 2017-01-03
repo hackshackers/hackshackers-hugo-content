@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers ATX, Ryan Murphy, Texas Tribune, Nov. 1, 2011
-tags:
-- Austin
-categories:
-- Austin
 authors:
 - Cindy Royal
 date: "2011-11-11"
 _migration:
   id: 3964
-  timestamp: 1482973856
+  timestamp: 1483471667
+groups:
+- Austin
 ---
 
 {{< figure src="http://photos4.meetupstatic.com/photos/event/b/a/d/8/event_71747832.jpeg" >}}

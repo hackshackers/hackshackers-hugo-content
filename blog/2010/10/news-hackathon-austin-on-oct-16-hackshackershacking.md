@@ -1,18 +1,17 @@
 ---
 title: 'News Hackathon Austin on Oct. 16: Hacks/Hackers/Hacking'
-tags:
-- Austin
-- hackathon
-categories:
-- Austin
-- Hackathons
-- News
 authors:
 - Cindy Royal
 date: "2010-10-04"
 _migration:
   id: 886
-  timestamp: 1482973866
+  timestamp: 1483471678
+groups:
+- Austin
+tags:
+- Hackathons
+categories:
+- News
 ---
 
 {{< figure link="/content-images/blog/2010/10/meetupaustin.gif" src="/content-images/blog/2010/10/meetupaustin.gif" >}}

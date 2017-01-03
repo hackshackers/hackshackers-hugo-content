@@ -1,14 +1,13 @@
 ---
 title: Hacks/Hackers Survival Glossary Featured on Poynter.org
-tags: []
-categories:
-- News
 authors:
 - Jennifer 8. Lee
 date: "2010-06-28"
 _migration:
   id: 582
-  timestamp: 1482973867
+  timestamp: 1483471679
+categories:
+- News
 ---
 
 Our crowdsourced [Hacks/Hackers Survival Glossary][1] Version 1.0 [debuted on the Poynter website][2]. Thanks to everyone who helped: [Jennifer 8. Lee][3] [Burt Herman][4], Robin Smail, [David Cohn][5], Michelle Minkoff, [Michael Donohoe][6], Greg Linch, John Keefe, Philip Neustrom, [Chris Amico][7], Ashley Marty, Morgan Sully, [Shmuel Ross][8], [Paul Henrich][9], [Dave Goodchild][10], [Michele McLellan][11], and Jessica Chapel.

@@ -1,14 +1,13 @@
 ---
-title: "Hacks/Hackers S\xE3o Paulo holds its first hackathon 20 October"
-tags: []
-categories:
-- "S\xE3o Paulo"
+title: Hacks/Hackers São Paulo holds its first hackathon 20 October
 authors:
 - Gustavo Faleiros
 date: "2012-10-01"
 _migration:
   id: 16563
-  timestamp: 1482973853
+  timestamp: 1483471665
+groups:
+- São Paulo
 ---
 
 {{< figure src="http://www.camara.sp.gov.br/novo/images/stories/hackers-1382012-rtto_\_8334\_2-72-abre.jpg" alt="Hacks/Hackers São Paulo MySQL workshop" >}}

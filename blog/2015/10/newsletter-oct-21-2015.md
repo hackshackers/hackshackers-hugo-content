@@ -1,15 +1,13 @@
 ---
 title: 'Newsletter: Oct. 21, 2015'
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - Julia Haslanger
 date: "2015-10-21"
 _migration:
   id: 17332
-  timestamp: 1482973850
+  timestamp: 1483471661
+categories:
+- Newsletter
 ---
 
 Happy Wednesday. Hacks/Hackers Austin [celebrated its 5th birthday last night][1] with cake, tacos and an [event on media innovation][2]. Cheers to another 5 years!

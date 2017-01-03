@@ -1,17 +1,17 @@
 ---
 title: Demo Day 2 at Hacks/Hackers NYC on April 5
-tags: []
-categories:
-- Demos
-- Meetups
-- New York City
-- News
 authors:
 - Jennifer 8. Lee
 date: "2011-03-11"
 _migration:
   id: 2146
-  timestamp: 1482973864
+  timestamp: 1483471676
+categories:
+- Demos
+- Meetups
+- News
+groups:
+- New York
 ---
 
 In December, we had held a [Demo Day][1] with 5-minute lightning talks (presentations) from ProPublica, OpenGovernment.org, Slate, TPM and others.

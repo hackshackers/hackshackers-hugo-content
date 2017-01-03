@@ -1,21 +1,20 @@
 ---
 title: 'Hacks/Hackers NYC: Download Investigative Journalism Icons for Free'
-tags:
-- design
-- hackathon
-- iconathon
-- icons
-- investigative journalism
-- The Noun Project
-categories:
-- Hackathons
-- New York City
 authors:
 - Chrys Wu
 date: "2013-04-19"
 _migration:
   id: 14200
-  timestamp: 1482973852
+  timestamp: 1483471664
+tags:
+- design
+- Hackathons
+- iconathon
+- icons
+- investigative journalism
+- The Noun Project
+groups:
+- New York
 ---
 
 [![Hacks/Hackers NYC Noun Project investigative journalism iconathon drone][1]][2]

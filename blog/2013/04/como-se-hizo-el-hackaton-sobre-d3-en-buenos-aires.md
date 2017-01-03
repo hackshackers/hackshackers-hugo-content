@@ -1,13 +1,11 @@
 ---
-title: "C\xF3mo se hizo el hackat\xF3n sobre D3.js en Buenos Aires"
-tags: []
-categories: []
+title: Cómo se hizo el hackatón sobre D3.js en Buenos Aires
 authors:
 - Mariano Blejman
 date: "2013-04-24"
 _migration:
   id: 16895
-  timestamp: 1482973852
+  timestamp: 1483471664
 ---
 
 {{< figure src="http://photos1.meetupstatic.com/photos/event/5/d/7/2/event_226703922.jpeg" >}}

@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers cover tragedies, humanitarian issues
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-06-17"
 _migration:
   id: 17513
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Welcome to the weekend, hacks and hackers. The media world, and the rest of the world, was rocked by news of the largest mass shooting in U.S. history. Poynter [wrote an article][1] on how the Orlando Sentinel, which has had two-thirds of its staff cut over the years, covered one of the most intense and devastating events in its history. The New York Times [made an animated presentation][2] of how its design and publication of the news changed as the story evolved.

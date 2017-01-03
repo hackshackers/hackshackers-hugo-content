@@ -1,5 +1,11 @@
 ---
 title: Highlights from the Hacks/Hackers party at Gawker
+authors:
+- Burt Herman
+date: "2010-09-09"
+_migration:
+  id: 753
+  timestamp: 1483471678
 tags:
 - events
 - gawker
@@ -7,13 +13,8 @@ tags:
 - social
 categories:
 - Meetups
-- New York City
 - News
-authors:
-- Burt Herman
-date: "2010-09-09"
-_migration:
-  id: 753
-  timestamp: 1482973866
+groups:
+- New York
 ---
 

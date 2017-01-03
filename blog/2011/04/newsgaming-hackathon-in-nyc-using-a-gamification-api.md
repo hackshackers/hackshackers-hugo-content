@@ -1,15 +1,15 @@
 ---
 title: News+Gaming Hackathon in NYC. Using a Gamification API
-tags: []
-categories:
-- Gaming
-- News
 authors:
 - Jennifer 8. Lee
 date: "2011-04-23"
 _migration:
   id: 2694
-  timestamp: 1482973863
+  timestamp: 1483471675
+tags:
+- Gaming
+categories:
+- News
 ---
 
 {{< figure link="/content-images/blog/2011/04/BDI7606.jpg" src="/content-images/blog/2011/04/BDI7606-1024x709.jpg" >}}

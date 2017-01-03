@@ -1,17 +1,18 @@
 ---
 title: Headline guessing site wins News+Gaming Hackathon in NYC
-tags: []
-categories:
-- Gaming
-- Hackathons
-- New York City
-- News
 authors:
 - Jennifer 8. Lee
 date: "2011-04-24"
 _migration:
   id: 2705
-  timestamp: 1482973863
+  timestamp: 1483471675
+tags:
+- Gaming
+- Hackathons
+groups:
+- New York
+categories:
+- News
 ---
 
 {{< figure link="/content-images/blog/2011/04/Screen-shot-2011-04-24-at-11.17.51-PM.png" src="/content-images/blog/2011/04/Screen-shot-2011-04-24-at-11.17.51-PM.png" >}}

@@ -1,15 +1,13 @@
 ---
-title: "Hist\xF3rico: \xA1Ven\xED a la fiesta de tres d\xEDas @HacksHackers BA Media
-  Party!"
-tags: []
-categories:
-- Buenos Aires
+title: 'Histórico: ¡Vení a la fiesta de tres días @HacksHackers BA Media Party!'
 authors:
 - Mariano Blejman
 date: "2012-08-08"
 _migration:
   id: 16377
-  timestamp: 1482973854
+  timestamp: 1483471666
+groups:
+- Buenos Aires
 ---
 
 {{< figure link="http://hackshackers.com/blog/2012/08/08/historico-unite-a-la-fiesta-de-tres-dias-hackshackers-ba-media-party/historia-3/" src="/content-images/blog/2012/08/historia2.jpg" >}}

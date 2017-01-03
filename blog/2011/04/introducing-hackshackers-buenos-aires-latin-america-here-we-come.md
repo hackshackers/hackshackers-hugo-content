@@ -1,23 +1,21 @@
 ---
 title: Introducing Hacks/Hackers Buenos Aires. Latin America, here we come!
-tags:
-- aires
-- argentina
-- buenos
-- digital
-- Hacks/Hackers
-- journalism
-- software
-categories:
-- Buenos Aires
-- Latin America
-- News
 authors:
 - Mariano Blejman
 date: "2011-04-13"
 _migration:
   id: 2323
-  timestamp: 1482973863
+  timestamp: 1483471676
+tags:
+- Argentina
+- digital
+- journalism
+- software
+- Latin America
+groups:
+- Buenos Aires
+categories:
+- News
 ---
 
 _You can [also read this post in Spanish.][1] (We&#8217;ve gone bilingual!)_ 

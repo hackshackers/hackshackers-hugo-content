@@ -1,13 +1,11 @@
 ---
 title: First ever global Hacks/Hackers conference call on Sept. 1
-tags: []
-categories: []
 authors:
 - Burt Herman
 date: "2015-08-31"
 _migration:
   id: 17275
-  timestamp: 1482973850
+  timestamp: 1483471661
 ---
 
 Greetings from Buenos Aires!

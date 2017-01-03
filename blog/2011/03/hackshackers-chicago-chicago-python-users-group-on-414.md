@@ -1,17 +1,18 @@
 ---
 title: Hacks/Hackers Chicago + Chicago Python Users Group on 4/14
-tags:
-- python
-categories:
-- Chicago
-- Meetups
-- News
 authors:
 - Jennifer 8. Lee
 date: "2011-03-30"
 _migration:
   id: 2220
-  timestamp: 1482973864
+  timestamp: 1483471676
+tags:
+- python
+groups:
+- Chicago
+categories:
+- Meetups
+- News
 ---
 
 The Chicago Tribune News Applications team wants to introduce hacks to hackers, thus hosting [the April meeting of the Chicago Python Users Group][1] (ChiPy, [http://chipy.org][2]) and planning an agenda that should be of crossover interest to journalists and coders alike.

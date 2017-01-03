@@ -1,17 +1,15 @@
 ---
 title: Do hacks and hackers need a Q&amp;A community?
-tags: []
-categories:
-- Announcements
-- Classes
-- help.hackshackers.alley.dev
-- News
 authors:
 - Rich Gordon
 date: "2011-05-30"
 _migration:
   id: 2989
-  timestamp: 1482973863
+  timestamp: 1483471675
+categories:
+- Announcements
+- Classes
+- News
 ---
 
 Almost two years ago, a couple of people interested in computer programming in journalism brainstormed an idea for a website where software developers working in journalism and media could go to get solutions to their programming problems from their peers.

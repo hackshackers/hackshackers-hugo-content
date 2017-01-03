@@ -1,16 +1,15 @@
 ---
 title: 'Hacks/Hackers ATX: News Games and Analytics &#8211; May 3'
-tags:
-- Austin
-categories:
-- Austin
-- News
 authors:
 - Cindy Royal
 date: "2011-04-26"
 _migration:
   id: 2714
-  timestamp: 1482973863
+  timestamp: 1483471675
+groups:
+- Austin
+categories:
+- News
 ---
 
 Please join Hacks/Hackers ATX on Tues, May 3 at the [Texas Tribune][1], starting at 6:30pm. We&#8217;ll have refreshments sponsored by [Paintbrush Ranch Bed and Breakfast][2], thanks to Lewis Knight! We&#8217;ve decided to standardize meetings on the 1st Tuesday of each month, so mark your calendars accordingly.

@@ -1,15 +1,13 @@
 ---
 title: 'Hacks/Hackers ATX: Music and Racing'
-tags:
-- Austin
-categories:
-- Austin
 authors:
 - Cindy Royal
 date: "2012-11-16"
 _migration:
   id: 16681
-  timestamp: 1482973853
+  timestamp: 1483471665
+groups:
+- Austin
 ---
 
 {{< figure src="http://photos1.meetupstatic.com/photos/event/2/6/f/e/600_180309982.jpeg" >}}

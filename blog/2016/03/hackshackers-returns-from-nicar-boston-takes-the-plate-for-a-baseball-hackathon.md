@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers returns from NICAR, Boston takes the plate for a baseball hackathon
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-03-19"
 _migration:
   id: 17412
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Happy Friday, hacks and hackers, and I hope those among you who went to [NICAR][1] last week are catching up admirably.

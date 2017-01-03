@@ -1,18 +1,17 @@
 ---
 title: 'Pew: Internet now third most popular news platform'
-tags:
-- internet news
-- personalized news
-- pew internet and american life project
-- social news
-categories:
-- News
 authors:
 - Burt Herman
 date: "2010-03-01"
 _migration:
   id: 213
-  timestamp: 1482973867
+  timestamp: 1483471679
+tags:
+- internet news
+- personalized news
+- social news
+categories:
+- News
 ---
 
 {{< figure link="/content-images/blog/2010/03/Screen-shot-2010-03-01-at-6.13.17-PM.png" src="/content-images/blog/2010/03/Screen-shot-2010-03-01-at-6.13.17-PM.png" >}}

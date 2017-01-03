@@ -1,17 +1,18 @@
 ---
 title: 'Data Journalism: A Showcase of Viz Projects in India'
-tags:
-- data visualization
-- India
-categories:
-- Meetups
-- New Delhi
 authors:
 - Anika Gupta
 date: "2013-07-30"
 _migration:
   id: 16995
-  timestamp: 1482973852
+  timestamp: 1483471664
+tags:
+- data visualization
+groups:
+- India
+- New Delhi
+categories:
+- Meetups
 ---
 
 Building on the excitement around data journalism at our previous hackathon, Hacks/Hackers New Delhi recently paired up with the [Hindustan Times][1] &mdash; one of India&#8217;s leading English newspapers &mdash; to host a [showcase][2] of innovative data journalism work going on in the country.

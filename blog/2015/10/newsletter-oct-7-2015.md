@@ -1,15 +1,13 @@
 ---
 title: 'Newsletter: Oct. 7, 2015'
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - Julia Haslanger
 date: "2015-10-07"
 _migration:
   id: 17322
-  timestamp: 1482973850
+  timestamp: 1483471661
+categories:
+- Newsletter
 ---
 
 All around the world last week, Hacks/Hackers chapters met on topics as varied as web scraping in Python to net neutrality to new storytelling techniques at Zeit Online. In New York City, a panel of four professor/journalists talked about the joys and challenges of teaching data + journalism. A couple of photos:

@@ -1,15 +1,13 @@
 ---
 title: 'Newsletter: Oct. 14, 2015'
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - Julia Haslanger
 date: "2015-10-14"
 _migration:
   id: 17326
-  timestamp: 1482973850
+  timestamp: 1483471661
+categories:
+- Newsletter
 ---
 
 Welcome to the fourth edition of this newsletter. What have you enjoyed about this newsletter, or what would you like to see added/fixed? Send your feedback by replying to this email or taking a [quick 4-question survey][1].

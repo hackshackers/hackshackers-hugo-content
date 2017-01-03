@@ -1,16 +1,16 @@
 ---
 title: ShowTimeLine Complete! Hackathon on visualizing timelines with @HacksHackersBA
-tags: []
-categories:
-- Buenos Aires
-- Hackathons
-- Latin America
 authors:
 - Mariano Blejman
 date: "2012-04-26"
 _migration:
   id: 8116
-  timestamp: 1482973855
+  timestamp: 1483471666
+groups:
+- Buenos Aires
+tags:
+- Hackathons
+- Latin America
 ---
 
 ([Spanish post here][1])

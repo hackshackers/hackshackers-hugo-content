@@ -1,16 +1,15 @@
 ---
 title: Hacks/Hackers Austin Recap &#8211; Lingo Swap for Journos and Programmers
-tags:
-- Austin
-categories:
-- Austin
-- News
 authors:
 - Cindy Royal
 date: "2010-12-14"
 _migration:
   id: 1756
-  timestamp: 1482973864
+  timestamp: 1483471677
+groups:
+- Austin
+categories:
+- News
 ---
 
 {{< figure src="http://photos4.meetupstatic.com/photos/event/9/a/c/0/event_20259616.jpeg" >}}

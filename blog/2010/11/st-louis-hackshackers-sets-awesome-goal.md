@@ -1,17 +1,16 @@
 ---
 title: St. Louis Hacks/Hackers sets &#8216;awesome&#8217; goal
-tags:
-- meetup
-- st. louis
-categories:
-- Meetups
-- News
 authors:
 - Erica Smith
 date: "2010-11-10"
 _migration:
   id: 1315
-  timestamp: 1482973865
+  timestamp: 1483471678
+categories:
+- Meetups
+- News
+groups:
+- St. Louis
 ---
 
 The first St. Louis chapter meet-up was a great success. 

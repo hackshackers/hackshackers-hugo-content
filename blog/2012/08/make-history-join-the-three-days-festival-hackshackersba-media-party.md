@@ -1,15 +1,15 @@
 ---
 title: 'Make history: Join the three-day festival @HacksHackersBA Media Party!'
-tags: []
-categories:
-- Buenos Aires
-- Hackathons
 authors:
 - Mariano Blejman
 date: "2012-08-09"
 _migration:
   id: 16409
-  timestamp: 1482973854
+  timestamp: 1483471666
+groups:
+- Buenos Aires
+tags:
+- Hackathons
 ---
 
 {{< figure link="http://hackshackers.com/blog/2012/08/08/historico-unite-a-la-fiesta-de-tres-dias-hackshackers-ba-media-party/historia-3/" src="/content-images/blog/2012/08/historia2.jpg" >}}

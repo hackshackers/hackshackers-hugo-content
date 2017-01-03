@@ -1,15 +1,13 @@
 ---
 title: Help us pick a new Hacks/Hackers logo
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-12-02"
 _migration:
   id: 17686
-  timestamp: 1482973848
+  timestamp: 1483471659
+categories:
+- Newsletter
 ---
 
 It&#8217;s a new month, hacks and hackers, and if you&#8217;ve been reading this a while, you know that means one thing: a Hacks/Hackers [global call][1]. Check out the [agenda][2] to see what we&#8217;ll be chatting about.

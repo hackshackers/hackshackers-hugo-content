@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers Connect Brussels is coming up next week
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-05-27"
 _migration:
   id: 17462
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 [Hacks/Hackers Connect Brussels][1] is almost upon us! You still have a [few days to register][2], so spread the word! We&#8217;re excited to hold our third Connect event in Europe and to host a session on [Google’s Digital News Initiative][3]. It will take place the day the second round of applications open, June 2nd.

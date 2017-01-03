@@ -1,18 +1,19 @@
 ---
 title: 'Save the Date: Gaming + News Hackathon in NYC on April 22-23, 2011'
-tags:
-- Gaming
-categories:
-- Announcements
-- Hackathons
-- New York City
-- News
 authors:
 - Jennifer 8. Lee
 date: "2011-02-23"
 _migration:
   id: 2091
-  timestamp: 1482973864
+  timestamp: 1483471676
+tags:
+- Gaming
+- Hackathons
+categories:
+- Announcements
+- News
+groups:
+- New York
 ---
 
 Save the date! Hacks/Hackers NYC will be hosting a News+Gaming hackathon on April 22 and 23, at [CUNY Graduate School of Journalism][1], sponsored by Seattle-based [BigDoor][2], which [offers a gamification API][3].

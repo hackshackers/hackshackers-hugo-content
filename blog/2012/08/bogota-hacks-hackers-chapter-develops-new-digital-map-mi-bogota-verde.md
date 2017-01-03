@@ -1,23 +1,19 @@
 ---
-title: "Hacks/Hackers Bogota Develops New Digital Map: Mi Bogot\xE1 Verde"
-tags:
-- Bogota
-- crowdsourcing
-- environment
-- hackathon
-- Hacks/Hackers
-- mapping
-- Usahidi
-- waste disposal
-categories:
-- Bogota
-- Hackathons
+title: 'Hacks/Hackers Bogota Develops New Digital Map: Mi Bogotá Verde'
 authors:
 - Ronnie Lovler
 date: "2012-08-16"
 _migration:
   id: 16194
-  timestamp: 1482973854
+  timestamp: 1483471666
+groups:
+- Bogotá
+- Usahidi
+tags:
+- crowdsourcing
+- environment
+- Hackathons
+- Maps
 ---
 
 ![][1]

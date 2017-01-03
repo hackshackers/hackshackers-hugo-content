@@ -1,19 +1,18 @@
 ---
 title: A Hacks/Hackers overview with Chrys Wu and a chat with Knight-Mozilla fellow
   Laurian Gridinoc at Hacks/Hackers Brighton
-tags:
-- chrys wu
-- knight-mozilla
-- laurian gridinoc
-categories:
-- Brighton
-- Talks
 authors:
 - Sarah Marshall
 date: "2011-11-29"
 _migration:
   id: 3979
-  timestamp: 1482973856
+  timestamp: 1483471667
+tags:
+- knight-mozilla
+groups:
+- Brighton
+categories:
+- Talks
 ---
 
 Hacks/Hackers global coordinator and New York co-organiser **Chrys Wu** ([@MacDiva][1] on Twitter) spent an evening with **[Hacks/Hackers Brighton][2]** on Tuesday, 22 November to report on what chapters around the world have been doing.

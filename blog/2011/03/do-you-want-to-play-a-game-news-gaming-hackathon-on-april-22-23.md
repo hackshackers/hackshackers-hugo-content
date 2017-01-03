@@ -1,17 +1,18 @@
 ---
 title: Do You Want to Play a Game? News + Gaming hackathon on April 22-23
-tags: []
-categories:
-- Announcements
-- Hackathons
-- New York City
-- News
 authors:
 - Jennifer 8. Lee
 date: "2011-03-22"
 _migration:
   id: 2152
-  timestamp: 1482973864
+  timestamp: 1483471676
+categories:
+- Announcements
+- News
+tags:
+- Hackathons
+groups:
+- New York
 ---
 
 {{< figure link="/content-images/blog/2011/03/wargames.jpg" src="/content-images/blog/2011/03/wargames.jpg" >}}

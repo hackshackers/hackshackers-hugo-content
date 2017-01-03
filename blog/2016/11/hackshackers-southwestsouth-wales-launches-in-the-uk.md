@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers Southwest/South Wales launches in the UK
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-11-11"
 _migration:
   id: 17668
-  timestamp: 1482973849
+  timestamp: 1483471659
+categories:
+- Newsletter
 ---
 
 Happy Friday, hacks and hackers, and welcome to post-U.S. election life. Many of us have been living it for well over a year &#8211; perhaps two &#8211; and it&#8217;s time to move on to newer challenges.

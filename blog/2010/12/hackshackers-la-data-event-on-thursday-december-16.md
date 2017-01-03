@@ -1,16 +1,16 @@
 ---
 title: Hacks/Hackers LA Data event, Thursday Dec. 16
-tags: []
-categories:
-- Announcements
-- Los Angeles
-- News
 authors:
 - Casey Caplowe
 date: "2010-12-14"
 _migration:
   id: 1752
-  timestamp: 1482973864
+  timestamp: 1483471677
+categories:
+- Announcements
+- News
+groups:
+- Los Angeles
 ---
 
 The [first ever proper Hacks/Hackers Los Angeles][1] event is coming up this Thursday, December 16. Its on the topic of Data—finding it, making sense of it, visualizing it, telling stories with it. And we&#8217;ve got four awesome speakers lined up.

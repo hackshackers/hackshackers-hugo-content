@@ -1,15 +1,13 @@
 ---
 title: Announcing Connect Miami; H/H prepares for NICAR in Denver
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-03-04"
 _migration:
   id: 17405
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Hope all you hacks and hackers are ready for [NICAR][1]! (Or at least ready to follow it on [Twitter][2].) [Hacks/Hackers Colorado][3] is hosting a [happy hour][4] for everyone in Denver, with drinks sponsored by the Knight Lab and Tableau. (Sadly, the beers cannot be shared on [Twitter][2].)

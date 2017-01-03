@@ -1,14 +1,13 @@
 ---
 title: Hacks/Hackers Philly starts Oct. 18
-tags:
-- philadelphia
-categories: []
 authors:
 - Erika Owens
 date: "2011-10-16"
 _migration:
   id: 3805
-  timestamp: 1482973856
+  timestamp: 1483471667
+groups:
+- Philadelphia
 ---
 
 ![][1]The [first meetup of the Philadelphia chapter][2] is taking place on Tuesday. Philadelphia is home to vibrant [technology][3] and [journalism][4] communities.

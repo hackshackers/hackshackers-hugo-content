@@ -1,14 +1,13 @@
 ---
 title: Help by Hacks/Hackers is back
-tags: []
-categories:
-- Announcements
 authors:
 - Chrys Wu
 date: "2012-01-02"
 _migration:
   id: 4029
-  timestamp: 1482973855
+  timestamp: 1483471667
+categories:
+- Announcements
 ---
 
 {{< figure link="http://help.hackshackers.com" src="/content-images/blog/2012/01/Screen-Shot-2012-01-02-at-11.59.25-AM.png" alt="Help by Hacks/Hackers" >}}

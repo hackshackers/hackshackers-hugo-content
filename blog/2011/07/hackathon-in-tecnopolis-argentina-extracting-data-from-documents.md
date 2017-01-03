@@ -1,17 +1,18 @@
 ---
 title: 'Hackathon in Tecnopolis Argentina: extracting data from documents'
-tags: []
-categories:
-- Buenos Aires
-- Hackathons
-- Latin America
-- News
 authors:
 - Mariano Blejman
 date: "2011-07-30"
 _migration:
   id: 3399
-  timestamp: 1482973857
+  timestamp: 1483471668
+groups:
+- Buenos Aires
+tags:
+- Hackathons
+- Latin America
+categories:
+- News
 ---
 
 [Post en español][1]

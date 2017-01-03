@@ -1,16 +1,16 @@
 ---
 title: Trip to the Land of the Automatic Extraction of Data from Documents
-tags: []
-categories:
-- Buenos Aires
-- Hackathons
-- Latin America
 authors:
 - Mariano Blejman
 date: "2011-08-23"
 _migration:
   id: 3561
-  timestamp: 1482973856
+  timestamp: 1483471668
+groups:
+- Buenos Aires
+tags:
+- Hackathons
+- Latin America
 ---
 
 [Post en español acá!][1]

@@ -1,14 +1,13 @@
 ---
 title: Seattle Hacks/Hackers Kicks off Thursday, Nov. 11 at Havana
-tags: []
-categories:
-- News
 authors:
 - Jennifer 8. Lee
 date: "2010-11-09"
 _migration:
   id: 1286
-  timestamp: 1482973865
+  timestamp: 1483471678
+categories:
+- News
 ---
 
 The Seattle Hacks/Hackers chapter is [kicking off on Thursday night][1] at Havana on Pike Street. Reporters from The Seattle Times, Seattle Magazine, KING 5, Reuters, the Associated Press, MSNBC.com are all going to be there.

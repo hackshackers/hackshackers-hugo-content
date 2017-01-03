@@ -1,19 +1,18 @@
 ---
 title: Come for the ONA conference, stay for the hacking
-tags:
-- hackathon
-- online news association
-- washington dc
-categories:
-- Hackathons
-- News
-- Washington DC
 authors:
 - Burt Herman
 date: "2010-09-24"
 _migration:
   id: 812
-  timestamp: 1482973866
+  timestamp: 1483471678
+tags:
+- Hackathons
+- Online News Association
+groups:
+- Washington DC
+categories:
+- News
 ---
 
 {{< figure link="/content-images/blog/2010/09/Screen-shot-2010-09-23-at-2.29.56-PM.png" src="/content-images/blog/2010/09/Screen-shot-2010-09-23-at-2.29.56-PM-300x79.png" >}}

@@ -1,16 +1,15 @@
 ---
 title: Get hands-on data visualization training at Newscamp
-tags: []
-categories:
-- Announcements
-- News
-- Opportunities
 authors:
 - Chrys Wu
 date: "2011-01-10"
 _migration:
   id: 1796
-  timestamp: 1482973864
+  timestamp: 1483471676
+categories:
+- Announcements
+- News
+- Opportunities
 ---
 
 From intricate interactive maps to stunning visualizations, news organizations like The New York Times and Washington Post make data come alive for readers. Join [Investigative Reporters and Editors (IRE)][1], in partnership with [Hacks/Hackers][2], for NewsCamp on Feb. 24 in Raleigh, N.C., and you too can learn from the best in the business — whether you&#8217;re a rank beginner, or experienced designer/developer.

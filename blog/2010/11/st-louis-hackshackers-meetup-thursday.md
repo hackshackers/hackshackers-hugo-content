@@ -1,16 +1,16 @@
 ---
 title: St. Louis Hacks/Hackers meetup Thursday
-tags:
-- st. louis
-categories:
-- Meetups
-- News
 authors:
 - Erica Smith
 date: "2010-11-02"
 _migration:
   id: 1170
-  timestamp: 1482973866
+  timestamp: 1483471678
+groups:
+- St. Louis
+categories:
+- Meetups
+- News
 ---
 
 St. Louis is joining the Hacks/Hackers community.

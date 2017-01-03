@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers Connect spreads across the southern United States
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-04-15"
 _migration:
   id: 17431
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 [Connect Austin][1] went off with a bang yesterday, and Miami is already in full swing getting ready for [Connect Miami][2] coming up in one month. If you or someone you know is interested in learning about media startups in Florida, [send us your info here][3]!

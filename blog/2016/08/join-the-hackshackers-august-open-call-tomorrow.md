@@ -1,15 +1,13 @@
 ---
 title: Join the Hacks/Hackers August open call tomorrow
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-08-01"
 _migration:
   id: 17574
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Welcome, hacks and hackers. We&#8217;ve already reached the end of July, a month that saw more than three dozen Hacks/Hackers meetups across the world. That&#8217;s more than one per day!

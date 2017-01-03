@@ -1,16 +1,17 @@
 ---
 title: Hacks, hackers invited to participate in Random Hacks of Kindness, Dec. 4-5
-tags: []
-categories:
-- Chicago
-- Hackathons
-- News
 authors:
 - Rich Gordon
 date: "2010-11-19"
 _migration:
   id: 1456
-  timestamp: 1482973865
+  timestamp: 1483471677
+groups:
+- Chicago
+tags:
+- Hackathons
+categories:
+- News
 ---
 
 On December 4<sup>th</sup> and 5<sup>th</sup>, Random Hacks of Kindness is holding a multi-city hackathon to create software to &#8220;mitigate or respond to disasters around the world and save lives.&#8221;  The Hacks/Hackers community is invited to participate.

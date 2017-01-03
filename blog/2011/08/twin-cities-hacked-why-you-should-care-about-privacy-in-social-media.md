@@ -1,14 +1,13 @@
 ---
 title: 'Twin Cities: Hacked! &#8211; Why You Should Care about Privacy in Social Media'
-tags: []
-categories:
-- Twin Cities
 authors:
 - pedstrom
 date: "2011-08-11"
 _migration:
   id: 3365
-  timestamp: 1482973856
+  timestamp: 1483471668
+groups:
+- Twin Cities
 ---
 
 by Ron Schreiner copyright 2011 all rights reserved

@@ -1,16 +1,15 @@
 ---
 title: 'Hacks/Hackers Austin: Code With Me Workshop'
-tags:
-- Austin
-- Code With Me
-categories:
-- Austin
 authors:
 - Cindy Royal
 date: "2013-05-23"
 _migration:
   id: 16956
-  timestamp: 1482973852
+  timestamp: 1483471664
+groups:
+- Austin
+tags:
+- Code With Me
 ---
 
 {{< figure src="http://photos4.meetupstatic.com/photos/event/9/1/7/0/600_239077232.jpeg" >}}

@@ -1,15 +1,14 @@
 ---
 title: Hacks/Hackers launches store, including dogwear
-tags: []
-categories:
-- Announcements
-- News
 authors:
 - Beth Davidz
 date: "2010-11-30"
 _migration:
   id: 1616
-  timestamp: 1482973865
+  timestamp: 1483471677
+categories:
+- Announcements
+- News
 ---
 
 That&#8217;s right, we now have a [Hacks/Hackers store][1]. If you&#8217;re looking for gifts this holiday season for that special journo-hacker in your life, [check it out][1]. Holiday season is almost here and i am already looking for good [christmas gifts for men][2] that i can buy for my family.There are T-shirts, bags, clocks, hats, teddy bears and [even shirts for dogs][3] — you suggested it and we thought it was a great idea.

@@ -1,18 +1,19 @@
 ---
 title: New Hacks/Hackers chapter forms in Bogota
-tags:
-- Bogota
-- meetup
-categories:
-- Hackathons
-- Latin America
-- News
 authors:
 - Ronnie Lovler
 date: "2012-07-01"
 _migration:
   id: 15982
-  timestamp: 1482973854
+  timestamp: 1483471666
+groups:
+- Bogotá
+categories:
+- Meetups
+- News
+tags:
+- Hackathons
+- Latin America
 ---
 
 {{< figure link="http://www.meetup.com/Hacks-Hackers-Bogota/events/70386462/" src="http://hackshackers.com/wp-content/uploads/logos/chapters/bogota_side.gif" alt="Hacks/Hackers Bogota logo" >}}

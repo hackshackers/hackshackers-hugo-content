@@ -1,21 +1,19 @@
 ---
 title: Going beyond comments at Hacks/Hackers NYC
-tags:
-- Amanda Michel
-- Clay Shirky
-- comments
-- Ro Gupta
-- talks
-categories:
-- Meetups
-- New York City
-- News
 authors:
 - Phillip Smith
 date: "2011-06-11"
 _migration:
   id: 3096
-  timestamp: 1482973857
+  timestamp: 1483471668
+tags:
+- comments
+categories:
+- Talks
+- Meetups
+- News
+groups:
+- New York
 ---
 
 Last week was a bit of a blur: after meeting with the [Chicago Tribune News Applications team][1], and [descending into the Tribune dungeon][2] for an [evening of brainstorming][3] with the local Hacks/Hackers chapter, I was off to New York for the Hacks/Hackers NYC “[Beyond Comments: Discuss, brainstorm with Shirky, Michel, Gupta][4]” event at NYU’s Tisch School for the Arts (home of the [ITP program][5]).

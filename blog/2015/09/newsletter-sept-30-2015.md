@@ -1,15 +1,13 @@
 ---
 title: 'Newsletter: Sept. 30, 2015'
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - Julia Haslanger
 date: "2015-09-30"
 _migration:
   id: 17320
-  timestamp: 1482973850
+  timestamp: 1483471661
+categories:
+- Newsletter
 ---
 
 Last week Hacks/Hackers chapters around the world tackled a ton of great topics: developer newsroom culture, chat apps, experimental video approaches, interactive news web apps in Angular and so much more.

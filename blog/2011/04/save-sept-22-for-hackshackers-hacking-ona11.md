@@ -1,16 +1,16 @@
 ---
 title: Save Sept. 22 for Hacks/Hackers Hacking @ ONA11
-tags: []
-categories:
-- Announcements
-- Hackathons
-- News
 authors:
 - Chrys Wu
 date: "2011-04-15"
 _migration:
   id: 2635
-  timestamp: 1482973863
+  timestamp: 1483471676
+categories:
+- Announcements
+- News
+tags:
+- Hackathons
 ---
 
 **Journalists, developers and designers:**  

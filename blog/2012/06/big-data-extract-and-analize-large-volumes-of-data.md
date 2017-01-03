@@ -1,15 +1,15 @@
 ---
 title: 'Big data: extract and analize large volumes of data'
-tags: []
-categories:
-- Buenos Aires
-- Latin America
 authors:
 - Mariano Blejman
 date: "2012-06-09"
 _migration:
   id: 14873
-  timestamp: 1482973854
+  timestamp: 1483471666
+groups:
+- Buenos Aires
+tags:
+- Latin America
 ---
 
 **

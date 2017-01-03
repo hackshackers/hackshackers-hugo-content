@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers Media Parties now on three continents
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-10-21"
 _migration:
   id: 17656
-  timestamp: 1482973849
+  timestamp: 1483471659
+categories:
+- Newsletter
 ---
 
 This weekend, a third Hacks/Hackers group held its own Media Party, this time in South Africa. The [sold-out event][1] is bringing 350 attendees plus speakers from around the world to Cape Town to discuss African media innovation and civic technology. [Miami][2] held [its second Media Party][3] in April, and of course [Buenos Aires][4] holds the trophy for the original [Media Party][5], which celebrated its fifth anniversary this year in Argentina.

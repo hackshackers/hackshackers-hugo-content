@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers Connect takes Toronto
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-09-26"
 _migration:
   id: 17614
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Greetings, hacks and hackers! Toronto just wrapped up a maximum-capacity [Connect event][1]:

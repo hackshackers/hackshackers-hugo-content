@@ -1,13 +1,11 @@
 ---
 title: Hacks/Hackers passes 10k members worldwide
-tags: []
-categories: []
 authors:
 - Burt Herman
 date: "2012-04-19"
 _migration:
   id: 6399
-  timestamp: 1482973855
+  timestamp: 1483471666
 description: Hacks/Hackers has surpassed the 10,000 member mark just two and half
   years after its start as a Meetup group in the Bay Area.
 ---

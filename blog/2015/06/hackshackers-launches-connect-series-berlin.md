@@ -1,13 +1,11 @@
 ---
 title: Hacks/Hackers launches Connect series in Berlin
-tags: []
-categories: []
 authors:
 - Burt Herman
 date: "2015-06-28"
 _migration:
   id: 17263
-  timestamp: 1482973850
+  timestamp: 1483471661
 ---
 
 [[View the story &#8220;Hacks/Hackers launches Connect series in Berlin&#8221; on Storify][1]]

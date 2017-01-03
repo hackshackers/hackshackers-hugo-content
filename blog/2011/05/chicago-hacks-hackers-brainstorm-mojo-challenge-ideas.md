@@ -1,15 +1,15 @@
 ---
 title: Chicago hacks, hackers brainstorm MoJo Challenge ideas
-tags: []
-categories:
-- Chicago
-- News
 authors:
 - Rich Gordon
 date: "2011-05-30"
 _migration:
   id: 3000
-  timestamp: 1482973863
+  timestamp: 1483471675
+groups:
+- Chicago
+categories:
+- News
 ---
 
 **By Katherine Zhu**

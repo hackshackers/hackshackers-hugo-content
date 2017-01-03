@@ -1,16 +1,16 @@
 ---
 title: 'August 18 NYC Meetup: Learning From Google&#8217;s Living Stories'
-tags: []
-categories:
-- Meetups
-- New York City
-- News
 authors:
 - Jennifer 8. Lee
 date: "2010-08-11"
 _migration:
   id: 644
-  timestamp: 1482973866
+  timestamp: 1483471678
+categories:
+- Meetups
+- News
+groups:
+- New York
 ---
 
 Next meetup: [Wednesday, August 18, at the NYC Google offices][1], where we will discuss the concept of &#8220;Living Stories.&#8221; Presentation starts at 7 p.m., but come early and socialize (and gawk) at 6 p.m.

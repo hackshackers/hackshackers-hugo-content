@@ -1,17 +1,18 @@
 ---
 title: Bubble Sorting, Algorithms, and Launching Hacks/Hackers in Denmark
-tags: []
-categories:
-- Copenhagen
-- Denmark
-- Meetups
-- News
 authors:
 - Signe Jepsen
 date: "2013-08-26"
 _migration:
   id: 17038
-  timestamp: 1482973852
+  timestamp: 1483471663
+groups:
+- Copenhagen
+tags:
+- Denmark
+categories:
+- Meetups
+- News
 description: 'Yes! The Danish chapter of Hacks/Hackers is now rolling. Huge support
   for mixer and great support for an event committee to help create future events. '
 ---

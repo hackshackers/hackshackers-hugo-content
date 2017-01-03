@@ -1,17 +1,16 @@
 ---
 title: Intro to Django at Hacks/Hackers Austin
-tags:
-- Austin
-categories:
-- Austin
-- Classes
-- News
 authors:
 - Cindy Royal
 date: "2011-02-01"
 _migration:
   id: 1948
-  timestamp: 1482973864
+  timestamp: 1483471676
+groups:
+- Austin
+categories:
+- Classes
+- News
 ---
 
 {{< figure src="http://photos1.meetupstatic.com/photos/event/5/b/2/e/event_21203342.jpeg" >}}

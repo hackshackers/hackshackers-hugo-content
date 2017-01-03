@@ -1,15 +1,13 @@
 ---
 title: Election year for Hacks/Hackers across the world
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-07-19"
 _migration:
   id: 17529
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Greetings, hacks and hackers. This is turning out to be an election year in more way than one, with referendums rocking Europe, attempted government changes erupting in Turkey and campaigns turning out high drama in the United States. London and Paris have both held meetups on polling data for their respective elections, and many other chapters will probably follow suit before the year is out.

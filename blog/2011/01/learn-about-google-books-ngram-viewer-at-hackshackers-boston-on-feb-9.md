@@ -1,18 +1,19 @@
 ---
 title: Learn about Google Books Ngram Viewer at Hacks/Hackers Boston on Feb. 9
-tags:
-- google
-- ngram
-categories:
-- Boston
-- Meetups
-- News
 authors:
 - Matt Carroll
 date: "2011-01-19"
 _migration:
   id: 1927
-  timestamp: 1482973864
+  timestamp: 1483471676
+tags:
+- google
+- ngram
+groups:
+- Boston
+categories:
+- Meetups
+- News
 ---
 
 Come learn about Google&#8217;s cool new tool: Ngram at the [next Hacks/Hackers Boston Meetup][1] on Wednesday, February 9, 2011 7 p.m. at Google&#8217;s Cambridge offices at 5 Cambridge Center, 3rd floor in Kendall Square ([news when it opened][2]!)

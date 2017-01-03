@@ -1,17 +1,17 @@
 ---
 title: Hacks/Hackers Toronto to Ignite it up on Dec. 14
-tags: []
-categories:
-- Demos
-- News
-- Talks
-- Toronto
 authors:
 - Craig Silverman
 date: "2010-11-30"
 _migration:
   id: 1630
-  timestamp: 1482973865
+  timestamp: 1483471677
+categories:
+- Demos
+- News
+- Talks
+groups:
+- Toronto
 ---
 
 We&#8217;re happy to announce the [second gathering of Hacks/Hackers Toronto][1]. This gathering is right in the heart of holiday season, so we&#8217;re calling it a holiday gathering.

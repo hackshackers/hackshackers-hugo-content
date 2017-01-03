@@ -1,17 +1,18 @@
 ---
 title: Google Fusion Tables at Hacks/Hackers NYC. Talk + workshop, March 7-8
-tags:
-- Google Fusion Tables
-categories:
-- Meetups
-- New York City
-- News
 authors:
 - Jennifer 8. Lee
 date: "2011-02-23"
 _migration:
   id: 2088
-  timestamp: 1482973864
+  timestamp: 1483471676
+tags:
+- Google Fusion Tables
+categories:
+- Meetups
+- News
+groups:
+- New York
 ---
 
 Google is sending developer relations engineer Kathryn Hurley from the Bay Area to demo how [**Google Fusion Tables**][1] can be used for journalistic purposes. RSVP now for two _separate_ but related events at Pivotal Labs, near Union Square:

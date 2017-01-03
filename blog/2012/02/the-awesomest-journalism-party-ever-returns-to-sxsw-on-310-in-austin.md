@@ -1,15 +1,15 @@
 ---
 title: The Awesomest Journalism Party. Ever. Returns to SXSW on 3/10
-tags: []
-categories:
-- Announcements
-- Austin
 authors:
 - Jennifer 8. Lee
 date: "2012-02-25"
 _migration:
   id: 4256
-  timestamp: 1482973855
+  timestamp: 1483471667
+categories:
+- Announcements
+groups:
+- Austin
 ---
 
 Come to the [Awesomest Journalism Party. Ever.][1] Which returns again. [RSVP here][2].

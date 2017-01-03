@@ -1,19 +1,20 @@
 ---
 title: 'Daylife: You Create It. We&#8217;ll Sell It. You Keep 70% of the Proceeds'
+authors:
+- Jennifer 8. Lee
+date: "2010-07-15"
+_migration:
+  id: 490
+  timestamp: 1483471679
 tags:
 - API
 - daylife
 - hacking
 categories:
 - Demos
-- New York City
 - News
-authors:
-- Jennifer 8. Lee
-date: "2010-07-15"
-_migration:
-  id: 490
-  timestamp: 1482973867
+groups:
+- New York
 description: 'Daylife offered Hacks/Hackers members a challenge: crerate an application
   with the Daylife API that one of their publishing clients wants to buy, and you
   will get to keep 70% of the revenue. '

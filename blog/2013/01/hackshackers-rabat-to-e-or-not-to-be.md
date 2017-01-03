@@ -1,17 +1,15 @@
 ---
 title: 'Hacks/Hackers Rabat: To E or not to Be'
-tags:
-- meetup
-- Rabat
-categories:
-- Meetups
-- Rabat
 authors:
 - Chama Darchoul
 date: "2013-01-23"
 _migration:
   id: 16764
-  timestamp: 1482973853
+  timestamp: 1483471665
+categories:
+- Meetups
+groups:
+- Rabat
 ---
 
 {{< figure src="/content-images/blog/2013/01/HHRAB-meetup.jpg" alt="The first meetup of Hacks/Hackers Rabat in Morocco." caption="_At the first meetup of Hacks/Hackers Rabat in Morocco._" >}}

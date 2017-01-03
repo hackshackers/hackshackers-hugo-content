@@ -1,17 +1,17 @@
 ---
 title: 'The art of data visualization: Stamen Design event wrapup'
+authors:
+- Burt Herman
+date: "2010-04-09"
+_migration:
+  id: 338
+  timestamp: 1483471679
 tags:
 - data
 - data visualization
 - design
 categories:
 - News
-authors:
-- Burt Herman
-date: "2010-04-09"
-_migration:
-  id: 338
-  timestamp: 1482973867
 ---
 
 {{< figure link="/content-images/blog/2010/04/DSC\_0077.jpg" src="/content-images/blog/2010/04/DSC\_0077-300x229.jpg" alt="Eric Rodenbeck, Stamen Design" >}}

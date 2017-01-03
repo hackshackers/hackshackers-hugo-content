@@ -1,17 +1,17 @@
 ---
 title: Maps, Mobile Security, Touch-Free Browsing and more at Hacks/Hackers NYC Demo
   Day 2
-tags: []
-categories:
-- Demo
-- New York City
-- News
 authors:
 - Frank Hebbert
 date: "2011-04-07"
 _migration:
   id: 2264
-  timestamp: 1482973863
+  timestamp: 1483471676
+categories:
+- Demos
+- News
+groups:
+- New York
 ---
 
 ![][1][Hacks/Hackers NYC Demo Day 2][2], held at [New Work City][3], covered a lot of ground. ![][4]A crowd gathered for dinner from [4food][5] followed by six entertaining and informative presentations covering the spectrum of news and hacking, from content generation to mapping, with a dose of security and a hardware demo too.

@@ -1,16 +1,16 @@
 ---
 title: Hacks/Hackers Brighton live streams its first meetup
-tags: []
-categories:
-- Brighton
-- Meetups
-- News
 authors:
 - Chrys Wu
 date: "2011-09-08"
 _migration:
   id: 3594
-  timestamp: 1482973856
+  timestamp: 1483471668
+groups:
+- Brighton
+categories:
+- Meetups
+- News
 ---
 
 [![][1]][2]Brighton, England&#8217;s Hacks/Hackers kickoff event starts today with a great lineup planned. Better yet, Hacks/Hackers Brighton will be live streaming the talks at [Journalism.co.uk][3] around 3:30 BST (10:30 a.m. ET/7:30 a.m. PT or [check your local time][4])

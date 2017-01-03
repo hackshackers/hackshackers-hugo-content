@@ -1,19 +1,19 @@
 ---
-title: "Hacks/Hackers S\xE3o Paulo covers mobile, data and freedom of information
-  July 16"
-tags:
-- Brasil
-- Brazil
-- meetup
-- "S\xE3o Paulo"
-categories:
-- Announcements
+title: Hacks/Hackers São Paulo covers mobile, data and freedom of information July
+  16
 authors:
 - Gustavo Faleiros
 date: "2012-07-10"
 _migration:
   id: 16225
-  timestamp: 1482973854
+  timestamp: 1483471666
+tags:
+- Brasil
+categories:
+- Meetups
+- Announcements
+groups:
+- São Paulo
 ---
 
 {{< figure src="http://www.cidadedesaopaulo.com/sp/images/stories/fotos\_cidade/h\_av\_23\_de_maio.jpg" caption="_Credit: Alexandre Diniz/Prefeitura de São Paulo_" >}}

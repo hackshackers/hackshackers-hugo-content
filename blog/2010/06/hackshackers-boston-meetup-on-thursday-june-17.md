@@ -1,19 +1,18 @@
 ---
 title: Hacks/Hackers Boston Meetup on Thursday, June 17
-tags:
-- boston meetup
-categories:
-- Boston
-- Demos
-- Meetups
-- News
-- Talks
 authors:
 - Jennifer 8. Lee
 date: "2010-06-14"
 _migration:
   id: 444
-  timestamp: 1482973867
+  timestamp: 1483471679
+groups:
+- Boston
+categories:
+- Demos
+- Meetups
+- News
+- Talks
 ---
 
 In conjunction with the [Future of News and Civic Media Conference at MIT][1], [Hacks/Hackers Boston][2] is going to have an inaugural [impromptu Meetup][3] on Thursday, June 17 at 8 p.m. The place TBD, but probably in Cambridge near MIT. We&#8217;re looking for Boston folks to become lead organizers.

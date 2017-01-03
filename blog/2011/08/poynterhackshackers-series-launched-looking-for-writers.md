@@ -1,17 +1,16 @@
 ---
 title: Poynter/Hacks/Hackers Series Launched, Looking for Writers
-tags:
-- Poynter
-- Poynter/Hacks/Hackers How To's
-categories:
-- Announcements
-- News
 authors:
 - Beth Davidz
 date: "2011-08-08"
 _migration:
   id: 3422
-  timestamp: 1482973857
+  timestamp: 1483471668
+tags:
+- Poynter
+categories:
+- Announcements
+- News
 ---
 
 Today we’re launching a [new Hacks/Hackers series on Poynter][1].  Each week we’ll feature a [How To][2] on new tools and emerging trends in technology.

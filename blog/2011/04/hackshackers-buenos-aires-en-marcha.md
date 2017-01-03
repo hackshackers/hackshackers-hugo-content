@@ -1,23 +1,21 @@
 ---
 title: Hacks/Hackers Buenos Aires en marcha
-tags:
-- aires
-- argentina
-- buenos
-- digital
-- Hacks/Hackers
-- journalism
-- software
-categories:
-- Buenos Aires
-- Latin America
-- News
 authors:
 - Mariano Blejman
 date: "2011-04-13"
 _migration:
   id: 2321
-  timestamp: 1482973863
+  timestamp: 1483471676
+tags:
+- Argentina
+- digital
+- journalism
+- software
+- Latin America
+groups:
+- Buenos Aires
+categories:
+- News
 ---
 
 _This [post is also available in English][1] (we&#8217;ve gone bilingual!)

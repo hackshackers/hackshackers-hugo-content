@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers Connect comes to Brussels
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-05-20"
 _migration:
   id: 17458
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Happy Friday, hacks and hackers! We&#8217;re excited to bring the [Connect series][1] to Brussels in just two weeks. [Connect Brussels][2] is a pan-European event with participants attending from across the EU. Like all Connect events the focus is on building a vibrant media entrepreneurship community &#8212; only a few spots remain, so [register today][3] and spread the word to your colleagues in the region.

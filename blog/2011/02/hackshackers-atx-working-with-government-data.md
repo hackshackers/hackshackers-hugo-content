@@ -1,18 +1,17 @@
 ---
 title: Hacks/Hackers Austin &#8211; Working with Government Data
-tags:
-- Andrew Dupont
-- Austin
-- Filibusted
-categories:
-- Austin
-- News
 authors:
 - Cindy Royal
 date: "2011-02-20"
 _migration:
   id: 1995
-  timestamp: 1482973864
+  timestamp: 1483471676
+groups:
+- Austin
+tags:
+- Filibusted
+categories:
+- News
 ---
 
 {{< figure src="http://photos1.meetupstatic.com/photos/event/5/1/f/8/event_21560984.jpeg" >}}

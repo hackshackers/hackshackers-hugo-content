@@ -1,17 +1,18 @@
 ---
 title: Sleeping Bodies at the Great Urban Hack NYC
-tags:
-- Great Urban Hack
-categories:
-- Hackathons
-- New York City
-- News
 authors:
 - Jennifer 8. Lee
 date: "2010-11-07"
 _migration:
   id: 1226
-  timestamp: 1482973866
+  timestamp: 1483471678
+tags:
+- Great Urban Hack
+- Hackathons
+groups:
+- New York
+categories:
+- News
 ---
 
 {{< figure link="http://posterous.com/getfile/files.posterous.com/jenny8lee/CQIxPbgobV43WkDA2B2DbsGet4wu1QsN6vdJ6BL9sI1EzGBHYAC9du1NE9R6/greaturbanhackpostmidnight.jpg.scaled.1000.jpg" src="http://posterous.com/getfile/files.posterous.com/jenny8lee/xeXwb0vGmXc50sD2hWCy7gqR4E7HVjv0xepD6tZs7oTrZ99PWA1fv3h5dVl4/greaturbanhackpostmidnight.jpg.scaled.500.jpg" >}}

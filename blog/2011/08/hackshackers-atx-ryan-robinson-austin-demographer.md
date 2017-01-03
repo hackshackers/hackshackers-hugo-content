@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers ATX &#8211; Ryan Robinson, Austin Demographer
-tags:
-- Austin
-categories:
-- Austin
 authors:
 - Cindy Royal
 date: "2011-08-20"
 _migration:
   id: 3515
-  timestamp: 1482973856
+  timestamp: 1483471668
+groups:
+- Austin
 ---
 
 {{< figure src="http://photos3.meetupstatic.com/photos/event/3/1/2/5/event_49452581.jpeg" >}}
@@ -38,7 +36,7 @@ Prior to the meeting, Christian McDonald, the Statesman&#8217;s online projects 
 
 {{< figure src="http://a3.sphotos.ak.fbcdn.net/hphotos-ak-snc7/313360\_10150359416447932\_689122931\_10033342\_2177096_n.jpg" >}}
 
-{{< figure src="http://a1.sphotos.ak.fbcdn.net/hphotos-ak-ash4/293678\_10150359416372932\_689122931\_10033341\_8171309_n.jpg" >}}
+{{< figure src="http://a1.sphotos.ak.fbcdn.net/hphotos-ak-ash4/293678\_10150359416372932\_689122931\_10033341\_8171309_n.jpg"" >}}
 
 {{< figure src="http://a5.sphotos.ak.fbcdn.net/hphotos-ak-ash4/321028\_10150359416497932\_689122931\_10033343\_6231770_n.jpg" >}}
 

@@ -1,14 +1,13 @@
 ---
 title: Sharing UX/UI Design Secrets
-tags: []
-categories:
-- Announcements
 authors:
 - Seda Muradyan
 date: "2012-10-22"
 _migration:
   id: 16621
-  timestamp: 1482973853
+  timestamp: 1483471665
+categories:
+- Announcements
 ---
 
 Public Journalism Club (PJC), Armenia based NGO is inviting those interested in User experience UX, User Interface UI design – representatives of Armenian media and editors of news websites, designers, students, bloggers and journalists – to take part in a discussion-meeting, entitled “Secrets of User Interface Web Design”, which will be conducted by User experience UX, User Interface UI designers, consultants Vadz Ghazaryan, Ishkhan Adamyan and Gor Vardanyan.

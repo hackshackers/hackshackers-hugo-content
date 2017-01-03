@@ -1,15 +1,13 @@
 ---
 title: Hacks and Hackers turn out in force at NICAR
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-03-11"
 _migration:
   id: 17407
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Happy [NICAR][1] to the lucky hacks and hackers here in Denver, and happy Friday to everyone else! If you’re not at the conference but would still like to grab the tipsheets and tutorials, I’d suggest [Melody Kramer’s tips][2] for finding the most popular tweets circulating on the [#NICAR16][3] hashtag.

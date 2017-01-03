@@ -1,21 +1,20 @@
 ---
 title: Hacks/Hackers as contact sport
-tags:
-- business model
-- contact sports
-- content aggregator
-- curation
-- design
-- personalized news
-- user experience
-categories:
-- News
 authors:
 - Burt Herman
 date: "2010-02-21"
 _migration:
   id: 77
-  timestamp: 1482973867
+  timestamp: 1483471679
+tags:
+- business model
+- content aggregator
+- curation
+- design
+- personalized news
+- UX
+categories:
+- News
 ---
 
 {{< figure link="/content-images/blog/2010/02/DSC\_0018.jpg" src="/content-images/blog/2010/02/DSC\_0018-1024x679.jpg" >}}

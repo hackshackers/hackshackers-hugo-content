@@ -1,26 +1,24 @@
 ---
 title: Hacks/Hackers Boston Knight Mozilla Beerathon
-tags:
-- abrams
-- boston
-- events
-- HTML5
-- innovation
-- journalism
-- meetup
-- MIT
-- Mojo
-- Mozilla
-- video
-categories:
-- Boston
-- Meetups
 authors:
 - Joel Abrams
 date: "2011-05-04"
 _migration:
   id: 2832
-  timestamp: 1482973863
+  timestamp: 1483471675
+groups:
+- Boston
+tags:
+- events
+- HTML5
+- innovation
+- journalism
+- MIT
+- Mojo
+- Mozilla
+- video
+categories:
+- Meetups
 ---
 
 (Cross-posted from [beta.boston.com][1])

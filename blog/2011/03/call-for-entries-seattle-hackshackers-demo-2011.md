@@ -1,14 +1,13 @@
 ---
 title: 'Call for Entries: Seattle Hacks/Hackers Demo 2011 on March 29'
-tags: []
-categories:
-- News
 authors:
 - Karen Johnson
 date: "2011-03-03"
 _migration:
   id: 2070
-  timestamp: 1482973864
+  timestamp: 1483471676
+categories:
+- News
 ---
 
 Have an amazing product that is poised to transform journalism and the way we tell stories? Are you a tech start up hoping to share your million dollar idea with a group of forward thinking technologists and journalists? Developing an innovative plugin? Hacks/Hackers Seattle is organizing its first demo event at [Tableau][1] Software Tuesday, March 29 and we want to learn about your brilliant ideas.

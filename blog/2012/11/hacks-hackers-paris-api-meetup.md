@@ -1,15 +1,15 @@
 ---
 title: Hacks/Hackers Paris discusses APIs
-tags: []
-categories:
-- Meetups
-- Paris
 authors:
-- "Alexandre L\xE9chenet"
+- Alexandre Léchenet
 date: "2012-11-15"
 _migration:
   id: 16659
-  timestamp: 1482973853
+  timestamp: 1483471665
+categories:
+- Meetups
+groups:
+- Paris
 ---
 
 For its second session hosted by Qunb, Hacks/Hackers Paris focused on APIs. The first presentation, by [Aurélien Fache][1] from [faberNovel][2] explained what is an API and what it will be in the years to come. Afterward, Radio France and [UPIAN][3] showed an innovative use of the [Storify API][4] for their website &#8220;[Clichés de campagne][5].&#8221;

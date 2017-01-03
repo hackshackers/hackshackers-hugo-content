@@ -1,17 +1,17 @@
 ---
 title: 'NYC Meetup at Meetup Recap: Games, Ads, APIs and Scott Heiferman'
-tags: []
-categories:
-- Demos
-- New York City
-- News
-- Talks
 authors:
 - Chrys Wu
 date: "2010-07-16"
 _migration:
   id: 505
-  timestamp: 1482973867
+  timestamp: 1483471679
+categories:
+- Demos
+- News
+- Talks
+groups:
+- New York
 ---
 
 Thanks to the 80-some of you who came to the Hacks and Hackers NYC meetup July 14. We&#8217;ve received a lot of positive feedback about the event. We&#8217;d love to hear your ideas for future talks about the intersection of journalism and technology. Leave a comment or email us at _**nyc**_**[at]hackshackers[dot]com**.

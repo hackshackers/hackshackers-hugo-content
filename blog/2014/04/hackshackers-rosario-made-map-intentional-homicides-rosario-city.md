@@ -1,21 +1,19 @@
 ---
 title: How Hacks/Hackers Rosario Made Its Map of Intentional Homicides of Rosario
   City
-tags:
-- data visualization
-- dataviz
-- mapping
-- maps
-- media
-- opendata
-categories:
-- Rosario
 authors:
 - Ezequiel Clerici
 date: "2014-04-28"
 _migration:
   id: 17135
-  timestamp: 1482973851
+  timestamp: 1483471662
+tags:
+- data visualization
+- Maps
+- media
+- opendata
+groups:
+- Rosario
 ---
 
 [The Rosario Intentional Homicides Map 2013][1] is the first digital data journalism platform developed especially for publication in Rosario, Argentina, media. The platform and the map are the result of several months of intense work, exchange of ideas, information and building mutual trust between a team of journalists, designers and programmers from [Hacks/Hackers Rosario][2] (HHROS) and members from La Capital newspaper.

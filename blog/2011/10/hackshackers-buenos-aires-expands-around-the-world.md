@@ -1,16 +1,16 @@
 ---
 title: Hacks/Hackers Buenos Aires expands around the world
-tags: []
-categories:
-- Buenos Aires
-- Hackathons
-- Latin America
 authors:
 - Mariano Blejman
 date: "2011-10-30"
 _migration:
   id: 3873
-  timestamp: 1482973856
+  timestamp: 1483471667
+groups:
+- Buenos Aires
+tags:
+- Hackathons
+- Latin America
 ---
 
 ([Post en español][1])

@@ -1,16 +1,15 @@
 ---
 title: Harnessing the power of social networks for journalism
-tags:
-- social media
-- social networks
-categories:
-- News
 authors:
 - Andrew Haeg
 date: "2010-04-05"
 _migration:
   id: 317
-  timestamp: 1482973867
+  timestamp: 1483471679
+tags:
+- social media
+categories:
+- News
 ---
 
 The BBC World Service recently told its reporters [to embrace social media, or leave][1], the clear sign that social media are central to the work of journalism.

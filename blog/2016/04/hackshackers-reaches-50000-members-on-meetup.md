@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers reaches 50,000 members on Meetup
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-04-29"
 _migration:
   id: 17440
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Greetings, hacks and hackers, and happy Friday. Hacks/Hackers now officially has more than 50,000 members across [63 Meetup groups][1] &#8211; and tens of thousands more connected on Facebook, Google and other channels. Let’s take a look at what these trailblazing groups are up to next week.

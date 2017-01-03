@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers Caracas and Taipei hold their first events
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-10-14"
 _migration:
   id: 17635
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Greetings, hacks and hackers! There&#8217;s been significant interest in starting new Hacks/Hackers chapters from North America to Latin America to Asia over the past few months. One of the newest members of the family, [Caracas][1], held their first event last weekend: [#DataYTequeños][2] (cheesy sticks):

@@ -1,15 +1,14 @@
 ---
 title: 'Hacks/Hackers Denmark: Hackathon produces eight great projects'
-tags: []
-categories:
-- Denmark
-- Hackathons
 authors:
 - Signe Jepsen
 date: "2014-05-12"
 _migration:
   id: 17176
-  timestamp: 1482973850
+  timestamp: 1483471661
+tags:
+- Denmark
+- Hackathons
 description: 'Get ideas, code and presentations from the eight projects developed
   at the Media Hack Days. '
 ---

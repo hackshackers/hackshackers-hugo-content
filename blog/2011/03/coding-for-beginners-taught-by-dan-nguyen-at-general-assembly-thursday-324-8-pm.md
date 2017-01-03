@@ -1,18 +1,18 @@
 ---
 title: Coding for Beginners, taught by Dan Nguyen at General Assembly, Thursday, 3/24
   8 pm
-tags: []
-categories:
-- Announcements
-- Classes
-- New York City
-- News
 authors:
 - Jennifer 8. Lee
 date: "2011-03-15"
 _migration:
   id: 2143
-  timestamp: 1482973864
+  timestamp: 1483471676
+categories:
+- Announcements
+- Classes
+- News
+groups:
+- New York
 ---
 
 Update: It&#8217;s sold out and we are seeing huge demand for another class. So we are working on finding new time/space.

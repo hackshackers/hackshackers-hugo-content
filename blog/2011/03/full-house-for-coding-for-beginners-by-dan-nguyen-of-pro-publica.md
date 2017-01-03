@@ -1,16 +1,16 @@
 ---
 title: Full House for &#8220;Coding for Beginners&#8221; by Dan Nguyen of Pro Publica
-tags: []
-categories:
-- Classes
-- New York City
-- News
 authors:
 - Jennifer 8. Lee
 date: "2011-03-24"
 _migration:
   id: 2189
-  timestamp: 1482973864
+  timestamp: 1483471676
+categories:
+- Classes
+- News
+groups:
+- New York
 ---
 
 We kicked off the &#8220;Coding for Beginners&#8221; intro course at New York City&#8217;s [General Assembly][1] with Dan Nguyen tonight. It sold out in a day. And we are working on scheduling more classes..

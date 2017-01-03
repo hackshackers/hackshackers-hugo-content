@@ -1,15 +1,13 @@
 ---
 title: Australia gears up for Storyology, Argentina preps for the Media Party
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-08-08"
 _migration:
   id: 17580
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Welcome to August, hacks and hackers! Two big events our cresting our (southern) horizon this month: [Storyology][1], Australia&#8217;s biggest journalism and storytelling festival, is next week, and [Brisbane][2] held a [preview][3] while [Sydney][4] is taking the [post-party][5] honors.
@@ -42,10 +40,10 @@ The [Hacks/Hackers Africa][12] chapter in Kenya has been consistently collaborat
 
 **Job openings:**
 
-  * Asia:
+  * Asia: 
       * The South Asian Journalists Association (SAJA) is taking applications for its [fellowship][21]
       * NPR is seeking a [news assistant][22] in Shanghai
-  * North America:
+  * North America: 
       * Reveal, the investigative radio program, is offering [a fellowship][23] for journalists of color
       * Vox is seeking a [graphics reporter][24] in Washington, D.C.
       * WSJ is hiring a [deputy graphics editor][25]
@@ -54,19 +52,19 @@ The [Hacks/Hackers Africa][12] chapter in Kenya has been consistently collaborat
       * American Public Media, based in St. Paul, Minn., is hiring a [digital product designer][28]
       * Recode is hiring a [data editor][29] as well as a [drone/robot reporter][30]
       * Pitchfork, a music magazine, is hiring a [front-end developer][31]
-  * Africa:
+  * Africa: 
       * The Bhekisisa Mail & Guardian Centre for Health Journalism is looking for a [social media producer][32]
 
 **Other upcoming events:**
 
-  * August:
+  * August: 
       * Aug 10-13 &#8211; Syndey, Australia &#8211; [Storyology][1], a journalism and storytelling conference
       * Aug 25-27 &#8211; Buenos Aires, Argentina &#8211; the Hacks/Hackers Buenos Aires [media party][33]
-  * September:
+  * September: 
       * Sept 15-17 &#8211; Denver, USA &#8211; Online News Association (ONA)&#8217;s [annual conference][34]
       * Sept 17-20 &#8211; New Orleans, USA &#8211; Society of Professional Journalists [Excellence in Journalism][35] conference
       * Sept 20-22 &#8211; Jakarta, Indonesia &#8211; [Global Forum for Media Development][36] (GFMD)
-      * Sept. 22 &#8211; New York, USA &#8211; NYC Media Lab [Annual Summit][37], for executives, academics and startups to convene around future of media
+      * Sept. 22 &#8211; New York, USA &#8211; NYC Media Lab [Annual Summit][37], for executives, academics and startups to convene around future of media 
           * (Hacks/Hackers community members can register with a 25% off discount code: HACKSHACKER)
       * Sept 23-24 &#8211; Toronto, Canada &#8211; Hacks/Hackers [Connect Toronto][38]
       * Sept 23-25 &#8211; Kathmandu, Nepal &#8211; [Asian Investigative Journalism Conference][39]

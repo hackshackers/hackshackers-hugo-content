@@ -1,17 +1,18 @@
 ---
 title: 'Hacks/Hackers Brussels Inaugural Meetup: Thursday, Nov. 18'
-tags:
-- Belgium
-categories:
-- Brussels
-- Meetups
-- News
 authors:
 - Damien Van Achter
 date: "2010-11-13"
 _migration:
   id: 1283
-  timestamp: 1482973865
+  timestamp: 1483471678
+tags:
+- Belgium
+groups:
+- Brussels
+categories:
+- Meetups
+- News
 ---
 
 Brussels (and Belgium) is joining the Hacks/Hackers community.

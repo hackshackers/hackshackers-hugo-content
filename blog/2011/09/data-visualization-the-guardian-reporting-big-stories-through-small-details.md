@@ -1,20 +1,20 @@
 ---
 title: 'Data visualization &#038; The Guardian: Reporting big stories through small
   details'
-tags:
-- Alaistair Dant
-- nyc
-- The Guardian
-categories:
-- Meetups
-- New York City
-- News
 authors:
 - Chrys Wu
 date: "2011-09-19"
 _migration:
   id: 3678
-  timestamp: 1482973856
+  timestamp: 1483471668
+tags:
+- nyc
+- The Guardian
+categories:
+- Meetups
+- News
+groups:
+- New York
 ---
 
 {{< vimeo 29700897 >}}

@@ -1,16 +1,15 @@
 ---
 title: Integrating Tech Skills in Your Communications Career at Hacks/Hackers Austin
-tags:
-- Austin
-categories:
-- Austin
-- News
 authors:
 - Cindy Royal
 date: "2011-06-12"
 _migration:
   id: 3113
-  timestamp: 1482973857
+  timestamp: 1483471668
+groups:
+- Austin
+categories:
+- News
 ---
 
 [][1][][2]

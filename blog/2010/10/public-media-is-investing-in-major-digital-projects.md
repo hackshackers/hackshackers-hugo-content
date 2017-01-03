@@ -1,20 +1,19 @@
 ---
 title: Public media is investing in major digital projects
-tags:
-- apm
-- cpb
-- npr
-- prx
-- pubmedia
-- radio
-categories:
-- News
 authors:
 - Barrett Golding
 date: "2010-10-08"
 _migration:
   id: 984
-  timestamp: 1482973866
+  timestamp: 1483471678
+tags:
+- APM
+- npr
+- PRX
+- pubmedia
+- radio
+categories:
+- News
 description: Pubmedia's major players undertake multi-year, multi-million dollar online
   efforts.
 ---

@@ -1,19 +1,20 @@
 ---
 title: Knight Fellows demo night @ Bay Area Hacks/Hackers
-tags:
-- entrepreneurship
-- Knight fellowships
-- Silicon Valley
-- Stanford University
-categories:
-- Bay Area
-- News
 authors:
 - pmaples
 date: "2011-04-21"
 _migration:
   id: 2677
-  timestamp: 1482973863
+  timestamp: 1483471676
+tags:
+- entrepreneurship
+- Knight fellowships
+- Stanford University
+groups:
+- Silicon Valley
+- Bay Area
+categories:
+- News
 ---
 
 A Bay Area Hacks/Hackers demo night at Stanford previewed some of the journalistic innovations Knight Fellows are pursuing this year.

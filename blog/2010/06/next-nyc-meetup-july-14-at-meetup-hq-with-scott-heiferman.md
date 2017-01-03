@@ -1,18 +1,16 @@
 ---
 title: Next NYC Meetup, July 14 at Meetup HQ with Scott Heiferman
-tags:
-- meetup
-- new york
-categories:
-- Meetups
-- New York City
-- News
 authors:
 - Jennifer 8. Lee
 date: "2010-06-19"
 _migration:
   id: 462
-  timestamp: 1482973867
+  timestamp: 1483471679
+categories:
+- Meetups
+- News
+groups:
+- New York
 ---
 
 We&#8217;ve scheduled [our next New York City Meetup][1] (more in the works!) at Meetup&#8217;s HQ.

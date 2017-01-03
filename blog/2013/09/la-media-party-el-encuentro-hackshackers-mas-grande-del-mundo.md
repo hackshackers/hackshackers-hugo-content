@@ -1,14 +1,13 @@
 ---
-title: "La Media Party: el encuentro Hacks/Hackers m\xE1s grande del mundo"
-tags: []
-categories:
-- Buenos Aires
+title: 'La Media Party: el encuentro Hacks/Hackers más grande del mundo'
 authors:
 - Mariano Blejman
 date: "2013-09-03"
 _migration:
   id: 17051
-  timestamp: 1482973852
+  timestamp: 1483471663
+groups:
+- Buenos Aires
 ---
 
 {{< figure src="https://lh3.googleusercontent.com/jKmfkcWGCPkv1ZrRzrodrm2hdZv3\_9jxDm9Vel7gUusxdceylalGMgEj\_0S4sbvBAJro3vTlFLST9B1YjLGmmdXpF74tw95ysyMK2-1MkwSaLhfiXGrCg5mb" >}}

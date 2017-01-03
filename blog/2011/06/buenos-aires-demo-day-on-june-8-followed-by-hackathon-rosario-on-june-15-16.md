@@ -1,19 +1,19 @@
 ---
 title: Buenos Aires Demo Day on June 8, followed by  Hackathon @ Rosario on June 15-16
-tags: []
-categories:
-- Buenos Aires
-- Demo
-- Demos
-- Hackathons
-- Latin America
-- News
 authors:
 - Mariano Blejman
 date: "2011-06-02"
 _migration:
   id: 3023
-  timestamp: 1482973857
+  timestamp: 1483471668
+groups:
+- Buenos Aires
+categories:
+- Demos
+- News
+tags:
+- Hackathons
+- Latin America
 ---
 
 [Lea este post en español][1]

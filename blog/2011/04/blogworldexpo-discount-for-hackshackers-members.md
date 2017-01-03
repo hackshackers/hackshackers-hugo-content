@@ -1,15 +1,14 @@
 ---
 title: BlogWorldExpo discount for Hacks/Hackers members
-tags: []
-categories:
-- Announcements
-- News
 authors:
 - Chrys Wu
 date: "2011-04-06"
 _migration:
   id: 2241
-  timestamp: 1482973864
+  timestamp: 1483471676
+categories:
+- Announcements
+- News
 ---
 
 ![][1]

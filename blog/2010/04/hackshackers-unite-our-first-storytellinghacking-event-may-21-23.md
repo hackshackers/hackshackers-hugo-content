@@ -1,17 +1,16 @@
 ---
 title: 'Hacks/Hackers Unite: Our first storytelling/hacking event, May 21-23'
-tags:
-- collaboration
-- hacks/hackers unite
-- storytelling
-categories:
-- News
 authors:
 - Burt Herman
 date: "2010-04-20"
 _migration:
   id: 378
-  timestamp: 1482973867
+  timestamp: 1483471679
+tags:
+- collaboration
+- storytelling
+categories:
+- News
 ---
 
 Hacks/Hackers began as a meetup, but the vision for the group is about more than social gatherings. There&#8217;s already been so much talk about the future of journalism. We wanted to create a community of people leading the charge and building that future.

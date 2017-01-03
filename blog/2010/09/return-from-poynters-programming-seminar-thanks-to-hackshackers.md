@@ -1,23 +1,18 @@
 ---
 title: Return from Poynter&#8217;s Programming Seminar, Thanks to Hacks/Hackers
+authors:
+- coreytakahashi
+date: "2010-09-15"
+_migration:
+  id: 710
+  timestamp: 1483471678
 tags:
-- Aron Pilhofer
-- Corey Takahashi
-- Hacks/Hackers
-- Jeremy Gilbert
-- Matt Waite
 - PolitiFact
 - Poynter
 - Programming for Journalists
 - Stats Monkey
 categories:
 - News
-authors:
-- coreytakahashi
-date: "2010-09-15"
-_migration:
-  id: 710
-  timestamp: 1482973866
 ---
 
 _The following is a guest post by [Corey Takahashi][1], who attended a Poynter seminar for journalists and programming through a scholarship provided with Hacks/Hackers._

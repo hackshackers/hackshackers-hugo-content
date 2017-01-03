@@ -1,19 +1,19 @@
 ---
 title: Hacks/Hackers goes nationwide
-tags:
-- collaboration
-- hackers
-- hacks
-- medill school of journalism
-- new york times
-categories:
-- News
 authors:
 - Burt Herman
 date: "2010-03-10"
 _migration:
   id: 265
-  timestamp: 1482973867
+  timestamp: 1483471679
+tags:
+- collaboration
+- hackers
+- hacks
+- medill school of journalism
+- New York Times
+categories:
+- News
 ---
 
 I&#8217;m excited to announce that we&#8217;re joining forces with some industry leaders working at the intersection of journalism and technology to help expand Hacks/Hackers into a wider community. [Rich Gordon][1], associate professor and director of digital innovation at the [Medill School of Journalism][2], and [Aron Pilhofer][3], editor of Interactive News Technologies at [The New York Times][4], will be helping to build Hacks/Hackers.

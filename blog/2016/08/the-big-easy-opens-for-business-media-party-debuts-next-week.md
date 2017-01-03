@@ -1,15 +1,13 @@
 ---
 title: The Big Easy opens for business; Media Party debuts next week
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-08-15"
 _migration:
   id: 17589
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Greetings, hacks and hackers. Storyology swept Australia&#8217;s media scene last week, and the [Hacks/Hackers Media Party][1] is already coming up next week! This week, [New Orleans][2] is opening a new chapter, with [drinks to celebrate][3]. Spread the word if you know any journos or techies in the Big Easy.

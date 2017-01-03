@@ -1,19 +1,18 @@
 ---
 title: 'Next event: Hacks/Hackers goes to Google: Wave and future of journalism'
-tags:
-- collaboration tools
-- google
-- google wave
-- pamela fox
-- real-time
-categories:
-- News
 authors:
 - Burt Herman
 date: "2010-03-03"
 _migration:
   id: 248
-  timestamp: 1482973867
+  timestamp: 1483471679
+tags:
+- collaboration
+- google
+- google wave
+- real-time
+categories:
+- News
 ---
 
 {{< figure link="/content-images/blog/2010/03/Screen-shot-2010-03-03-at-7.42.47-PM.png" src="/content-images/blog/2010/03/Screen-shot-2010-03-03-at-7.42.47-PM.png" >}}

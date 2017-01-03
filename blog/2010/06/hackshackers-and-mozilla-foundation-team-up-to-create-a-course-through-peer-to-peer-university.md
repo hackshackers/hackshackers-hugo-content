@@ -1,16 +1,15 @@
 ---
 title: Hacks/Hackers and Mozilla Foundation Team Up to Create a Course through Peer-to-Peer
   University
-tags: []
-categories:
-- Announcements
-- News
 authors:
 - Jennifer 8. Lee
 date: "2010-06-19"
 _migration:
   id: 565
-  timestamp: 1482973867
+  timestamp: 1483471679
+categories:
+- Announcements
+- News
 ---
 
 {{< figure link="/content-images/blog/2010/07/mozilla-foundation-logo.png" src="/content-images/blog/2010/07/mozilla-foundation-logo.png" alt="Mozilla Foundation" >}}

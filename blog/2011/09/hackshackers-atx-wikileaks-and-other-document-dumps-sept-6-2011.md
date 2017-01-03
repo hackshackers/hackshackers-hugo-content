@@ -1,15 +1,13 @@
 ---
 title: 'Hacks/Hackers ATX: Wikileaks and Other Document Dumps, Sept. 6, 2011'
-tags:
-- Austin
-categories:
-- Austin
 authors:
 - Cindy Royal
 date: "2011-09-13"
 _migration:
   id: 3648
-  timestamp: 1482973856
+  timestamp: 1483471668
+groups:
+- Austin
 ---
 
 {{< figure src="http://photos2.meetupstatic.com/photos/event/4/c/e/c/event_55639692.jpeg" >}}

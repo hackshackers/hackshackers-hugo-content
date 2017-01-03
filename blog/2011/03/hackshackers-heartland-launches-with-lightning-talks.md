@@ -1,16 +1,17 @@
 ---
 title: Hacks/Hackers Heartland launches with lightning talks
-tags: []
-categories:
-- Heartland
-- Lightning Talks
-- News
 authors:
 - Jennifer 8. Lee
 date: "2011-03-30"
 _migration:
   id: 2194
-  timestamp: 1482973864
+  timestamp: 1483471676
+groups:
+- Heartland
+tags:
+- Lightning Talks
+categories:
+- News
 ---
 
 Hacks/Hackers Heartland had [a lightning talk event][1] on March 24 at the Harper Center of Creighton University in Omaha.

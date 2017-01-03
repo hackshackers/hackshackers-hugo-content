@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers holds more than 40 events in May
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-05-07"
 _migration:
   id: 17452
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Welcome to May, hacks and hackers. Miami is gearing up for its highly anticipated [Connect event][1] next weekend, with Brussels coming up next month. [Go here][2] to express your interest in attending, or follow along at [#hhconnect][3].

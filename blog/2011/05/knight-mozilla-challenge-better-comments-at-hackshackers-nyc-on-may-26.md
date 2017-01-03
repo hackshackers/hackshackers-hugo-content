@@ -1,15 +1,15 @@
 ---
 title: 'Knight-Mozilla Challenge: Better Comments! Hacks/Hackers NYC on May 26'
-tags: []
-categories:
-- Meetups
-- New York City
 authors:
 - Jennifer 8. Lee
 date: "2011-05-18"
 _migration:
   id: 2966
-  timestamp: 1482973863
+  timestamp: 1483471675
+categories:
+- Meetups
+groups:
+- New York
 ---
 
 How often have you thought, there&#8217;s got to be a better way to do comments? On [May 26, do something about it][1].

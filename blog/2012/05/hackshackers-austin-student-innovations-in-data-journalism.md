@@ -1,17 +1,16 @@
 ---
 title: Hacks/Hackers Austin &#8211; Student Innovations in Data Journalism
-tags:
-- Austin
-- Southern Methodist University
-- Texas State University
-categories:
-- Austin
 authors:
 - Cindy Royal
 date: "2012-05-31"
 _migration:
   id: 14241
-  timestamp: 1482973855
+  timestamp: 1483471666
+groups:
+- Austin
+tags:
+- Southern Methodist University
+- Texas State University
 ---
 
 {{< figure link="http://hackshackers.com/blog/2012/05/31/hackshackers-austin-student-innovations-in-data-journalism/jake2/" src="/content-images/blog/2012/05/jake2-225x300.jpg" >}}

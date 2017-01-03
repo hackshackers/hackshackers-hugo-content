@@ -1,16 +1,17 @@
 ---
 title: 'NYC&#8217;s Open(source).athon: Coding, Bao and Demos'
-tags: []
-categories:
-- Hackathons
-- New York City
-- News
 authors:
 - Julie Geng
 date: "2010-10-03"
 _migration:
   id: 911
-  timestamp: 1482973866
+  timestamp: 1483471678
+tags:
+- Hackathons
+groups:
+- New York
+categories:
+- News
 ---
 
 {{< figure src="http://photos3.meetupstatic.com/photos/event/e/6/d/7/600_18479095.jpeg" >}}

@@ -1,17 +1,17 @@
 ---
 title: A Behind-the-Scenes Look at the New York Times &#8220;Moment in Time&#8221;
   Project
-tags: []
-categories:
-- Meetups
-- New York City
-- News
 authors:
 - Jennifer 8. Lee
 date: "2010-07-28"
 _migration:
   id: 607
-  timestamp: 1482973866
+  timestamp: 1483471679
+categories:
+- Meetups
+- News
+groups:
+- New York
 ---
 
 {{< figure link="/content-images/blog/2010/07/moment-in-time.png" src="/content-images/blog/2010/07/moment-in-time.png" alt="New York Times Moment in Time" >}}

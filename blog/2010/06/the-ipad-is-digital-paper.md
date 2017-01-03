@@ -1,18 +1,16 @@
 ---
 title: The iPad is digital paper
-tags:
-- digital paper
-- e ink
-- electronic paper
-- iPad
-categories:
-- News
 authors:
 - Burt Herman
 date: "2010-06-09"
 _migration:
   id: 415
-  timestamp: 1482973867
+  timestamp: 1483471679
+tags:
+- digital paper
+- iPad
+categories:
+- News
 ---
 
 I’ve had a love-hate relationship with my iPad. And much of that came from all the confusion and debate over what the iPad actually is.

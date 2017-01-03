@@ -1,15 +1,13 @@
 ---
 title: 'Hacks/Hackers chapters worldwide dive into the #PanamaPapers'
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-04-24"
 _migration:
   id: 17435
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Hope you had a productive week, hacks and hackers. Let&#8217;s have a round of applause for Warsaw, who kicked off their very [first Hacks/Hackers event][1] on Tuesday. You can check out their adventures at [#hhwaw][2]:

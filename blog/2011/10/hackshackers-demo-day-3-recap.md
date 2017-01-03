@@ -1,16 +1,16 @@
 ---
 title: Hacks/Hackers NYC Demo Day 3 Recap
-tags: []
-categories:
-- Demo
-- Meetups
-- New York City
 authors:
 - Lam Thuy Vo
 date: "2011-10-15"
 _migration:
   id: 3781
-  timestamp: 1482973856
+  timestamp: 1483471667
+categories:
+- Demos
+- Meetups
+groups:
+- New York
 ---
 
 {{< figure link="http://www.flickr.com/photos/lamivo/6236519646/" src="http://farm7.static.flickr.com/6236/6236519646_3a44cfa5e0.jpg" alt="hackers by lamthuyvo, on Flickr" >}}

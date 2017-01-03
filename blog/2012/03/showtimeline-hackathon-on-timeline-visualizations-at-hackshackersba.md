@@ -1,16 +1,16 @@
 ---
 title: ShowTimeLine! Hackathon on timeline visualizations at @HacksHackersBA
-tags: []
-categories:
-- Buenos Aires
-- Hackathons
-- Latin America
 authors:
 - Mariano Blejman
 date: "2012-03-23"
 _migration:
   id: 4683
-  timestamp: 1482973855
+  timestamp: 1483471667
+groups:
+- Buenos Aires
+tags:
+- Hackathons
+- Latin America
 ---
 
 We believe that software can be used to tell stories in ways unthinkable for traditional journalism. Several journalists, designers and software developers related with **Hacks/Hackers Buenos Aires** are working on projects where they need to visualize data in time lines. We need tools to develop automatic or semi-automatic timelines that could be combined with other variables, to gather valuable insights from the data.

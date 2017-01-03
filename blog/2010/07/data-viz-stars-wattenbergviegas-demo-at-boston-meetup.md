@@ -1,15 +1,15 @@
 ---
-title: "Data Viz Stars Wattenberg+Vi\xE9gas Demo At Boston Meetup"
-tags: []
-categories:
-- Boston
-- News
+title: Data Viz Stars Wattenberg+Viégas Demo At Boston Meetup
 authors:
 - Jennifer 8. Lee
 date: "2010-07-23"
 _migration:
   id: 595
-  timestamp: 1482973867
+  timestamp: 1483471679
+groups:
+- Boston
+categories:
+- News
 ---
 
 [Fernanda Viégas and Martin Wattenberg][1] (&#8220;fm&#8221; as the two data viz specialists are known to call themselves) demoed  their newest venture into the journalism space at the Boston chapters first event Meetup on July 20.

@@ -1,15 +1,15 @@
 ---
 title: 'Photos+Video: Seattle Demo 2011 Recap'
-tags: []
-categories:
-- News
-- Seattle
 authors:
 - Karen Johnson
 date: "2011-03-30"
 _migration:
   id: 2226
-  timestamp: 1482973864
+  timestamp: 1483471676
+categories:
+- News
+groups:
+- Seattle
 ---
 
 We kicked off our first demo event last night with a packed house at [Tableau Software][1] (our event sponsor) in Seattle&#8217;s Fremont neighborhood. More than 50 hacks and hackers packed the meeting space to learn about recent innovations at Tableau, [Intersect][2], _[The Seattle Times][3]_, [Journalism That Matters][4]-Pacific Northwest and [Microsoft Fuse Labs][5]. Guests also spent a good chunk of time eating, drinking and making connections during the fully catered (thanks, Tableau) networking session that we&#8217;re hoping will lead to some cool projects in the near future. If you missed the demo, be sure to [**check out the Ustream video**][6].

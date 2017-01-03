@@ -1,16 +1,16 @@
 ---
 title: 'Follow the Money: How to fund serious journalism online'
-tags: []
-categories:
-- Bay Area
-- Meetups
-- News
 authors:
 - Burt Herman
 date: "2013-03-06"
 _migration:
   id: 16838
-  timestamp: 1482973853
+  timestamp: 1483471664
+groups:
+- Bay Area
+categories:
+- Meetups
+- News
 description: The latest Hacks/Hackers event brought together the creator of Pocket
   and Matter, and a former Wired.com head editor to talk about ways to make money
   from serious journalism

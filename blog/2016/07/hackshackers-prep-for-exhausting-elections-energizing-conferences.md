@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers prep for exhausting elections, energizing conferences
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-07-25"
 _migration:
   id: 17561
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 News last week was dominated by fallouts of the [Brexit vote][1], attempted [Turkish coup][2] and spread of the [Zika virus][3]. News in the U.S., however, was dominated as it always is these days: by Donald Trump and his political party last week, and Hillary Clinton and her party this week.

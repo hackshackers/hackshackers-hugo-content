@@ -1,15 +1,15 @@
 ---
-title: "Big data: extraer y visualizar grandes vol\xFAmenes de datos"
-tags: []
-categories:
-- Buenos Aires
-- Latin America
+title: 'Big data: extraer y visualizar grandes volúmenes de datos'
 authors:
 - Mariano Blejman
 date: "2012-06-09"
 _migration:
   id: 14869
-  timestamp: 1482973855
+  timestamp: 1483471666
+groups:
+- Buenos Aires
+tags:
+- Latin America
 ---
 
 **_(English post coming)_**

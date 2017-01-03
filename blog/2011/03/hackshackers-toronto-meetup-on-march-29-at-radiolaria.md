@@ -1,16 +1,16 @@
 ---
 title: Hacks/Hackers Toronto Meetup on March 29 at Radiolaria
-tags: []
-categories:
-- Meetups
-- News
-- Toronto
 authors:
 - Jennifer 8. Lee
 date: "2011-03-23"
 _migration:
   id: 2167
-  timestamp: 1482973864
+  timestamp: 1483471676
+categories:
+- Meetups
+- News
+groups:
+- Toronto
 ---
 
 Join Hacks/Hackers Toronto [on March 29th for an evening of presentations, demos and chatter][1] on the topic of online communities and journalism. We have three terrific talks planned, and we have an exciting new space to host the event and foster conversation afterwards. [Craig Silverman][2], [Ivor Tossell][3], [Kim Fox][4], [Mason Wright][5], [Phillip Smith][6] are hosting.

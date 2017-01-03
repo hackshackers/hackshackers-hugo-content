@@ -1,17 +1,15 @@
 ---
 title: 'Hacks/Hackers New Delhi: New markets, new models'
-tags:
-- meetup
-- New Delhi
-categories:
-- Meetups
-- New Delhi
 authors:
 - Anika Gupta
 date: "2013-01-02"
 _migration:
   id: 16724
-  timestamp: 1482973853
+  timestamp: 1483471665
+categories:
+- Meetups
+groups:
+- New Delhi
 ---
 
 {{< figure src="/content-images/blog/2013/01/HHDEL-entry-450.jpg" alt="Hacks/Hackers New Delhi first meetup" >}}

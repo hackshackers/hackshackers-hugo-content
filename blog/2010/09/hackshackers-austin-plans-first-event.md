@@ -1,16 +1,15 @@
 ---
 title: Hacks/Hackers Austin plans first event
-tags:
-- Austin
-categories:
-- Austin
-- News
 authors:
 - Cindy Royal
 date: "2010-09-15"
 _migration:
   id: 786
-  timestamp: 1482973866
+  timestamp: 1483471678
+groups:
+- Austin
+categories:
+- News
 ---
 
 Hacks/Hackers Austin will hold its first meetup Thursday, September 30 from 6-8 p.m. at [Austin&#8217;s Pizza][1] on the Drag (2324 Guadalupe, Austin 78705). Join us upstairs in the bar for free pizza and drinks (while drink tickets last/cash bar thereafter) and great conversation. It&#8217;s a very cool room with windows all around overlooking UT. Stay tuned for more details and surprises.

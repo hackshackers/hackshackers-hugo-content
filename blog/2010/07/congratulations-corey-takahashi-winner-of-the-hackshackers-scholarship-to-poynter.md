@@ -1,20 +1,19 @@
 ---
 title: 'Congratulations Corey Takahashi: Winner of the Hacks/Hackers scholarship to
   Poynter'
+authors:
+- Burt Herman
+date: "2010-07-28"
+_migration:
+  id: 618
+  timestamp: 1483471678
 tags:
-- Corey Takahashi
 - journalism education
 - Poynter
 - scholarship
 categories:
 - Announcements
 - News
-authors:
-- Burt Herman
-date: "2010-07-28"
-_migration:
-  id: 618
-  timestamp: 1482973866
 ---
 
 {{< figure link="/content-images/blog/2010/07/Corey\_Pic\_AAJAconvention.jpg" src="/content-images/blog/2010/07/Corey\_Pic\_AAJAconvention.jpg" >}}

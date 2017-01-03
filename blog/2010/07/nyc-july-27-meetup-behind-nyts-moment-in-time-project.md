@@ -1,15 +1,15 @@
 ---
 title: 'NYC July 27 Meetup: Behind NYT&#8217;s Moment in Time Project'
-tags: []
-categories:
-- New York City
-- News
 authors:
 - Jennifer 8. Lee
 date: "2010-07-11"
 _migration:
   id: 484
-  timestamp: 1482973867
+  timestamp: 1483471679
+groups:
+- New York
+categories:
+- News
 ---
 
 The Meetup at Meetup now has a waiting list, but don&#8217;t despair. We have a bonus Meetup this month (before August) in a gorgeous penthouse space!!

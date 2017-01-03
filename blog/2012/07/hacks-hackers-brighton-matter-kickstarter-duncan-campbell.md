@@ -1,17 +1,16 @@
 ---
-title: "Kickstarter\u2019s \u2018most successful journalism project\u2019 and \u2018taking
-  on the unseen snoopers\u2019 | Hacks/Hackers Brighton"
-tags:
-- brighton
-- meetup
-categories:
-- Brighton
+title: Kickstarter’s ‘most successful journalism project’ and ‘taking on the unseen
+  snoopers’ | Hacks/Hackers Brighton
 authors:
 - Sarah Marshall
 date: "2012-07-05"
 _migration:
   id: 16208
-  timestamp: 1482973854
+  timestamp: 1483471666
+groups:
+- Brighton
+categories:
+- Meetups
 ---
 
 _

@@ -1,15 +1,13 @@
 ---
 title: Chapters kick off 2016 with meetups and Connect events
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-02-01"
 _migration:
   id: 17382
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Welcome to 2016, hacks and hackers! It’s been six weeks since our last newsletter and several chapters have been keeping the fires burning, including San Francisco, which had its first Connect event last weekend. Here’s what’s coming up next:

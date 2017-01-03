@@ -1,15 +1,13 @@
 ---
 title: Announcing Connect Brussels
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-02-20"
 _migration:
   id: 17399
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Happy Friday, hacks and hackers. We’ve got some exciting news:

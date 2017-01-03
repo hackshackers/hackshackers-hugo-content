@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers Connect Miami kicks off
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-05-13"
 _migration:
   id: 17455
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Happy Friday the 13th, hacks and hackers. [#HHConnect][1] Miami fires off today and continues throughout the weekend:

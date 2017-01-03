@@ -1,17 +1,16 @@
 ---
 title: The Launch of Hacks/Hackers London
-tags:
-- london
-- Meetups
-categories:
-- Meetups
-- News
 authors:
 - Joanna Geary
 date: "2010-08-19"
 _migration:
   id: 653
-  timestamp: 1482973866
+  timestamp: 1483471678
+groups:
+- London
+categories:
+- Meetups
+- News
 ---
 
 We&#8217;re delighted to announce that the first international chapter of Hacks/Hackers got off to a fantastic start yesterday.

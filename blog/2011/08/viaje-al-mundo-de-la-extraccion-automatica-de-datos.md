@@ -1,13 +1,11 @@
 ---
-title: "Viaje al mundo de la extracci\xF3n autom\xE1tica de datos desde documentos"
-tags: []
-categories: []
+title: Viaje al mundo de la extracción automática de datos desde documentos
 authors:
 - Mariano Blejman
 date: "2011-08-21"
 _migration:
   id: 3533
-  timestamp: 1482973856
+  timestamp: 1483471668
 ---
 
 [English post here!][1]

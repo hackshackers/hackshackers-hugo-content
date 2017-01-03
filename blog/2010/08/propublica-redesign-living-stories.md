@@ -1,16 +1,16 @@
 ---
 title: ProPublica Redesign Involves the Readers in Complex Stories
-tags: []
-categories:
-- Meetups
-- New York City
-- News
 authors:
 - Scott Klein
 date: "2010-08-23"
 _migration:
   id: 664
-  timestamp: 1482973866
+  timestamp: 1483471678
+categories:
+- Meetups
+- News
+groups:
+- New York
 ---
 
 [![ProPublica logo][1]][2] At [ProPublica][3], we make a habit of sharing. We give our biggest stories for free to news organizations, and we hand out [recipes for some of our most complex investigations][4]. We encourage other news organizations to [steal our stories][5], and give out, free to use, [clean, reliable, analyzed data][6] that is often available [nowhere else][7]. Our mission is to have real-world impact, and we think the best path to that is not through owning an issue, but through igniting coverage of an issue everywhere. 

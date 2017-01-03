@@ -1,15 +1,13 @@
 ---
 title: Hacks/Hackers and other groups embrace conference season
-tags:
-- newsletter
-categories:
-- Newsletter
 authors:
 - samanthasunne
 date: "2016-06-12"
 _migration:
   id: 17466
-  timestamp: 1482973849
+  timestamp: 1483471660
+categories:
+- Newsletter
 ---
 
 Greetings, hacks and hackers. In case you haven&#8217;t noticed, summer might as well be called conference season. Last week, [Connect][1] and [Dataharvest][2] brought journalists together in Brussels. Next up for North America, [IRE][3] comes to New Orleans, [SRC CON][4] to Portland and [Connect Toronto][5]. Let&#8217;s take a look at what individual chapters have been up to.

@@ -1,17 +1,16 @@
 ---
 title: 'Hacks Hackers Austin: Post SXSW/NICAR Meetup'
-tags:
-- Austin
-- nicar
-- SXSW
-categories:
-- Austin
 authors:
 - Cindy Royal
 date: "2014-04-14"
 _migration:
   id: 17144
-  timestamp: 1482973851
+  timestamp: 1483471662
+groups:
+- Austin
+tags:
+- nicar
+- SXSW
 ---
 
 ![][1]

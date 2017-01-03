@@ -1,17 +1,18 @@
 ---
 title: Breakthroughs in Data Viz, Government Accountability Trackers, Real-time Video
   Animations, and More at Hacks/Hackers NYC Demo Day 5
-tags:
-- demo day
-categories:
-- Meetups
-- New York City
 authors:
 - Stephanie Lowe
 date: "2013-07-31"
 _migration:
   id: 17006
-  timestamp: 1482973852
+  timestamp: 1483471664
+tags:
+- demo day
+categories:
+- Meetups
+groups:
+- New York
 ---
 
 {{< figure link="/content-images/blog/2013/07/hhnyc-demo-day-5.jpg" src="/content-images/blog/2013/07/hhnyc-demo-day-5.jpg" alt="Hacks/Hackers NYC Demo Day 5" >}}

@@ -1,15 +1,15 @@
 ---
 title: Hacks/Hackers Zurich Kickoff
-tags: []
-categories:
-- Meetups
-- Zurich
 authors:
 - Sylke Gruhnwald
 date: "2013-09-30"
 _migration:
   id: 17086
-  timestamp: 1482973852
+  timestamp: 1483471663
+categories:
+- Meetups
+groups:
+- Zürich
 ---
 
 {{< figure src="/content-images/blog/2013/09/zurich\_stacked\_1.jpg" >}}

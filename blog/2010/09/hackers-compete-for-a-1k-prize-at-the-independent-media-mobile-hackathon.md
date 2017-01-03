@@ -1,27 +1,26 @@
 ---
 title: 'Hackers: Compete for a $1K Prize at the Independent Media Mobile Hackathon
   in Chicago'
-tags:
-- android
-- apps
-- hackathon
-- iPad
-- mobile
-- mobile apps
-- Mozilla
-- open source
-- The Media Consortium
-categories:
-- Chicago
-- Hackathons
-- Mobile
-- News
 authors:
 - Erin Polgreen
 date: "2010-09-23"
 _migration:
   id: 803
-  timestamp: 1482973866
+  timestamp: 1483471678
+tags:
+- Android
+- Apps
+- Hackathons
+- iPad
+- mobile apps
+- Mozilla
+- open source
+- The Media Consortium
+groups:
+- Mobile
+- Chicago
+categories:
+- News
 ---
 
 {{< figure src="http://www.themediaconsortium.org/wp-content/uploads/2010/09/hackathon-300x71.png" >}}

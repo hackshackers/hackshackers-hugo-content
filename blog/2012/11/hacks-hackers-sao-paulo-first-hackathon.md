@@ -1,15 +1,15 @@
 ---
-title: "Hacks/Hackers S\xE3o Paulo: The First Hackathon"
-tags: []
-categories:
-- Latin America
-- "S\xE3o Paulo"
+title: 'Hacks/Hackers São Paulo: The First Hackathon'
 authors:
 - Gustavo Faleiros
 date: "2012-11-04"
 _migration:
   id: 16633
-  timestamp: 1482973853
+  timestamp: 1483471665
+tags:
+- Latin America
+groups:
+- São Paulo
 ---
 
 ![][1]**Developers and journalists gather for the first Hacks/Hackers São Paulo hackathon.**

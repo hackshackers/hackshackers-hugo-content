@@ -1,17 +1,17 @@
 ---
 title: Take a hack/hacker to work day
+authors:
+- Burt Herman
+date: "2010-02-24"
+_migration:
+  id: 155
+  timestamp: 1483471679
 tags:
 - event ideas
 - hack day
 - tension
 categories:
 - News
-authors:
-- Burt Herman
-date: "2010-02-24"
-_migration:
-  id: 155
-  timestamp: 1482973867
 ---
 
 Thanks to all of you who posted ideas for future events at the [meetup site][1]. I&#8217;d like to bring the conversation over here because meetup doesn&#8217;t allow commenting on ideas beyond simply &#8220;liking&#8221; them.

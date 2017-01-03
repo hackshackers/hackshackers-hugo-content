@@ -1,18 +1,19 @@
 ---
-title: "\xA1Invasi\xF3n de Hacks/Hackers en Buenos Aires! Periodismo de datos y datos
-  para el periodismo"
-tags: []
-categories:
-- Buenos Aires
-- Latin America
-- Meetups
-- News
+title: ¡Invasión de Hacks/Hackers en Buenos Aires! Periodismo de datos y datos para
+  el periodismo
 authors:
 - Mariano Blejman
 date: "2011-04-29"
 _migration:
   id: 2776
-  timestamp: 1482973863
+  timestamp: 1483471675
+groups:
+- Buenos Aires
+tags:
+- Latin America
+categories:
+- Meetups
+- News
 ---
 
 You can also [read this post in English][1].

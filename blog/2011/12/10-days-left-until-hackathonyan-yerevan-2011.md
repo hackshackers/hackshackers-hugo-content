@@ -1,25 +1,24 @@
 ---
 title: 10 Days Left Until Hackathon[YAN] Yerevan 2011
-tags:
-- Armenia
-- Contest
-- hackathon
-- hackers
-- hacks
-- Hacks/Hackers
-- innovation
-- Yerevan
-categories:
-- Announcements
-- Talks
-- Toronto
-- Yerevan (Armenia)
 authors:
 - Seda Muradyan
 date: "2011-12-07"
 _migration:
   id: 4001
-  timestamp: 1482973856
+  timestamp: 1483471667
+groups:
+- Armenia
+- Yerevan
+- Toronto
+tags:
+- contest
+- Hackathons
+- hackers
+- hacks
+- innovation
+categories:
+- Announcements
+- Talks
 ---
 
 Public Journalism Club and Microsoft Innovation Center Armenia, the organizers of Hackathon[YAN] Yerevan contest which will take place on 17-18 December 2011, have received over 50 applications from teams willing to take part in the competition. 50 teams submitted projects that aim at solving the issues of Yerevan, Armenia’s capital.

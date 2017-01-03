@@ -1,16 +1,16 @@
 ---
 title: 'Hackathon{YAN} 2012: winners are announced :)'
-tags:
-- Armenia
-categories:
-- Hackathons
-- Yerevan (Armenia)
 authors:
 - Seda Muradyan
 date: "2012-12-26"
 _migration:
   id: 16731
-  timestamp: 1482973853
+  timestamp: 1483471665
+groups:
+- Armenia
+- Yerevan
+tags:
+- Hackathons
 ---
 
 Hackathon{YAN} 2012 is already over , winners are announced.

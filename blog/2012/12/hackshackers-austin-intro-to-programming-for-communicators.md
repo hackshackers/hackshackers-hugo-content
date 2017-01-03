@@ -1,15 +1,13 @@
 ---
 title: 'Hacks/Hackers Austin: Intro to Programming for Communicators'
-tags:
-- Austin
-categories:
-- Austin
 authors:
 - Cindy Royal
 date: "2012-12-04"
 _migration:
   id: 16698
-  timestamp: 1482973853
+  timestamp: 1483471665
+groups:
+- Austin
 ---
 
 Twenty-four members of Hacks/Hackers and the Online News Association community in Austin attended Cindy Royal&#8217;s workshop on Dec. 3 at Austin American-Statesman:  Intro to Programming for Communicators. This 2-hour workshop was meant for people with no experience, to introduce them to the most basic concepts of programming. Royal used JavaScript as the platform, but emphasized the concepts that were common amongst most programming languages.

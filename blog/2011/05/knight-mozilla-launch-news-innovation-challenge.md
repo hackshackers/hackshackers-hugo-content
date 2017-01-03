@@ -1,23 +1,24 @@
 ---
 title: Knight, Mozilla launch news innovation challenge
-tags:
-- Drumbeat
-- fellowship
-- Knight Foundation
-- Knight-Mozilla News Innovation Challenge
-- Mojo
-- Mozilla
-categories:
-- Bay Area
-- Meetups
-- Opportunities
-- Talks
 authors:
 - Wendy Norris
 date: "2011-05-02"
 _migration:
   id: 2818
-  timestamp: 1482973863
+  timestamp: 1483471675
+tags:
+- Drumbeat
+- fellowship
+- Knight Foundation
+- knight news challenge
+- Mojo
+- Mozilla
+groups:
+- Bay Area
+categories:
+- Meetups
+- Opportunities
+- Talks
 ---
 
 {{< figure link="/content-images/blog/2011/05/Mozilla-HH1.jpg" src="/content-images/blog/2011/05/Mozilla-HH1-224x300.jpg" >}}
