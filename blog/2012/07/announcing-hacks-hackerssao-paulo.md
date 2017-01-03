@@ -16,9 +16,7 @@ _migration:
   timestamp: 1482973854
 ---
 
-{{< figure src="http://www.cidadedesaopaulo.com/sp/images/stories/fotos\_cidade/h\_av\_23\_de_maio.jpg" caption="_Credit: Alexandre Diniz/Prefeitura de São Paulo_&#8221;
-
->}}
+{{< figure src="http://www.cidadedesaopaulo.com/sp/images/stories/fotos\_cidade/h\_av\_23\_de_maio.jpg" caption="_Credit: Alexandre Diniz/Prefeitura de São Paulo_" >}}
 
 São Paulo, the most populous city and a thriving cultural hub in South America, will host the [first Hacks/Hackers chapter in Brazil][1]. A group of journalists involved with the [National Association of Investigative Journalism &#8211; Abraji][2], led by Knight International Fellow of the International Center for Journalists, [Gustavo Faleiros][3], is organizing the first meeting along with Everton Alvarenga, from the [Open Knowlege Foundation in Brazil][4], and 3 other representatives from the [W3C local office][5] . The event happens July 16, 7 p.m., in the Folha de S. Paulo auditorium on [Alameda Barão de Limeira, 425, 9º andar (See map)][6]
 

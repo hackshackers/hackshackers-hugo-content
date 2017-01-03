@@ -5,9 +5,9 @@ tags:
 - online news association
 - washington dc
 categories:
-  0: Hackathons
-  1: News
-  3: Washington DC
+- Hackathons
+- News
+- Washington DC
 authors:
 - Burt Herman
 date: "2010-09-24"
