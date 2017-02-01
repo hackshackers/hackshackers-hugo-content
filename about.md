@@ -3,8 +3,6 @@ title: About
 sectionFront: _about
 ---
 
-{{< youtube GOQZdK0tuNU >}}
-
 Hacks/Hackers is a rapidly expanding international grassroots journalism organization with dozens of chapters (and counting) and thousands of members across four continents (and counting). Our mission is to create a network of journalists ("hacks") and technologists ("hackers") who rethink the future of news and information.
 
 ### What do we do?
