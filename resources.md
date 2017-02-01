@@ -1,5 +1,6 @@
 ---
 title: Resources
+sectionFront: _resources
 ---
 Hacks/Hackers aims to bring together journalists and technologies. As such, it is compiling or creating resources to help.
 

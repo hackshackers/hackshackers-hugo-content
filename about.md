@@ -1,5 +1,6 @@
 ---
 title: About
+sectionFront: _about
 ---
 
 {{< youtube GOQZdK0tuNU >}}
