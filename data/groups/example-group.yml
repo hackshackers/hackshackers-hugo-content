@@ -1,0 +1,23 @@
+# NOTE: This group will _only_ appear in the Find A Group page during local development on http://localhost:1313/
+
+# Label for map popup
+label: Example Group
+
+# Lat/Lon pair
+coordinates:
+  - 0
+  - 0
+
+# Text string; doesn't have to be a real date
+founded: January 2009
+
+# List of [name, link] objects
+organizers:
+  - { name: "Patricia Marks", link: "https://twitter.com/pm" }
+  - { name: "George DeGraw", link: "https://twitter.com/gd" }
+
+# URL of external page, e.g. Meetup.com group
+externalUrl: https://meetup.com/HHExampleGroup
+
+# (Optional) Slug of internal group page, e.g. /content/groups/example-group.md
+groupPage: example-group
