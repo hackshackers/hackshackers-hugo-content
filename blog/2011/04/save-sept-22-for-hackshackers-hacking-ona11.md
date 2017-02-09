@@ -5,12 +5,12 @@ authors:
 date: "2011-04-15"
 _migration:
   id: 2635
-  timestamp: 1483471676
+  timestamp: 1486602234
+tags:
+- Hackathons
 categories:
 - Announcements
 - News
-tags:
-- Hackathons
 ---
 
 **Journalists, developers and designers:**  

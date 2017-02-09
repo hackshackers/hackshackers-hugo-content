@@ -5,14 +5,14 @@ authors:
 date: "2010-11-10"
 _migration:
   id: 1297
-  timestamp: 1483471678
+  timestamp: 1486602236
 tags:
 - data visualization
 - information graphics
-groups:
-- New York
 categories:
 - News
+groups:
+- New York
 ---
 
 The New York City chapter of Hacks / Hackers met on Nov. 9th for a jam packed information session on information and data visualization. The four presenters covered the gamut of information visualization, from online data-viz products, to just launched prototypes, to critical analyses of how graphics are being used in the media.

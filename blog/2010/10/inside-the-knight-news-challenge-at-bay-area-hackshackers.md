@@ -5,13 +5,13 @@ authors:
 date: "2010-10-05"
 _migration:
   id: 962
-  timestamp: 1483471678
-groups:
-- Bay Area
+  timestamp: 1486602236
 tags:
 - knight news challenge
 categories:
 - Meetups
 - News
+groups:
+- Bay Area
 ---
 

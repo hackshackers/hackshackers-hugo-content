@@ -1,11 +1,11 @@
 ---
-title: Don&#8217;t mistake your CMS for a development platform
+title: Don’t mistake your CMS for a development platform
 authors:
 - Scott Klein
 date: "2010-04-13"
 _migration:
   id: 353
-  timestamp: 1483471679
+  timestamp: 1486602238
 tags:
 - content management system
 - development
@@ -66,6 +66,6 @@ Scott Klein is the Editor of News Applications at </em>[_ProPublica_][9]_, direc
  [5]: http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
  [6]: http://nursinghomes.apps.chicagotribune.com/
  [7]: http://homicides.redeyechicago.com/
- [8]: https://www.servermania.com/cloud-hosting.htm
+ [8]: https://www.servermania.com/dedicated-servers-hosting.htm
  [9]: http://www.propublica.org/
  [10]: http://www.documentcloud.org/

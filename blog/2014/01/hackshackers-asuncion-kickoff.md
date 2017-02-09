@@ -5,14 +5,14 @@ authors:
 date: "2014-01-28"
 _migration:
   id: 17120
-  timestamp: 1483471663
+  timestamp: 1486602221
+tags:
+- Latin America
 categories:
 - Announcements
 - Meetups
 groups:
 - Asunción
-tags:
-- Latin America
 ---
 
 The global network that works for the future of journalism has found its niche in Asunción, Paraguay’s capital, since May of this year. With the support and enthusiasm of Web developers, designers, journalists, communicators, and professionals from different fields, [Hacks/Hackers Asunción][1] has launched its first activities eager to build an active community of innovators ready to take journalism to the next level.

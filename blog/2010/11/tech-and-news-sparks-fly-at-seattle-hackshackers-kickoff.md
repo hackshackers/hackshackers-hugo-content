@@ -5,14 +5,14 @@ authors:
 date: "2010-11-12"
 _migration:
   id: 1375
-  timestamp: 1483471678
+  timestamp: 1486602236
 tags:
 - Kickoff
-groups:
-- Seattle
 categories:
 - Meetups
 - News
+groups:
+- Seattle
 ---
 
 News and tech nerds gathered at Havana Social Club Thursday night to kickoff the Seattle chapter of [Hacks/Hackers][1] and nosh on Hawaiian-Korean eats from Marination Mobile (thanks to [Patch.com][2]).

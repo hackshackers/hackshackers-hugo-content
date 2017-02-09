@@ -5,12 +5,12 @@ authors:
 date: "2010-08-19"
 _migration:
   id: 653
-  timestamp: 1483471678
-groups:
-- London
+  timestamp: 1486602237
 categories:
 - Meetups
 - News
+groups:
+- London
 ---
 
 We&#8217;re delighted to announce that the first international chapter of Hacks/Hackers got off to a fantastic start yesterday.

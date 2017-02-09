@@ -5,13 +5,13 @@ authors:
 date: "2012-05-11"
 _migration:
   id: 11200
-  timestamp: 1483471666
-groups:
-- Buenos Aires
-categories:
-- Demos
+  timestamp: 1486602223
 tags:
 - Latin America
+categories:
+- Demos
+groups:
+- Buenos Aires
 ---
 
 {{< figure link="http://hackshackers.com/blog/2012/05/11/storify-in-buenos-aires-applications-to-tell-stories-pre-and-post-hacks/tumblr\_m0h769pqny1r8u1sp/" src="/content-images/blog/2012/05/tumblr\_m0h769pQnY1r8u1sp-300x164.jpg" >}}

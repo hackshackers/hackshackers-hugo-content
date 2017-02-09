@@ -6,7 +6,7 @@ authors:
 date: "2010-09-23"
 _migration:
   id: 803
-  timestamp: 1483471678
+  timestamp: 1486602237
 tags:
 - Android
 - Apps
@@ -16,11 +16,11 @@ tags:
 - Mozilla
 - open source
 - The Media Consortium
+categories:
+- News
 groups:
 - Mobile
 - Chicago
-categories:
-- News
 ---
 
 {{< figure src="http://www.themediaconsortium.org/wp-content/uploads/2010/09/hackathon-300x71.png" >}}

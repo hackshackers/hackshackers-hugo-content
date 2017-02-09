@@ -5,14 +5,14 @@ authors:
 date: "2010-09-24"
 _migration:
   id: 812
-  timestamp: 1483471678
+  timestamp: 1486602237
 tags:
 - Hackathons
 - Online News Association
-groups:
-- Washington DC
 categories:
 - News
+groups:
+- Washington DC
 ---
 
 {{< figure link="/content-images/blog/2010/09/Screen-shot-2010-09-23-at-2.29.56-PM.png" src="/content-images/blog/2010/09/Screen-shot-2010-09-23-at-2.29.56-PM-300x79.png" >}}

@@ -1,12 +1,11 @@
 ---
-title: 'Data visualization &#038; The Guardian: Reporting big stories through small
-  details'
+title: 'Data visualization & The Guardian: Reporting big stories through small details'
 authors:
 - Chrys Wu
 date: "2011-09-19"
 _migration:
   id: 3678
-  timestamp: 1483471668
+  timestamp: 1486602223
 tags:
 - nyc
 - The Guardian

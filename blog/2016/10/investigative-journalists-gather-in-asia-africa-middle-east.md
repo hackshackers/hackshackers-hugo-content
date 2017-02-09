@@ -5,7 +5,7 @@ authors:
 date: "2016-10-07"
 _migration:
   id: 17625
-  timestamp: 1483471660
+  timestamp: 1486602218
 categories:
 - Newsletter
 ---
@@ -26,6 +26,8 @@ While we&#8217;re still digesting the tips and tools from those events, investig
 **Chapter spotlight:**
 
 [Zurich][8] took a peek at Switzerland&#8217;s [brand new open data portal][9], opendata.swiss. Zurich has had success with holding meetups every other month or so, rather than every month. &#8220;It&#8217;s good to know some dates in advance so you can tease the next meetup at the current one,&#8221; organizer [Timo Grossenbacher][10] said.
+
+{{< iframe src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/superstettler/videos/10154437619026236/&show_text=0&width=400" width="400px" height="300px" >}}
 
 &#8220;Do less better&#8221; is a tip that other organizers have offered before. Check out the guide [on the Hacks/Hackers website][11].
 

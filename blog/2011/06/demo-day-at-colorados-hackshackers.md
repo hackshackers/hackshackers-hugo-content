@@ -1,15 +1,15 @@
 ---
-title: Demo Day at Colorado&#8217;s Hacks/Hackers
+title: Demo Day at Colorado’s Hacks/Hackers
 authors:
 - Mike Lewis
 date: "2011-06-02"
 _migration:
   id: 3011
-  timestamp: 1483471668
-groups:
-- Colorado
+  timestamp: 1486602224
 categories:
 - News
+groups:
+- Colorado
 ---
 
 {{< figure link="http://www.flickr.com/photos/mikelewis/5760368894/in/photostream/" src="http://farm6.static.flickr.com/5308/5760368894_28985f7b87.jpg" >}}

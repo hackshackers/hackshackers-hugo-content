@@ -5,15 +5,15 @@ authors:
 date: "2013-02-12"
 _migration:
   id: 16797
-  timestamp: 1483471664
+  timestamp: 1486602221
 tags:
 - data
 - Hackathons
+categories:
+- News
 groups:
 - India
 - New Delhi
-categories:
-- News
 ---
 
 {{< figure src="/content-images/blog/2013/02/HHDEL-1302-big-data-welcome.jpg" alt="Hacks/Hackers New Delhi gathers for their first hackathon." >}}

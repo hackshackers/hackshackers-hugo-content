@@ -5,14 +5,14 @@ authors:
 date: "2010-11-13"
 _migration:
   id: 1283
-  timestamp: 1483471678
+  timestamp: 1486602236
 tags:
 - Belgium
-groups:
-- Brussels
 categories:
 - Meetups
 - News
+groups:
+- Brussels
 ---
 
 Brussels (and Belgium) is joining the Hacks/Hackers community.

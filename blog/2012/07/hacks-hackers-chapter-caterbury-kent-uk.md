@@ -6,11 +6,11 @@ authors:
 date: "2012-07-14"
 _migration:
   id: 16223
-  timestamp: 1483471666
-groups:
-- Canterbury
+  timestamp: 1486602222
 categories:
 - Announcements
+groups:
+- Canterbury
 ---
 
 A new Hacks/Hackers Chapter was successfully launched 2nd July in Canterbury, UK: [@HacksHackersCTB][1]. This first event gathered an impressive crowd of 40, with a good balance of both hacks and hackers engaging in discussions about data driven journalism. We, the organisers Tom Foster [Tom Foster][2] and [Lizzie Hodgson][3], were very encouraged by both the standard of debate and the positive feedback from attendees. [Sign up now][4] to be notified of future Hacks/Hackers Canterbury events.

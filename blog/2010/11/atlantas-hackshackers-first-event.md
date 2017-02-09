@@ -1,16 +1,16 @@
 ---
-title: Atlanta&#8217;s Hacks/Hackers first event with a Knight NewsChallenge Panel
+title: Atlanta’s Hacks/Hackers first event with a Knight NewsChallenge Panel
 authors:
 - Sergio Goldenberg
 date: "2010-11-23"
 _migration:
   id: 1508
-  timestamp: 1483471677
-groups:
-- Atlanta
+  timestamp: 1486602236
 categories:
 - Meetups
 - News
+groups:
+- Atlanta
 ---
 
 On Monday November 22, the Atlanta chapter of Hacks/Hackers hosted its inaugural meetup at RíRá Irish Pub in Midtown. Approximately 50 people attended the event , with hacks and hackers from media companies like Turner/CNN, Cox Media Group and the AJC; academics and students from institutions like the University of Georgia, Kennesaw State University and Georgia Tech; entrepreneurs, consultants, small-biz media companies, and many others (including a librarian!)

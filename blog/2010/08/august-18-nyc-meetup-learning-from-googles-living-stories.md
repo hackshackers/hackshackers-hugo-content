@@ -1,11 +1,11 @@
 ---
-title: 'August 18 NYC Meetup: Learning From Google&#8217;s Living Stories'
+title: 'August 18 NYC Meetup: Learning From Google’s Living Stories'
 authors:
 - Jennifer 8. Lee
 date: "2010-08-11"
 _migration:
   id: 644
-  timestamp: 1483471678
+  timestamp: 1486602237
 categories:
 - Meetups
 - News

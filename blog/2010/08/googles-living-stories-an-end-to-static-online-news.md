@@ -1,11 +1,11 @@
 ---
-title: 'Google&#8217;s &#8216;Living Stories&#8217;: An End to Static Online News'
+title: 'Google’s ‘Living Stories’: An End to Static Online News'
 authors:
 - Katie McNeil
 date: "2010-08-23"
 _migration:
   id: 659
-  timestamp: 1483471678
+  timestamp: 1486602237
 categories:
 - Meetups
 - News

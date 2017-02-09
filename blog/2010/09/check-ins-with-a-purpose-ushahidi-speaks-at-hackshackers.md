@@ -5,13 +5,13 @@ authors:
 date: "2010-09-17"
 _migration:
   id: 797
-  timestamp: 1483471678
+  timestamp: 1486602237
 tags:
 - Networking
 - social media
-groups:
-- Usahidi
 categories:
 - News
+groups:
+- Usahidi
 ---
 

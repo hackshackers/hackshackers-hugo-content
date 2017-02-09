@@ -6,7 +6,7 @@ authors:
 date: "2012-03-22"
 _migration:
   id: 4667
-  timestamp: 1483471667
+  timestamp: 1486602223
 ---
 
 Hacks/Hackers has grown in ways we never predicted. It was just over two years ago that the first event was held at a San Francisco bar. Since then, we’ve expanded across the U.S. and the world, and now have more than [9,500 members in Meetups][1] across four continents.

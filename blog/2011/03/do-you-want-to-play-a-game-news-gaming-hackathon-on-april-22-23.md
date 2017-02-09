@@ -5,12 +5,12 @@ authors:
 date: "2011-03-22"
 _migration:
   id: 2152
-  timestamp: 1483471676
+  timestamp: 1486602234
+tags:
+- Hackathons
 categories:
 - Announcements
 - News
-tags:
-- Hackathons
 groups:
 - New York
 ---

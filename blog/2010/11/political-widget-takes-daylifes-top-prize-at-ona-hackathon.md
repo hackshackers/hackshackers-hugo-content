@@ -1,11 +1,11 @@
 ---
-title: Political Widget Takes Daylife&#8217;s Top Prize at ONA Hackathon
+title: Political Widget Takes Daylife’s Top Prize at ONA Hackathon
 authors:
 - Jennifer 8. Lee
 date: "2010-11-05"
 _migration:
   id: 1227
-  timestamp: 1483471678
+  timestamp: 1486602236
 tags:
 - Hackathons
 categories:

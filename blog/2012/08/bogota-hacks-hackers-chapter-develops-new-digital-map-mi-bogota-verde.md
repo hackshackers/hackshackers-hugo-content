@@ -5,15 +5,15 @@ authors:
 date: "2012-08-16"
 _migration:
   id: 16194
-  timestamp: 1483471666
-groups:
-- Bogotá
-- Usahidi
+  timestamp: 1486602222
 tags:
 - crowdsourcing
 - environment
 - Hackathons
 - Maps
+groups:
+- Bogotá
+- Usahidi
 ---
 
 ![][1]

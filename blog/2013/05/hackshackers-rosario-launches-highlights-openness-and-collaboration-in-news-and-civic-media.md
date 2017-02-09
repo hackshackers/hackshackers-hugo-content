@@ -6,14 +6,14 @@ authors:
 date: "2013-05-10"
 _migration:
   id: 16943
-  timestamp: 1483471664
+  timestamp: 1486602221
 tags:
 - data
 - journalism
-groups:
-- Rosario
 categories:
 - Meetups
+groups:
+- Rosario
 ---
 
 [Hacks/Hackers Rosario][1] (HHROS) is already a reality. On Thursday, April 25, the second Argentine chapter of Hacks/Hackers (HH) had its first meetup in [ClubdeFun Bar][2], with more than 60 attendees.

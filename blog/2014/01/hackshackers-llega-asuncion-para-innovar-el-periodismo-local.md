@@ -5,14 +5,14 @@ authors:
 date: "2014-01-28"
 _migration:
   id: 17117
-  timestamp: 1483471663
-groups:
-- Asunción
+  timestamp: 1486602221
 tags:
 - Latin America
 categories:
 - Meetups
 - News
+groups:
+- Asunción
 ---
 
 La red global que trabaja por el futuro del periodismo encontró su nicho en Asunción, la capital de Paraguay, desde mayo de este año. Con el apoyo y el interés de desarrolladores Web, diseñadores, periodistas, comunicadores, y profesionales de diversas disciplinas, [**Hacks/Hackers Asu**][1] ha iniciado sus primeras actividades con miras a crear una comunidad activa de innovadores dispuestos a romper esquemas tradicionales y llevar el periodismo a un nuevo nivel.

@@ -5,7 +5,7 @@ authors:
 date: "2011-10-15"
 _migration:
   id: 3781
-  timestamp: 1483471667
+  timestamp: 1486602223
 categories:
 - Demos
 - Meetups
@@ -49,9 +49,7 @@ Read some of the [attendee reactions][18] to the event.
 
 {{< figure src="http://farm7.static.flickr.com/6180/6236506308\_54ce8e53aa.jpg" alt="audience\_hackers" >}}</p> 
 
-<noscript>
-  <a href="https://storify.com/lamthuyvo/hackshackers-demo-day-3.html" target="_blank">View the story &#8220;Hacks/Hackers Demo Day 3&#8221; on Storify</a>
-</noscript>
+http://storify.com/lamthuyvo/hackshackers-demo-day-3/
 
  [1]: http://www.unglobalpulse.org/projects/hunchworks
  [2]: http://twitter.com/cvanderwalt

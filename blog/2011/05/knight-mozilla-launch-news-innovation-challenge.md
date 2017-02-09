@@ -5,7 +5,7 @@ authors:
 date: "2011-05-02"
 _migration:
   id: 2818
-  timestamp: 1483471675
+  timestamp: 1486602234
 tags:
 - Drumbeat
 - fellowship
@@ -13,12 +13,12 @@ tags:
 - knight news challenge
 - Mojo
 - Mozilla
-groups:
-- Bay Area
 categories:
 - Meetups
 - Opportunities
 - Talks
+groups:
+- Bay Area
 ---
 
 {{< figure link="/content-images/blog/2011/05/Mozilla-HH1.jpg" src="/content-images/blog/2011/05/Mozilla-HH1-224x300.jpg" >}}

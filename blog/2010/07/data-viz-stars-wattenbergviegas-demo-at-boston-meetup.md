@@ -5,11 +5,11 @@ authors:
 date: "2010-07-23"
 _migration:
   id: 595
-  timestamp: 1483471679
-groups:
-- Boston
+  timestamp: 1486602237
 categories:
 - News
+groups:
+- Boston
 ---
 
 [Fernanda Viégas and Martin Wattenberg][1] (&#8220;fm&#8221; as the two data viz specialists are known to call themselves) demoed  their newest venture into the journalism space at the Boston chapters first event Meetup on July 20.

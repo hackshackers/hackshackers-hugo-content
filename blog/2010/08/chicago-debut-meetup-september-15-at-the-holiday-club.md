@@ -5,12 +5,12 @@ authors:
 date: "2010-08-24"
 _migration:
   id: 693
-  timestamp: 1483471678
-groups:
-- Chicago
+  timestamp: 1486602237
 categories:
 - Meetups
 - News
+groups:
+- Chicago
 ---
 
 Hacks/Hackers Chicago is getting into gear with i[ts first Meetup on Wednesday, Sept. 15][1] from 6-8 p.m. at the Holiday Club (4000 N Sheridan Road). More details below

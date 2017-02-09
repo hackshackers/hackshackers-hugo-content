@@ -5,12 +5,12 @@ authors:
 date: "2012-03-23"
 _migration:
   id: 4683
-  timestamp: 1483471667
-groups:
-- Buenos Aires
+  timestamp: 1486602223
 tags:
 - Hackathons
 - Latin America
+groups:
+- Buenos Aires
 ---
 
 We believe that software can be used to tell stories in ways unthinkable for traditional journalism. Several journalists, designers and software developers related with **Hacks/Hackers Buenos Aires** are working on projects where they need to visualize data in time lines. We need tools to develop automatic or semi-automatic timelines that could be combined with other variables, to gather valuable insights from the data.

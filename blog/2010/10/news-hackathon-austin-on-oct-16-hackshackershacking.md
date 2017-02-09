@@ -5,13 +5,13 @@ authors:
 date: "2010-10-04"
 _migration:
   id: 886
-  timestamp: 1483471678
-groups:
-- Austin
+  timestamp: 1486602236
 tags:
 - Hackathons
 categories:
 - News
+groups:
+- Austin
 ---
 
 {{< figure link="/content-images/blog/2010/10/meetupaustin.gif" src="/content-images/blog/2010/10/meetupaustin.gif" >}}

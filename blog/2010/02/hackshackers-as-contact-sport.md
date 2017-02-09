@@ -5,7 +5,7 @@ authors:
 date: "2010-02-21"
 _migration:
   id: 77
-  timestamp: 1483471679
+  timestamp: 1486602238
 tags:
 - business model
 - content aggregator

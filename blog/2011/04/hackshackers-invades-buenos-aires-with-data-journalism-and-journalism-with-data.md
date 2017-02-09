@@ -6,14 +6,14 @@ authors:
 date: "2011-04-29"
 _migration:
   id: 2746
-  timestamp: 1483471675
-groups:
-- Buenos Aires
+  timestamp: 1486602234
 tags:
 - Latin America
 categories:
 - Meetups
 - News
+groups:
+- Buenos Aires
 ---
 
 _Usted puede leer [este post en español][1]._

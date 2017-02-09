@@ -5,15 +5,15 @@ authors:
 date: "2011-02-23"
 _migration:
   id: 2062
-  timestamp: 1483471676
+  timestamp: 1486602234
 tags:
 - gawker
 - WBUR
-groups:
-- Boston
 categories:
 - Meetups
 - News
+groups:
+- Boston
 ---
 
 The future of news is snuggled in your pocket.

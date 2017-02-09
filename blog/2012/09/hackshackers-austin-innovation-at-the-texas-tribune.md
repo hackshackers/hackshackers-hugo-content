@@ -5,11 +5,11 @@ authors:
 date: "2012-09-11"
 _migration:
   id: 16509
-  timestamp: 1483471666
-groups:
-- Austin
+  timestamp: 1486602222
 tags:
 - texas tribune
+groups:
+- Austin
 ---
 
 {{< figure link="http://hackshackers.com/blog/2012/09/11/hackshackers-austin-innovation-at-the-texas-tribune/hh1/" src="/content-images/blog/2012/09/hh1-300x225.jpg" >}}

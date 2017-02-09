@@ -6,11 +6,11 @@ authors:
 date: "2012-07-05"
 _migration:
   id: 16208
-  timestamp: 1483471666
-groups:
-- Brighton
+  timestamp: 1486602222
 categories:
 - Meetups
+groups:
+- Brighton
 ---
 
 _

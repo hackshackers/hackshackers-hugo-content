@@ -5,11 +5,11 @@ authors:
 date: "2013-11-28"
 _migration:
   id: 17096
-  timestamp: 1483471663
-groups:
-- Dublin
+  timestamp: 1486602221
 categories:
 - Meetups
+groups:
+- Dublin
 ---
 
 Hacks and Hackers crammed into the intimate surroundings of the Library Bar at the Central Hotel in Dublin city centre for the rebooted of Hacks/Hackers Dublin on September 16th. The enthusiastic crowd were joined by some international guests &#8211; Andy Carvin of NPR who is famous for his unique methods of covering the news on Twitter and Amanda Michel of The Guardian (US) – fresh from a media conference at Dublin City University, as well as representatives from local media companies The Irish Times, thejournal.ie and Storyful.

@@ -5,11 +5,11 @@ authors:
 date: "2010-12-22"
 _migration:
   id: 1826
-  timestamp: 1483471676
-groups:
-- New York
+  timestamp: 1486602235
 categories:
 - News
+groups:
+- New York
 ---
 
 Hacks/Hackers NYC ended the year with a great flourish at the Galapagos Arts Space in Dumbo on Decembe with catering provided by [Crave Catering][1]: cornbread cup with chili, caramelized cheddar cheese, chili froth with micro basil; vegetable ceviche Persian cucumber cups, crispy shallots; parmesan risotto cakes with white truffle oil, micro greens; mini-beef sliders with spiced pomegranate ketchup duck confit spring rolls. Yum.

@@ -1,17 +1,17 @@
 ---
-title: Hacks/Hackers Austin &#8211; Working with Government Data
+title: Hacks/Hackers Austin – Working with Government Data
 authors:
 - Cindy Royal
 date: "2011-02-20"
 _migration:
   id: 1995
-  timestamp: 1483471676
-groups:
-- Austin
+  timestamp: 1486602235
 tags:
 - Filibusted
 categories:
 - News
+groups:
+- Austin
 ---
 
 {{< figure src="http://photos1.meetupstatic.com/photos/event/5/1/f/8/event_21560984.jpeg" >}}

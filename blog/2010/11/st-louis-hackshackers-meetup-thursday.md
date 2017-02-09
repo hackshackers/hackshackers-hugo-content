@@ -5,12 +5,12 @@ authors:
 date: "2010-11-02"
 _migration:
   id: 1170
-  timestamp: 1483471678
-groups:
-- St. Louis
+  timestamp: 1486602236
 categories:
 - Meetups
 - News
+groups:
+- St. Louis
 ---
 
 St. Louis is joining the Hacks/Hackers community.

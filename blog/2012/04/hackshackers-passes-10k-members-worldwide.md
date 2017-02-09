@@ -5,7 +5,7 @@ authors:
 date: "2012-04-19"
 _migration:
   id: 6399
-  timestamp: 1483471666
+  timestamp: 1486602223
 description: Hacks/Hackers has surpassed the 10,000 member mark just two and half
   years after its start as a Meetup group in the Bay Area.
 ---
@@ -24,6 +24,4 @@ The global movement bringing together journalists and technologists is now activ
 
 The global movement bringing together journalists and technologists is now active on four continents. Share your stories about what you&#8217;ve learned with the hashtag #10kHacksHackers to be included here.
 
-<noscript>
-  <a href="https://storify.com/burtherman/hacks-hackers-reaches-10k-members-tell-us-your-sto.html" target="_blank">View the story &#8220;Hacks/Hackers reaches 10k members: Tell us your story&#8221; on Storify</a>
-</noscript>
+http://storify.com/burtherman/hacks-hackers-reaches-10k-members-tell-us-your-sto

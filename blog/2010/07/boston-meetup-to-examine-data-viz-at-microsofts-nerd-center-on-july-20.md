@@ -1,17 +1,16 @@
 ---
-title: Boston Meetup Highlights Data Viz at Microsoft&#8217;s NERD Center on July
-  20
+title: Boston Meetup Highlights Data Viz at Microsoft’s NERD Center on July 20
 authors:
 - Jennifer 8. Lee
 date: "2010-07-19"
 _migration:
   id: 569
-  timestamp: 1483471679
-groups:
-- Boston
+  timestamp: 1486602237
 categories:
 - Meetups
 - News
+groups:
+- Boston
 ---
 
 {{< figure link="/content-images/blog/2010/07/martin-and-fernanda.jpg" src="/content-images/blog/2010/07/martin-and-fernanda.jpg" alt="Martin Wattenberg and Fernanda Viegas" >}}

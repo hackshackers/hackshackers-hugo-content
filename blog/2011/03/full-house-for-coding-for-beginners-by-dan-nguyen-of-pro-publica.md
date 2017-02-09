@@ -1,11 +1,11 @@
 ---
-title: Full House for &#8220;Coding for Beginners&#8221; by Dan Nguyen of Pro Publica
+title: Full House for “Coding for Beginners” by Dan Nguyen of Pro Publica
 authors:
 - Jennifer 8. Lee
 date: "2011-03-24"
 _migration:
   id: 2189
-  timestamp: 1483471676
+  timestamp: 1486602234
 categories:
 - Classes
 - News

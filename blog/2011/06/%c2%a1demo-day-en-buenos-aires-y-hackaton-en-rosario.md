@@ -5,15 +5,15 @@ authors:
 date: "2011-06-01"
 _migration:
   id: 3012
-  timestamp: 1483471668
+  timestamp: 1486602224
+tags:
+- Latin America
 categories:
 - Announcements
 - Meetups
 - News
 groups:
 - Buenos Aires
-tags:
-- Latin America
 ---
 
 [This post also in english][1]

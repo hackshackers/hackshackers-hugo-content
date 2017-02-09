@@ -1,11 +1,11 @@
 ---
-title: 'Daylife: You Create It. We&#8217;ll Sell It. You Keep 70% of the Proceeds'
+title: 'Daylife: You Create It. We’ll Sell It. You Keep 70% of the Proceeds'
 authors:
 - Jennifer 8. Lee
 date: "2010-07-15"
 _migration:
   id: 490
-  timestamp: 1483471679
+  timestamp: 1486602237
 tags:
 - API
 - daylife

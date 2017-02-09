@@ -1,15 +1,15 @@
 ---
-title: 'Hacks/Hackers ATX &#8211; Andrew Dupont: Working with Government Data'
+title: 'Hacks/Hackers ATX – Andrew Dupont: Working with Government Data'
 authors:
 - Cindy Royal
 date: "2011-02-07"
 _migration:
   id: 1968
-  timestamp: 1483471676
-groups:
-- Austin
+  timestamp: 1486602235
 categories:
 - News
+groups:
+- Austin
 ---
 
 Join Hacks/Hackers ATX on Feb. 17 at 6:30pm as [Andrew Dupont][1] (of Gowalla) talks about using government data and a side project he developed called [Filibusted][2]. We know that the Internet can be used to donate to political candidates. Or make fun of them. But, with a little help from citizens, it can also make government work better. First, Andrew will present a handful of sites that aggregate government data and present it in useful ways. Then he’ll explore the process of distilling government data dumps and APIs to build your own sites.

@@ -6,7 +6,7 @@ authors:
 date: "2010-07-28"
 _migration:
   id: 618
-  timestamp: 1483471678
+  timestamp: 1486602237
 tags:
 - journalism education
 - Poynter

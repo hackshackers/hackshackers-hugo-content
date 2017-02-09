@@ -5,12 +5,12 @@ authors:
 date: "2013-04-25"
 _migration:
   id: 16927
-  timestamp: 1483471664
-groups:
-- Austin
+  timestamp: 1486602221
 tags:
 - data visualization
 - Tableau
+groups:
+- Austin
 ---
 
 {{< figure src="http://photos3.meetupstatic.com/photos/event/b/4/b/6/600_228766262.jpeg" >}}

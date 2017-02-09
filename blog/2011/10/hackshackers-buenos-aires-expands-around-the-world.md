@@ -5,12 +5,12 @@ authors:
 date: "2011-10-30"
 _migration:
   id: 3873
-  timestamp: 1483471667
-groups:
-- Buenos Aires
+  timestamp: 1486602223
 tags:
 - Hackathons
 - Latin America
+groups:
+- Buenos Aires
 ---
 
 ([Post en español][1])

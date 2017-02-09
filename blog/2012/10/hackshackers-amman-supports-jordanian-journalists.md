@@ -5,9 +5,7 @@ authors:
 date: "2012-10-29"
 _migration:
   id: 16626
-  timestamp: 1483471665
-groups:
-- Amman
+  timestamp: 1486602222
 tags:
 - Arab World
 - Drupal
@@ -17,6 +15,8 @@ tags:
 - SMS
 categories:
 - Meetups
+groups:
+- Amman
 ---
 
 UNESCO’s Amman office was home to the technical day organized by Hacks/Hackers Amman Chapter with the objective to provide technology solution to different issues Jordanian journalists face.

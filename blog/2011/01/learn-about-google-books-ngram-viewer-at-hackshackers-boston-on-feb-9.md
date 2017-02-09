@@ -5,15 +5,15 @@ authors:
 date: "2011-01-19"
 _migration:
   id: 1927
-  timestamp: 1483471676
+  timestamp: 1486602235
 tags:
 - google
 - ngram
-groups:
-- Boston
 categories:
 - Meetups
 - News
+groups:
+- Boston
 ---
 
 Come learn about Google&#8217;s cool new tool: Ngram at the [next Hacks/Hackers Boston Meetup][1] on Wednesday, February 9, 2011 7 p.m. at Google&#8217;s Cambridge offices at 5 Cambridge Center, 3rd floor in Kendall Square ([news when it opened][2]!)

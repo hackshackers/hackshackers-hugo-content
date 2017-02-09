@@ -1,11 +1,11 @@
 ---
-title: Win a Scholarship to Poynter&#8217;s News Applications Seminar
+title: Win a Scholarship to Poynter’s News Applications Seminar
 authors:
 - Chrys Wu
 date: "2011-07-12"
 _migration:
   id: 3292
-  timestamp: 1483471668
+  timestamp: 1486602224
 tags:
 - education
 - Poynter

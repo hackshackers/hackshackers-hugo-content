@@ -5,7 +5,7 @@ authors:
 date: "2015-06-09"
 _migration:
   id: 17238
-  timestamp: 1483471661
+  timestamp: 1486602220
 ---
 
 A few weeks ago, we launched an exciting initiative (in partnership with Google) to support media entrepreneurship, an [event series we call Connect][1]. As part of the launch, we decided to replace the main Hacks/Hackers site with an information and signup page for Connect. 

@@ -5,11 +5,11 @@ authors:
 date: "2010-11-19"
 _migration:
   id: 1442
-  timestamp: 1483471678
-groups:
-- Brussels
+  timestamp: 1486602236
 categories:
 - News
+groups:
+- Brussels
 ---
 
 Journalists and developers at the first Hacks/Hackers event in Belgium launched an effort Thursday to gather information on open databases in the country and on the European Parliament and Commission.

@@ -1,12 +1,12 @@
 ---
-title: Journocoders? Hacker journalists? Whatever the name, let&#8217;s help each
-  other out!
+title: Journocoders? Hacker journalists? Whatever the name, let’s help each other
+  out!
 authors:
 - Rich Gordon
 date: "2010-04-18"
 _migration:
   id: 366
-  timestamp: 1483471679
+  timestamp: 1486602237
 tags:
 - question and answer
 - Stack Overflow

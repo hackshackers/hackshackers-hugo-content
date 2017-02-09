@@ -5,13 +5,13 @@ authors:
 date: "2011-03-30"
 _migration:
   id: 2194
-  timestamp: 1483471676
-groups:
-- Heartland
+  timestamp: 1486602234
 tags:
 - Lightning Talks
 categories:
 - News
+groups:
+- Heartland
 ---
 
 Hacks/Hackers Heartland had [a lightning talk event][1] on March 24 at the Harper Center of Creighton University in Omaha.

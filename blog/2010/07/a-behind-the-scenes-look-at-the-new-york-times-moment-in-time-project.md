@@ -1,12 +1,11 @@
 ---
-title: A Behind-the-Scenes Look at the New York Times &#8220;Moment in Time&#8221;
-  Project
+title: A Behind-the-Scenes Look at the New York Times “Moment in Time” Project
 authors:
 - Jennifer 8. Lee
 date: "2010-07-28"
 _migration:
   id: 607
-  timestamp: 1483471679
+  timestamp: 1486602237
 categories:
 - Meetups
 - News

@@ -5,14 +5,14 @@ authors:
 date: "2010-10-12"
 _migration:
   id: 999
-  timestamp: 1483471678
+  timestamp: 1486602236
 tags:
 - Hackathons
 - The Media Consortium
+categories:
+- News
 groups:
 - Mobile
 - Chicago
-categories:
-- News
 ---
 

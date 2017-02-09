@@ -1,11 +1,11 @@
 ---
-title: Return from Poynter&#8217;s Programming Seminar, Thanks to Hacks/Hackers
+title: Return from Poynter’s Programming Seminar, Thanks to Hacks/Hackers
 authors:
 - coreytakahashi
 date: "2010-09-15"
 _migration:
   id: 710
-  timestamp: 1483471678
+  timestamp: 1486602237
 tags:
 - PolitiFact
 - Poynter

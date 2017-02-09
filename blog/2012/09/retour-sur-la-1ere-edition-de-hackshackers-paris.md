@@ -5,15 +5,15 @@ authors:
 date: "2012-09-19"
 _migration:
   id: 16547
-  timestamp: 1483471665
+  timestamp: 1486602222
 tags:
 - Apps
 - data
 - rue89
-groups:
-- Paris
 categories:
 - Meetups
+groups:
+- Paris
 description: Le meetup inaugural de Hacks/Hackers Paris a eu lieu le 28 août dans
   les locaux de la rédaction de StreetPress. Entre deux retours d'expériences, quelques
   idées et rencontres pour l'avenir.
@@ -45,9 +45,7 @@ Réalisée à partir d’un fichier Excel récupéré par l’un des rubricards 
 
 Le meetup inaugural de Hacks/Hackers Paris a eu lieu le 28 août dans les locaux de la rédaction de StreetPress. Entre deux retours d&#8217;expériences, quelques idées et rencontres pour l&#8217;avenir.
 
-<noscript>
-  <a href="https://storify.com/nicolasloubet/hhpar-1er-meetup-hacks-hackers-paris.html" target="_blank">View the story &#8220;[#hhpar] 1er Meetup Hacks/Hackers Paris&#8221; on Storify</a>
-</noscript>
+http://storify.com/nicolasloubet/hhpar-1er-meetup-hacks-hackers-paris
 
  [1]: http://www.rue89.com/
  [2]: http://www.liberation.fr/

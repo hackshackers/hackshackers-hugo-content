@@ -1,11 +1,11 @@
 ---
-title: 'Hacks/Hackers NYC: Wikileaks &#8211; Data Science &#038; Data Journalism'
+title: 'Hacks/Hackers NYC: Wikileaks – Data Science & Data Journalism'
 authors:
 - Chrys Wu
 date: "2011-02-20"
 _migration:
   id: 2025
-  timestamp: 1483471676
+  timestamp: 1486602235
 tags:
 - data visualization
 - New York Times

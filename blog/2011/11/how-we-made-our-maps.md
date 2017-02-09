@@ -5,7 +5,7 @@ authors:
 date: "2011-11-06"
 _migration:
   id: 3922
-  timestamp: 1483471667
+  timestamp: 1486602223
 tags:
 - census
 - Google Fusion Tables
@@ -27,6 +27,8 @@ When a story is best told through a visual representation of geography, maps are
 While New York was preparing for Hurricane Irene, John Keefe, WNYC&#8217;s senior executive producer for news, decided to create a [hurricane evacuation map][3] so people could see whether or not they needed to leave their homes.
 
 He used [Google Fusion Tables][4] to make what became one of WNYC&#8217;s most viral news application. The process was simple and fast, he said. John uploaded [shapefiles][5] of the evacuation zone found in the [NYC Datamine][6] to Google FusionTables using [Shape to Fusion][7]. He then customized his map with [FusionTablesLayer Builder][8] and added [JavaScript][9] to create a search box so users could see if they needed to evacuate. The final map:
+
+{{< iframe src="http://project-s3.wnyc.org/news-maps/hurricane-zones/hurricane-zones-mini.html?lat=40.7110&lon=-73.8610&zoom=11" width="400px" height="500px" >}}
 
 [Learn more about John&#8217;s process][10] on his blog.
 

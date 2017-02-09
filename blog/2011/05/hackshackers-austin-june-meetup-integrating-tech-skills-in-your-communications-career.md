@@ -6,11 +6,11 @@ authors:
 date: "2011-05-24"
 _migration:
   id: 2973
-  timestamp: 1483471675
-groups:
-- Austin
+  timestamp: 1486602233
 categories:
 - News
+groups:
+- Austin
 ---
 
 Join Hacks/Hackers Austin on June 7 for a panel discussion on ways to integrate tech skills in a communications career. Four recent grads will discuss their positions at the Statesman, Austin Post, Texas Tribune and Facebook. They will share their experiences in using technology in their jobs and personal lives, what they learned in school, what they wish they had learned and how they acquire the skills they need. The panel will be moderated by Travis Swicegood ([@tswicegood)][1], a developer at [Texas Tribune][2], who will provide the context of how technology is shaping processes in the modern newsroom.

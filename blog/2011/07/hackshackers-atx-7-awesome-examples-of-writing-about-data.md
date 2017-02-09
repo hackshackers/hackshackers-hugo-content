@@ -1,11 +1,11 @@
 ---
-title: Hacks/Hackers ATX &#8211; 7 Awesome Examples of Writing About Data
+title: Hacks/Hackers ATX – 7 Awesome Examples of Writing About Data
 authors:
 - Cindy Royal
 date: "2011-07-10"
 _migration:
   id: 3278
-  timestamp: 1483471668
+  timestamp: 1486602224
 groups:
 - Austin
 ---

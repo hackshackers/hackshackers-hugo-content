@@ -5,14 +5,14 @@ authors:
 date: "2011-04-24"
 _migration:
   id: 2705
-  timestamp: 1483471675
+  timestamp: 1486602234
 tags:
 - Gaming
 - Hackathons
-groups:
-- New York
 categories:
 - News
+groups:
+- New York
 ---
 
 {{< figure link="/content-images/blog/2011/04/Screen-shot-2011-04-24-at-11.17.51-PM.png" src="/content-images/blog/2011/04/Screen-shot-2011-04-24-at-11.17.51-PM.png" >}}

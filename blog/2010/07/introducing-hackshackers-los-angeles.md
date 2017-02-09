@@ -5,15 +5,15 @@ authors:
 date: "2010-07-28"
 _migration:
   id: 530
-  timestamp: 1483471678
+  timestamp: 1486602237
 tags:
 - data visualization
 - journalism education
-groups:
-- Los Angeles
 categories:
 - Meetups
 - News
+groups:
+- Los Angeles
 ---
 
 {{< figure link="/content-images/blog/2010/07/Picture-4.png" src="/content-images/blog/2010/07/Picture-4.png" >}}

@@ -5,9 +5,7 @@ authors:
 date: "2011-05-04"
 _migration:
   id: 2832
-  timestamp: 1483471675
-groups:
-- Boston
+  timestamp: 1486602234
 tags:
 - events
 - HTML5
@@ -19,6 +17,8 @@ tags:
 - video
 categories:
 - Meetups
+groups:
+- Boston
 ---
 
 (Cross-posted from [beta.boston.com][1])

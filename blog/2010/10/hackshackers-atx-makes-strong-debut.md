@@ -1,18 +1,18 @@
 ---
-title: Hacks/Hackers Austin Sept. 30 Debut Meetup Draws &gt; 40
+title: Hacks/Hackers Austin Sept. 30 Debut Meetup Draws > 40
 authors:
 - Cindy Royal
 date: "2010-10-02"
 _migration:
   id: 820
-  timestamp: 1483471678
-groups:
-- Austin
+  timestamp: 1486602236
 tags:
 - Hackathons
 categories:
 - Meetups
 - News
+groups:
+- Austin
 ---
 
 {{< figure src="http://photos3.meetupstatic.com/photos/event/5/a/0/5/event_18383045.jpeg" >}}

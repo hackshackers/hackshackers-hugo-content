@@ -5,12 +5,12 @@ authors:
 date: "2011-02-01"
 _migration:
   id: 1948
-  timestamp: 1483471676
-groups:
-- Austin
+  timestamp: 1486602235
 categories:
 - Classes
 - News
+groups:
+- Austin
 ---
 
 {{< figure src="http://photos1.meetupstatic.com/photos/event/5/b/2/e/event_21203342.jpeg" >}}

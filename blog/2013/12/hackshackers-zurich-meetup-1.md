@@ -5,14 +5,14 @@ authors:
 date: "2013-12-05"
 _migration:
   id: 17110
-  timestamp: 1483471663
+  timestamp: 1486602221
 tags:
 - hackers
 - hacks
-groups:
-- Zürich
 categories:
 - Meetups
+groups:
+- Zürich
 ---
 
 On Wednesday, Nov. 27, [Hacks/Hackers Zurich][1] kicked off as the first local Hacks/Hackers group in Switzerland. Sixteen people of various backgrounds met at Maison Blunt, a tearoom in Zurich&#8217;s lively quarter of «[Kreis 5][2]». The plan for this first meetup was to get to know each other, understand our experience and expectations, and to collect ideas for building this small community from the ground up. We want to make Hacks/Hackers Zurich the right place to connect journalism to technology, ideas to capabilities and, most importantly, people to people.

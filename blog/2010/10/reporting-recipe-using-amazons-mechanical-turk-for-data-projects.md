@@ -1,11 +1,11 @@
 ---
-title: 'Reporting Recipe: Using Amazon&#8217;s Mechanical Turk for Data Projects'
+title: 'Reporting Recipe: Using Amazon’s Mechanical Turk for Data Projects'
 authors:
 - Burt Herman
 date: "2010-10-15"
 _migration:
   id: 1028
-  timestamp: 1483471678
+  timestamp: 1486602236
 categories:
 - News
 ---

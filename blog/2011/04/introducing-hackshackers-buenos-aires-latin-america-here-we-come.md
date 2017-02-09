@@ -5,17 +5,17 @@ authors:
 date: "2011-04-13"
 _migration:
   id: 2323
-  timestamp: 1483471676
+  timestamp: 1486602234
 tags:
 - Argentina
 - digital
 - journalism
 - software
 - Latin America
-groups:
-- Buenos Aires
 categories:
 - News
+groups:
+- Buenos Aires
 ---
 
 _You can [also read this post in Spanish.][1] (We&#8217;ve gone bilingual!)_ 

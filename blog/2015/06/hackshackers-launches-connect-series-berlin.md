@@ -5,10 +5,10 @@ authors:
 date: "2015-06-28"
 _migration:
   id: 17263
-  timestamp: 1483471661
+  timestamp: 1486602220
 ---
 
-[[View the story &#8220;Hacks/Hackers launches Connect series in Berlin&#8221; on Storify][1]]
+{{< iframe src="//storify.com/burtherman/hacks-hackers-launches-connect-series-in-berlin/embed?header=none&border=false" width="100%" height="750px" >}}[[View the story &#8220;Hacks/Hackers launches Connect series in Berlin&#8221; on Storify][1]]
 
 # Hacks/Hackers launches Connect series in Berlin
 

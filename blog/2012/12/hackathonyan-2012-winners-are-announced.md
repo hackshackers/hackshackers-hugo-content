@@ -5,12 +5,12 @@ authors:
 date: "2012-12-26"
 _migration:
   id: 16731
-  timestamp: 1483471665
+  timestamp: 1486602221
+tags:
+- Hackathons
 groups:
 - Armenia
 - Yerevan
-tags:
-- Hackathons
 ---
 
 Hackathon{YAN} 2012 is already over , winners are announced.

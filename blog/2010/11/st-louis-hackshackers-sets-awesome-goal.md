@@ -1,11 +1,11 @@
 ---
-title: St. Louis Hacks/Hackers sets &#8216;awesome&#8217; goal
+title: St. Louis Hacks/Hackers sets ‘awesome’ goal
 authors:
 - Erica Smith
 date: "2010-11-10"
 _migration:
   id: 1315
-  timestamp: 1483471678
+  timestamp: 1486602236
 categories:
 - Meetups
 - News

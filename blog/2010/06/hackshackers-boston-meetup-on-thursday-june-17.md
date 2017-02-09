@@ -5,14 +5,14 @@ authors:
 date: "2010-06-14"
 _migration:
   id: 444
-  timestamp: 1483471679
-groups:
-- Boston
+  timestamp: 1486602237
 categories:
 - Demos
 - Meetups
 - News
 - Talks
+groups:
+- Boston
 ---
 
 In conjunction with the [Future of News and Civic Media Conference at MIT][1], [Hacks/Hackers Boston][2] is going to have an inaugural [impromptu Meetup][3] on Thursday, June 17 at 8 p.m. The place TBD, but probably in Cambridge near MIT. We&#8217;re looking for Boston folks to become lead organizers.

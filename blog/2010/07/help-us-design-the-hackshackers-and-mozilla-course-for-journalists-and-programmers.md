@@ -5,7 +5,7 @@ authors:
 date: "2010-07-29"
 _migration:
   id: 639
-  timestamp: 1483471678
+  timestamp: 1486602237
 tags:
 - journalism education
 - Mozilla

@@ -5,7 +5,7 @@ authors:
 date: "2011-05-02"
 _migration:
   id: 2794
-  timestamp: 1483471675
+  timestamp: 1486602234
 categories:
 - Meetups
 groups:
@@ -26,7 +26,7 @@ Here is Matt Thompson&#8217;s slide deck:
 
 For the slideshare bit:
 
-**[Hacks/Hackers TC][3]** View more [presentations][4] from [Matthew Thompson][5] 
+**[Hacks/Hackers TC][3]** {{< iframe src="http://www.slideshare.net/slideshow/embed_code/7710647" width="425px" height="355px" >}} View more [presentations][4] from [Matthew Thompson][5] 
 
 **[Hacks/Hackers TC][3]**
 

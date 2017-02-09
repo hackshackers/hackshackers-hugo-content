@@ -1,11 +1,11 @@
 ---
-title: Do hacks and hackers need a Q&amp;A community?
+title: Do hacks and hackers need a Q&A community?
 authors:
 - Rich Gordon
 date: "2011-05-30"
 _migration:
   id: 2989
-  timestamp: 1483471675
+  timestamp: 1486602233
 categories:
 - Announcements
 - Classes

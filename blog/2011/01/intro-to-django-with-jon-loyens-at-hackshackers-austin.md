@@ -5,11 +5,11 @@ authors:
 date: "2011-01-11"
 _migration:
   id: 1819
-  timestamp: 1483471676
-groups:
-- Austin
+  timestamp: 1486602235
 categories:
 - News
+groups:
+- Austin
 ---
 
 For our first meeting of 2011, [Jon Loyens][1] of Bazaarvoice will be giving us an Introduction to [Django][2]. Django is a Python-based Web framework, used in many journalistic settings. It was actually developed by The World Company news organization in Lawrence, Kansas, so there will be many news and information applications to discuss. Jon is the director of Bazaarvoice Labs and does programming projects on the side.

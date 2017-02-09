@@ -1,16 +1,16 @@
 ---
-title: Hacks &amp; Hackers llega a Madrid
+title: Hacks & Hackers llega a Madrid
 authors:
 - aormaechea
 date: "2011-10-24"
 _migration:
   id: 3840
-  timestamp: 1483471667
-groups:
-- Madrid
+  timestamp: 1486602223
 tags:
 - Periodismo
 - Tecnologia
+groups:
+- Madrid
 ---
 
 

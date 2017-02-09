@@ -5,14 +5,14 @@ authors:
 date: "2010-10-02"
 _migration:
   id: 900
-  timestamp: 1483471678
+  timestamp: 1486602236
 tags:
 - Hackathons
 - nyc
-groups:
-- New York
 categories:
 - News
+groups:
+- New York
 ---
 
 {{< figure link="/content-images/blog/2010/10/hackathon-0261.jpg" src="/content-images/blog/2010/10/hackathon-0261.jpg" >}}

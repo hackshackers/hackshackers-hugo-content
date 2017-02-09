@@ -5,15 +5,15 @@ authors:
 date: "2010-11-03"
 _migration:
   id: 1359
-  timestamp: 1483471678
+  timestamp: 1486602236
 tags:
 - MIT
 - OpenBlock
 - Hackathons
-groups:
-- Boston
 categories:
 - News
+groups:
+- Boston
 ---
 
 {{< youtube qCl4qimMxeA >}}

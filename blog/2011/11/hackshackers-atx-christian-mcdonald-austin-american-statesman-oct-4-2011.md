@@ -1,12 +1,12 @@
 ---
-title: Hacks/Hackers ATX, Christian McDonald &#8211; Austin American Statesman, Oct.
-  4, 2011
+title: Hacks/Hackers ATX, Christian McDonald – Austin American Statesman, Oct. 4,
+  2011
 authors:
 - Cindy Royal
 date: "2011-11-01"
 _migration:
   id: 3891
-  timestamp: 1483471667
+  timestamp: 1486602223
 groups:
 - Austin
 ---

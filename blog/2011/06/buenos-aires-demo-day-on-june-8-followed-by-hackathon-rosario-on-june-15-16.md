@@ -5,15 +5,15 @@ authors:
 date: "2011-06-02"
 _migration:
   id: 3023
-  timestamp: 1483471668
-groups:
-- Buenos Aires
-categories:
-- Demos
-- News
+  timestamp: 1486602224
 tags:
 - Hackathons
 - Latin America
+categories:
+- Demos
+- News
+groups:
+- Buenos Aires
 ---
 
 [Lea este post en español][1]

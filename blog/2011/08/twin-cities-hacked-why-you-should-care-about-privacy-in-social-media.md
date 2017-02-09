@@ -1,11 +1,11 @@
 ---
-title: 'Twin Cities: Hacked! &#8211; Why You Should Care about Privacy in Social Media'
+title: 'Twin Cities: Hacked! – Why You Should Care about Privacy in Social Media'
 authors:
 - pedstrom
 date: "2011-08-11"
 _migration:
   id: 3365
-  timestamp: 1483471668
+  timestamp: 1486602224
 groups:
 - Twin Cities
 ---

@@ -5,12 +5,12 @@ authors:
 date: "2010-11-12"
 _migration:
   id: 1346
-  timestamp: 1483471678
-groups:
-- Atlanta
+  timestamp: 1486602236
 categories:
 - Meetups
 - News
+groups:
+- Atlanta
 ---
 
 {{< figure link="/content-images/blog/2010/10/atlanta\_twitter.gif" src="/content-images/blog/2010/10/atlanta\_twitter.gif" alt="Hacks/Hackers Atlanta Twitter Logo" >}}

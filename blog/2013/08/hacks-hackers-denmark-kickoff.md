@@ -5,14 +5,14 @@ authors:
 date: "2013-08-26"
 _migration:
   id: 17038
-  timestamp: 1483471663
-groups:
-- Copenhagen
+  timestamp: 1486602221
 tags:
 - Denmark
 categories:
 - Meetups
 - News
+groups:
+- Copenhagen
 description: 'Yes! The Danish chapter of Hacks/Hackers is now rolling. Huge support
   for mixer and great support for an event committee to help create future events. '
 ---
@@ -21,8 +21,6 @@ Yes! [Hacks/Hackers Denmark][1], based in Copenhagen, is now rolling. Thank you 
 
 So just what happened at the kickoff?
 
-<noscript>
-  <a href="https://storify.com/signedamj/mixing-danish-hacks-and-hackers.html" target="_blank">View the story &#8220;Bubble sorting Danish hacks and hackers&#8221; on Storify</a>
-</noscript>
+http://storify.com/signedamj/mixing-danish-hacks-and-hackers/
 
  [1]: http://www.meetup.com/Hacks-Hackers-DK/

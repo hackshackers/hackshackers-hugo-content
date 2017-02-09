@@ -5,13 +5,13 @@ authors:
 date: "2010-11-19"
 _migration:
   id: 1456
-  timestamp: 1483471677
-groups:
-- Chicago
+  timestamp: 1486602236
 tags:
 - Hackathons
 categories:
 - News
+groups:
+- Chicago
 ---
 
 On December 4<sup>th</sup> and 5<sup>th</sup>, Random Hacks of Kindness is holding a multi-city hackathon to create software to &#8220;mitigate or respond to disasters around the world and save lives.&#8221;  The Hacks/Hackers community is invited to participate.
