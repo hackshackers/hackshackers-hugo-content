@@ -7,7 +7,7 @@ Hacks/Hackers is a rapidly expanding international grassroots journalism organiz
 
 ### What do we do?
 
-Lots. Our mission is to spread knowledge. information and ideas. Local chapter activities currently include talks, [hackathons](/blog/2010/11/open-all-night-the-great-urban-hack-nyc/) and demo days (just to get to know each other). We are also known to throw [awesome parties](http://awesomest.journalismparty.com/ever) with great DJs. Based on demand, we are strategically trying to expand into offering courses such as coding for beginners, Google Fusion Tables and .js. If you have any ideas, please email us at [&#111;&#114;&#103;&#97;&#110;&#105;&#122;&#101;&#114;&#115;&#64;&#72;&#97;&#99;&#107;&#115;&#72;&#97;&#99;&#107;&#101;&#114;&#115;&#46;&#99;&#111;&#109;](&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#111;&#114;&#103;&#97;&#110;&#105;&#122;&#101;&#114;&#115;&#64;&#72;&#97;&#99;&#107;&#115;&#72;&#97;&#99;&#107;&#101;&#114;&#115;&#46;&#99;&#111;&#109;).
+Lots. Our mission is to spread knowledge. information and ideas. Local chapter activities currently include talks, [hackathons](/blog/2010/11/open-all-night-the-great-urban-hack-nyc/) and demo days (just to get to know each other). We are also known to throw [awesome parties](http://awesomest.journalismparty.com/ever) with great DJs. Based on demand, we are strategically trying to expand into offering courses such as coding for beginners, Google Fusion Tables and .js. If you have any ideas, please email us at [organizers@hackshackers.com](mailto:organizers@hackshackers.com).
 
 ### Who are We?
 
@@ -15,7 +15,7 @@ Lots. Our mission is to spread knowledge. information and ideas. Local chapter a
 
 ### How Do I Get Involved?
 
-Is there a [chapter in your area?](/groups) Join it. If you're interested in starting a chapter in your city, [tell us more about yourself and what you have in mind](/resources/join/). Also, you can email us at [&#118;&#111;&#108;&#117;&#110;&#116;&#101;&#101;&#114;&#115;&#64;&#72;&#97;&#99;&#107;&#115;&#72;&#97;&#99;&#107;&#101;&#114;&#115;&#46;&#99;&#111;&#109;](&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#118;&#111;&#108;&#117;&#110;&#116;&#101;&#101;&#114;&#115;&#64;&#72;&#97;&#99;&#107;&#115;&#72;&#97;&#99;&#107;&#101;&#114;&#115;&#46;&#99;&#111;&#109;) if you just want to get involved.
+Is there a [chapter in your area?](/groups) Join it. If you're interested in starting a chapter in your city, [tell us more about yourself and what you have in mind](/resources/join/). Also, you can email us at [volunteers@hackshackers.com](mailto:volunteers@hackshackers.com) if you just want to get involved.
 
 ### What's Behind the Name?
 
