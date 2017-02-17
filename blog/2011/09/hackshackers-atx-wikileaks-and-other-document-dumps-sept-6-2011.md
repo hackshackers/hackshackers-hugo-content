@@ -10,7 +10,7 @@ groups:
 - Austin
 ---
 
-{{< figure src="http://photos2.meetupstatic.com/photos/event/4/c/e/c/event_55639692.jpeg" >}}
+{{< figure src="https://secure.meetupstatic.com/photos/event/4/c/e/c/event_55639692.jpeg" >}}
 
 On Sept. 6, 2011 at the [Texas Tribune][1] in downtown Austin, Hacks/Hackers ATX hosted a presentation by Gregory Foster of Consumers Union on Wikileaks and Other Document Dumps. Foster led the group through the history of documentation leaks from the Pentagon Papers to the more current release of war logs known as Wikileaks. Each example was analyzed through the lens of several criteria: spectrum of secrecy, quantity of information, quality of information and intentionality of release. There was great conversation from the group around this provocative topic. Watch the presentation below.
 

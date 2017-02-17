@@ -14,7 +14,7 @@ groups:
 - New York
 ---
 
-{{< figure src="http://photos3.meetupstatic.com/photos/event/e/6/d/7/600_18479095.jpeg" >}}
+{{< figure src="https://secure.meetupstatic.com/photos/event/e/6/d/7/600_18479095.jpeg" >}}
 
 Put more than forty Hacks/Hackers members in the gorgeous [OpenPlans][1] penthouse with plentiful caffeine, wifi, and a coding mission and you have the [first Hacks/Hackers open(source).athon in New York City][2], which took place on October 2 and attracted participants from as Chicago (from [The Chicago Tribune][3]), Washington DC (from [Publish2][4]) and even Florida (from [The Poynter Institute][5]).
 

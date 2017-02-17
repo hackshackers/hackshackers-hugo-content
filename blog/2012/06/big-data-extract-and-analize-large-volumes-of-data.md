@@ -14,7 +14,7 @@ groups:
 
 **
 
-{{< figure src="http://photos2.meetupstatic.com/photos/event/2/2/4/e/event_126308782.jpeg" >}}</p> 
+{{< figure src="https://secure.meetupstatic.com/photos/event/2/2/4/e/event_126308782.jpeg" >}}</p> 
 
 </strong>
 

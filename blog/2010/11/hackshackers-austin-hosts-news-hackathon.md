@@ -14,7 +14,7 @@ groups:
 - Austin
 ---
 
-{{< figure src="http://photos4.meetupstatic.com/photos/event/c/2/7/d/600_18889789.jpeg" >}}
+{{< figure src="https://secure.meetupstatic.com/photos/event/c/2/7/d/600_18889789.jpeg" >}}
 
 A group of coders and journos got together for a Saturday of programming at Austin Community College&#8217;s Eastview Campus for the first Hacks/Hackers ATX News Hackathon. The day was quite productive with a variety of news apps discussed and developed over the course of the day. It was a great meeting of technology, news and academia with representation from The University of Texas, Texas State University, The Texas Tribune and many more entities.
 

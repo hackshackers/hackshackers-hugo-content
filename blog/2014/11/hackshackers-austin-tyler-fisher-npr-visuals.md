@@ -10,7 +10,7 @@ groups:
 - Austin
 ---
 
-{{< figure src="http://photos3.meetupstatic.com/photos/event/3/0/a/d/600_431532461.jpeg" >}}
+{{< figure src="https://secure.meetupstatic.com/photos/event/3/0/a/d/600_431532461.jpeg" >}}
 
 [Tyler Fisher][1] of [NPR Visuals][2] joined us on Nov. 11 at the Statesman to talk about his team and their election coverage. Tyler is a recent graduate from Northwestern University with a major in Journalism. But Tyler has directed his career toward Web development and news applications.
 

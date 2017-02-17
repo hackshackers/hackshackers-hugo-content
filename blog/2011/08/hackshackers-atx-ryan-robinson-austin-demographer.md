@@ -10,7 +10,7 @@ groups:
 - Austin
 ---
 
-{{< figure src="http://photos3.meetupstatic.com/photos/event/3/1/2/5/event_49452581.jpeg" >}}
+{{< figure src="https://secure.meetupstatic.com/photos/event/3/1/2/5/event_49452581.jpeg" >}}
 
 On Aug. 2, Hacks/Hackers ATX was joined by City of Austin Demographer Ryan Robinson at the [Austin American-Statesman][1]. Robinson detailed several of the demographic shifts that have been occurring over the past decade, providing insight into ways these trends affect our social, economic and political climate. [View his full presentation][2] for more details and watch an excerpt below.
 

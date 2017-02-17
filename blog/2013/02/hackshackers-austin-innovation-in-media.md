@@ -14,7 +14,7 @@ groups:
 - Austin
 ---
 
-{{< figure src="http://photos3.meetupstatic.com/photos/event/4/f/a/8/600_200840392.jpeg" >}}
+{{< figure src="https://secure.meetupstatic.com/photos/event/4/f/a/8/600_200840392.jpeg" >}}
 
 Tim Lott, vice president of disruptive innovation of Cox Media Group, met with Hacks/Hackers Austin in a joint meetup with Online News Association on Jan. 28 at the Statesman to discuss the activities of his team. They are working on [TwelveApp][1], but are also pioneering in new ways to approach innovation. During the talk, Tim discussed the lean startup process, working to develop a minimum viable product (MVP), that can be implemented and tested quickly. This process relies on iterative development and quick prototyping. Tim was joined by other members of his team, Zach McGhee and Rocky Medure.
 

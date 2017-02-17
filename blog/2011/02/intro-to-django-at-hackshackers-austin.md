@@ -13,7 +13,7 @@ groups:
 - Austin
 ---
 
-{{< figure src="http://photos1.meetupstatic.com/photos/event/5/b/2/e/event_21203342.jpeg" >}}
+{{< figure src="https://secure.meetupstatic.com/photos/event/5/b/2/e/event_21203342.jpeg" >}}
 
 Hacks/Hackers Austin kicked off the first meeting of 2011 with an Intro to Django session, presented by [Jon Loyens][1], Director of [Bazaarvoice Labs][2]. Loyens did a short presentation on Django as a Python-based Web framework, and then moved into a live demo. You enjoy photos and video of the session below. More photos available on the [Meetup.com][3] page. 
 

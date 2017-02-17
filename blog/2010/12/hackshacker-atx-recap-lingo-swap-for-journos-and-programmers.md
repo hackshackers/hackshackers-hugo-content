@@ -12,7 +12,7 @@ groups:
 - Austin
 ---
 
-{{< figure src="http://photos4.meetupstatic.com/photos/event/9/a/c/0/event_20259616.jpeg" >}}
+{{< figure src="https://secure.meetupstatic.com/photos/event/9/a/c/0/event_20259616.jpeg" >}}
 
 For the last meeting of 2010, Hacks/Hackers ATX hosted a lingo swap, or a terminology and process exchange, between journalists and programmers. Representing journalists was [Matt Stiles][1] of the [Texas Tribune][2]. Matt started things off by explaining what concepts like source and script mean to journalists, and demystified terms like lede and beat. Later, [Mattt Thompson][3] (yes, that&#8217;s 3 t&#8217;s), a developer from [Gowalla][4], discussed some basic programming concepts that all communicators should know. It was a great exercise in common understanding. Many thanks to both presenters! Presentations are provided below, and part of Mattt Thompson&#8217;s presentation is included as video.
 

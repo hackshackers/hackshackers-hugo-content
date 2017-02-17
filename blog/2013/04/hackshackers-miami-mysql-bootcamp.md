@@ -12,7 +12,7 @@ groups:
 - Miami
 ---
 
-{{< figure src="http://photos1.meetupstatic.com/photos/event/7/6/e/highres_224881902.jpeg" alt="Hacks/Hackers Miami MySQL bootcamp" >}}
+{{< figure src="https://secure.meetupstatic.com/photos/event/7/6/e/highres_224881902.jpeg" alt="Hacks/Hackers Miami MySQL bootcamp" >}}
 
 [Hacks/Hackers Miami][1] officially launched Saturday, April 13, when [Stephanie Rosenblatt][2], a full-stack developer with a long-standing love of journalism, led about 25 members through a 3-hour MySQL bootcamp at the University of Miami School of Communication.
 

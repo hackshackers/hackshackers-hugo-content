@@ -15,7 +15,7 @@ groups:
 
 We believe that software can be used to tell stories in ways unthinkable for traditional journalism. Several journalists, designers and software developers related with **Hacks/Hackers Buenos Aires** are working on projects where they need to visualize data in time lines. We need tools to develop automatic or semi-automatic timelines that could be combined with other variables, to gather valuable insights from the data.
 
-{{< figure link="http://imgs.xkcd.com/comics/movie\_narrative\_charts\_large.png" src="http://photos1.meetupstatic.com/photos/event/8/9/8/c/event\_99695212.jpeg" >}}
+{{< figure link="http://imgs.xkcd.com/comics/movie\_narrative\_charts\_large.png" src="https://secure.meetupstatic.com/photos/event/8/9/8/c/event\_99695212.jpeg" >}}
 
 [Hacks/Hackers Buenos Aires][1] proposes to build new applications (like this one above) that can help visualize data &#8220;over time&#8221;. These applications could be used in both simple and complex projects, by journalists and others in the communications industry. [Submit here][2].
 

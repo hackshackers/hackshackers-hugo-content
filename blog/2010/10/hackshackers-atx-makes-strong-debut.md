@@ -15,7 +15,7 @@ groups:
 - Austin
 ---
 
-{{< figure src="http://photos3.meetupstatic.com/photos/event/5/a/0/5/event_18383045.jpeg" >}}
+{{< figure src="https://secure.meetupstatic.com/photos/event/5/a/0/5/event_18383045.jpeg" >}}
 
 The [Austin chapter of Hacks/Hackers][1] kicked off with a social meetup on September 30 at Austin&#8217;s Pizza near The University of Texas campus. More than 40 communicators and coders got together for some pizza and beverage, with lots of promise that these initial contacts will lead to some valuable collaborations.
 

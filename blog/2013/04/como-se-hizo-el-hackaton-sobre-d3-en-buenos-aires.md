@@ -8,7 +8,7 @@ _migration:
   timestamp: 1486602221
 ---
 
-{{< figure src="http://photos1.meetupstatic.com/photos/event/5/d/7/2/event_226703922.jpeg" >}}
+{{< figure src="https://secure.meetupstatic.com/photos/event/5/d/7/2/event_226703922.jpeg" >}}
 
 Temas de lo más variados aparecieron en escena: la represión sobre el sector financiero durante la última dictadura militar, visualizaciones sobre destinos turísticos, análisis visual de las votaciones nominales, líneas de tiempo comparativas sobre funcionarios y un instructivo sobre resultados deportivos, fueron algunas de las implementaciones que se desarrollaron en el Hackatón D3.js, organizado por [**Hacks/Hackers Buenos Aires**][1], con la presencia de [Manuel Aristarán, Knight Fellow en La Nación][2] y [Knight Mozilla Open News][3], [International Center For Journalists][4], [NXTP Labs][5], [Eter][6], [Vurbia,][7] [Fundación Desarrollar,][8] [AreaTres][9] entre otros. En los próximos días se anunciará una microgrant de mil dólares para terminar uno de los proyectos.
 

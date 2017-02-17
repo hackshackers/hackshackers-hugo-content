@@ -15,7 +15,7 @@ groups:
 
 We&#8217;re delighted to announce that the first international chapter of Hacks/Hackers got off to a fantastic start yesterday.
 
-{{< figure src="http://photos1.meetupstatic.com/photos/event/5/6/3/2/event_17302066.jpeg" alt="London Hacks/Hackers" >}}
+{{< figure src="https://secure.meetupstatic.com/photos/event/5/6/3/2/event_17302066.jpeg" alt="London Hacks/Hackers" >}}
 
 Having originally expected a modest turnout, we were bowled over when more than 50 journalists and coders gathered at [The Shooting Star][1] pub in Spitalfields on Wednesday evening for the first [London Hacks/Hackers meetup][2]. A big thank you to everyone who turned up!
 

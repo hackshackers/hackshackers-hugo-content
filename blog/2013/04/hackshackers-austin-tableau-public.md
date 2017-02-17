@@ -13,7 +13,7 @@ groups:
 - Austin
 ---
 
-{{< figure src="http://photos3.meetupstatic.com/photos/event/b/4/b/6/600_228766262.jpeg" >}}
+{{< figure src="https://secure.meetupstatic.com/photos/event/b/4/b/6/600_228766262.jpeg" >}}
 
 On April 1, Hacks/Hackers ATX (in conjunction with ONA Austin) hosted Ben Jones and Jewell Loree of [Tableau Public][1]. The pair went through the comprehensive offering that Tableau provides for data visualization.
 
