@@ -9,7 +9,7 @@ _migration:
   timestamp: 1486602222
 ---
 
-{{< figure src="http://farm9.staticflickr.com/8446/7917771110\_7c72d0caee\_z.jpg" >}}
+{{< figure src="https://farm9.staticflickr.com/8446/7917771110\_7c72d0caee\_z.jpg" >}}
 
 Around 700 people attended the three-day [Hacks/Hackers BA Media Party][1], at Ciudad Cultural Konex, averaging around 400 participants per day. The largest gathering of journalists, editors, designers and software developers in Latin America brought together people from the interactive teams of [The New York Times][2], [The Guardian][3], and [ProPublica][4], plus 20 international speakers from three continents and various countries in the region, including Colombia, Chile, Perú, Uruguay, Brasil and Guatemala, and digital editors from all of the largest Argentine media organizations.
 

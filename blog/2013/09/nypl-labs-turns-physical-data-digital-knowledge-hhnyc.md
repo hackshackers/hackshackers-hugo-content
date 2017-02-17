@@ -20,7 +20,7 @@ groups:
 - New York
 ---
 
-{{< figure link="http://www.nypl.org/collections/labs" src="http://newyorkfamilyhistory.org/sites/default/files/nypl\_logo1\_0.gif" alt="New York Public Library" >}}
+{{< figure link="http://www.nypl.org/collections/labs" src="https://newyorkfamilyhistory.org/sites/default/files/nypl\_logo1\_0.gif" alt="New York Public Library" >}}
 
 [_**Guest post by Dave Riordan, Product Manager, [NYPL Labs][1]**_]
 

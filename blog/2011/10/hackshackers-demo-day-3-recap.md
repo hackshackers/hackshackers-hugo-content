@@ -13,7 +13,7 @@ groups:
 - New York
 ---
 
-{{< figure link="http://www.flickr.com/photos/lamivo/6236519646/" src="http://farm7.static.flickr.com/6236/6236519646_3a44cfa5e0.jpg" alt="hackers by lamthuyvo, on Flickr" >}}
+{{< figure link="http://www.flickr.com/photos/lamivo/6236519646/" src="https://farm7.static.flickr.com/6236/6236519646_3a44cfa5e0.jpg" alt="hackers by lamthuyvo, on Flickr" >}}
 
 At the third Hacks/Hackers NYC Demo Day, six speakers whizzed through their presentations covering several topics, from real-time data collection to content management systems.
 

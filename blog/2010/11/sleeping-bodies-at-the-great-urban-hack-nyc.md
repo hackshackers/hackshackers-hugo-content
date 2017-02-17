@@ -15,7 +15,7 @@ groups:
 - New York
 ---
 
-{{< figure link="http://posterous.com/getfile/files.posterous.com/jenny8lee/CQIxPbgobV43WkDA2B2DbsGet4wu1QsN6vdJ6BL9sI1EzGBHYAC9du1NE9R6/greaturbanhackpostmidnight.jpg.scaled.1000.jpg" src="http://posterous.com/getfile/files.posterous.com/jenny8lee/xeXwb0vGmXc50sD2hWCy7gqR4E7HVjv0xepD6tZs7oTrZ99PWA1fv3h5dVl4/greaturbanhackpostmidnight.jpg.scaled.500.jpg" >}}
+{{< figure link="http://posterous.com/getfile/files.posterous.com/jenny8lee/CQIxPbgobV43WkDA2B2DbsGet4wu1QsN6vdJ6BL9sI1EzGBHYAC9du1NE9R6/greaturbanhackpostmidnight.jpg.scaled.1000.jpg" src="https://posterous.com/getfile/files.posterous.com/jenny8lee/xeXwb0vGmXc50sD2hWCy7gqR4E7HVjv0xepD6tZs7oTrZ99PWA1fv3h5dVl4/greaturbanhackpostmidnight.jpg.scaled.500.jpg" >}}
 
 Hacks/Hackers NYC and [Eyebeam Art + Technology Center][1] held an epic hackathon called [The Great Urban Hack][2] which led to 25 hours of hacking. Below are some pictures of the hardcore folks who stayed at the space all night. The above shot is from after midnight, but before people started falling off like flies. There was a late-night beer run. And we kept everyone really well fed. The people who stay all night were rewarded with xkcd schwag, courtesy of Breadpig.
 
