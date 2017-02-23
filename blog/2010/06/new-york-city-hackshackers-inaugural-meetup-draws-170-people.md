@@ -13,7 +13,7 @@ groups:
 - New York
 ---
 
-{{< figure link="http://meetupnyc.hackshackers.com/photos/947426/" src="http://photos2.meetupstatic.com/photos/event/d/5/1/8/event_15594552.jpeg" alt="New York City June 2 Meetup at Chinatown Brasserie" >}}
+{{< figure link="http://meetupnyc.hackshackers.com/photos/947426/" src="https://secure.meetupstatic.com/photos/event/d/5/1/8/event_15594552.jpeg" alt="New York City June 2 Meetup at Chinatown Brasserie" >}}
 
 An astounding 170 folks showed up at last week&#8217;s inaugural Meetup on June 2 at Chinatown Brasserie to enjoy the dim sum (thanks to Patch).  We [uploaded photos][1], taken by Jigar Mehta, so feel free to tag them.
 

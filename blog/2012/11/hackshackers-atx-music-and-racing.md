@@ -10,7 +10,7 @@ groups:
 - Austin
 ---
 
-{{< figure src="http://photos1.meetupstatic.com/photos/event/2/6/f/e/600_180309982.jpeg" >}}
+{{< figure src="https://secure.meetupstatic.com/photos/event/2/6/f/e/600_180309982.jpeg" >}}
 
 The September and October meetings of Hacks/Hackers ATX (in conjunction with the Online News Association local), focused on topics around important parts of Austin culture. In September, the group talked about Music Apps and Blogging, featuring Daniel Senyard and Shannon Delaney of [Vivogig][1] and Ian Morales and AJ Miranda of [Red River Noise][2] and [Austin Vida][3]. Vivogig is a photo-sharing app focused on concert experiences and Red River Noise and Austin Vida are music blogs covering important aspects of the diverse music scene. [Maira Garcia][4], formerly of Austin American-Statesman but now at The New York Times, organized the panel and moderated.
 

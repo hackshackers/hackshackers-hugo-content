@@ -10,7 +10,7 @@ groups:
 - São Paulo
 ---
 
-{{< figure src="http://www.camara.sp.gov.br/novo/images/stories/hackers-1382012-rtto_\_8334\_2-72-abre.jpg" alt="Hacks/Hackers São Paulo MySQL workshop" >}}
+{{< figure src="https://www.camara.sp.gov.br/novo/images/stories/hackers-1382012-rtto_\_8334\_2-72-abre.jpg" alt="Hacks/Hackers São Paulo MySQL workshop" >}}
 
 _Members of Hacks/Hackers São Paulo meet to discuss MySQL and plan their first hackathon._
 

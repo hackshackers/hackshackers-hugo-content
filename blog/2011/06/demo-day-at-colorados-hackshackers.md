@@ -12,7 +12,7 @@ groups:
 - Colorado
 ---
 
-{{< figure link="http://www.flickr.com/photos/mikelewis/5760368894/in/photostream/" src="http://farm6.static.flickr.com/5308/5760368894_28985f7b87.jpg" >}}
+{{< figure link="http://www.flickr.com/photos/mikelewis/5760368894/in/photostream/" src="https://farm6.static.flickr.com/5308/5760368894_28985f7b87.jpg" >}}
 
 I&#8217;m happy to announce that we&#8217;ve successfully launched a [Hacks/Hackers Meetup in Colorado][1].  We now have two Meetups under our belt and both have gone great.
 

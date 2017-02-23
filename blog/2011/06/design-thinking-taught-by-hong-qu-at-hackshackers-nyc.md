@@ -17,7 +17,7 @@ groups:
 - New York
 ---
 
-{{< figure src="http://s3.amazonaws.com/files.posterous.com/jenny8lee/8cLL5C2kIYCYmfZt7WF5lf5aeXYJHfh14oKzE2kbC4IFErSBnDFVaYLtdFHu/photo.jpg?AWSAccessKeyId=AKIAJFZAE65UYRT34AOQ&Expires=1309117653&Signature=j0RKPfeWCYd5CcYRrO2%2FhngDjJY%3D" alt="Hong Qu at Hacks/Hackers NYC" >}}
+{{< figure src="https://s3.amazonaws.com/files.posterous.com/jenny8lee/8cLL5C2kIYCYmfZt7WF5lf5aeXYJHfh14oKzE2kbC4IFErSBnDFVaYLtdFHu/photo.jpg?AWSAccessKeyId=AKIAJFZAE65UYRT34AOQ&Expires=1309117653&Signature=j0RKPfeWCYd5CcYRrO2%2FhngDjJY%3D" alt="Hong Qu at Hacks/Hackers NYC" >}}
 
 The [Design Thinking hands-on workshop][1] with [Hong Qu][2], one of the first designers at YouTube, took place at the CUNY Journalism school. It led the attendees through the premise behind user persona testing. Then Hong had us get together with teams and create user persona scenarios and wireframes for 5 ideas submitted by attendees; first on paper, then with Omnigraffle.
 

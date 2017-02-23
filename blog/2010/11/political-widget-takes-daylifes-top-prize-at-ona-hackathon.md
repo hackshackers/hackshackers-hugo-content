@@ -12,7 +12,7 @@ categories:
 - News
 ---
 
-{{< figure link="http://posterous.com/getfile/files.posterous.com/jenny8lee/m6b1rKcd45t4GDsuc71GiwZvbowvmy01mx2nQb3aDMq1AcGRqvQsFkUpoB2c/hha\_ona\_room\_shot\_2.jpg.scaled.1000.jpg" src="http://posterous.com/getfile/files.posterous.com/jenny8lee/8rWG8stuixcYxdsnkPzKNFDZQTFcRUowbMFVuOu85BQTsqUZPE94CqTd5fF8/hha\_ona\_room\_shot\_2.jpg.scaled.500.jpg" >}}
+{{< figure link="http://posterous.com/getfile/files.posterous.com/jenny8lee/m6b1rKcd45t4GDsuc71GiwZvbowvmy01mx2nQb3aDMq1AcGRqvQsFkUpoB2c/hha\_ona\_room\_shot\_2.jpg.scaled.1000.jpg" src="https://posterous.com/getfile/files.posterous.com/jenny8lee/8rWG8stuixcYxdsnkPzKNFDZQTFcRUowbMFVuOu85BQTsqUZPE94CqTd5fF8/hha\_ona\_room\_shot\_2.jpg.scaled.500.jpg" >}}
 
 In conjunction with the [Online News Association convention][1], Hacks/Hackers hosted a hackathon at NPR that was sponsored by [Daylife][2], a New York-based technology company which offered a $500 cash prize for the the best use of its API.
 

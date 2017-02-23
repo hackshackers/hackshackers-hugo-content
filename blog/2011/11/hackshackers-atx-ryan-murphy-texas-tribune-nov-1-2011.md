@@ -10,7 +10,7 @@ groups:
 - Austin
 ---
 
-{{< figure src="http://photos4.meetupstatic.com/photos/event/b/a/d/8/event_71747832.jpeg" >}}
+{{< figure src="https://secure.meetupstatic.com/photos/event/b/a/d/8/event_71747832.jpeg" >}}
 
 Ryan Murphy, data reporter at [Texas Tribune][1], was the speaker for the November meetup of Hacks/Hackers ATX. He talked about a variety of projects that he uses in reporting publicly available information and how the Texas Tribune integrates various tools, like Google Fusion Tables, in their coverage.
 

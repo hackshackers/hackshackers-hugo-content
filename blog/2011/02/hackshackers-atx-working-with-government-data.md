@@ -14,7 +14,7 @@ groups:
 - Austin
 ---
 
-{{< figure src="http://photos1.meetupstatic.com/photos/event/5/1/f/8/event_21560984.jpeg" >}}
+{{< figure src="https://secure.meetupstatic.com/photos/event/5/1/f/8/event_21560984.jpeg" >}}
 
 On Feb. 17, [Andrew Dupont][1] of Gowalla discussed his side project, [Filibusted.us][2] at the Austin American-Statesman. Andrew&#8217;s site collects data on filibusters to better inform people of some of the activities of those who represent them on the Senate floor. He also discussed some sources of government data and gave tips on how to work with it. Watch the video of his presentation below.
 

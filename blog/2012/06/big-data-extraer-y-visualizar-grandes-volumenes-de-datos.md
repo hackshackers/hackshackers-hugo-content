@@ -16,7 +16,7 @@ groups:
 
 ****Trabajar con grandes volúmenes de datos permite ver acontecimientos que antes eran inimaginables: 900 millones de usuarios conectándose en Facebook, miles de taxis funcionando en tiempo real, eventos inesperados que se pueden medir en Twitter, terabytes de e-mails moviéndose de un continente al otro.
 
-{{< figure src="http://photos2.meetupstatic.com/photos/event/2/2/4/e/event_126308782.jpeg" >}}
+{{< figure src="https://secure.meetupstatic.com/photos/event/2/2/4/e/event_126308782.jpeg" >}}
 
 [**Hacks/Hackers Buenos Aires**][1] se mete en el [Big Data Studio de Globant][2] para compartir un encuentro de aprendizaje e intercambio de experiencias relacionadas con una rama que está cambiando la forma de mostrar historias. También estaremos en contacto virtual con el equipo interactivo del diario [The New York Times][3] para saber cómo trabajan visualizaciones complejas.
 

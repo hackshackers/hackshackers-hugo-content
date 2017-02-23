@@ -12,7 +12,7 @@ groups:
 
 
 
-{{< figure link="http://posterous.com/getfile/files.posterous.com/hackshackers/ijNYrOHv23U5amqwS2RWGVxuH1KthgBzx6f0awhcOrVCZCsHsv8Xn0YHVDww/IMAG0631.jpg.scaled.1000.jpg" src="http://posterous.com/getfile/files.posterous.com/hackshackers/eHpdGEsXEPDqX8vQNMV3CiqwKoXYWqDXNVSvTHzJeaF0oP12wFyFD8I0q32f/IMAG0631.jpg.scaled.500.jpg" alt="Imag0631" >}}
+{{< figure link="http://posterous.com/getfile/files.posterous.com/hackshackers/ijNYrOHv23U5amqwS2RWGVxuH1KthgBzx6f0awhcOrVCZCsHsv8Xn0YHVDww/IMAG0631.jpg.scaled.1000.jpg" src="https://posterous.com/getfile/files.posterous.com/hackshackers/eHpdGEsXEPDqX8vQNMV3CiqwKoXYWqDXNVSvTHzJeaF0oP12wFyFD8I0q32f/IMAG0631.jpg.scaled.500.jpg" alt="Imag0631" >}}
 
 [Mozilla][1], [Knight Foundation][2], [Hacks/Hackers London][3] and [The Guardian][4] hosted a brainstorming session in London on May 28, as part of the [Mozilla Journalism][5] ([#MoJo][6]) initiative. (For more information, follow **[@KnightMozilla on Twitter][7]).** I have been to a lot of journalism-technology brainstorming sessions in the last few years, but I have to say this was one of the best executed I have ever been to. A lot of people have asked me why that is. And I&#8217;ll put some of my thoughts down. Here were some of the elements:
 

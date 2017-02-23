@@ -10,7 +10,7 @@ groups:
 - Austin
 ---
 
-{{< figure src="http://photos3.meetupstatic.com/photos/event/5/0/5/2/event_425960562.jpeg" >}}
+{{< figure src="https://secure.meetupstatic.com/photos/event/5/0/5/2/event_425960562.jpeg" >}}
 
 On July 28, Jewel Loree, senior data analyst for Tableau, demonstrated the new [Tableau][1] for Mac. Tableau continues to make their tools more accessible and available, so that all journalists can add data visualization to their storytelling. Participants were able to check out new features and ask questions.
 

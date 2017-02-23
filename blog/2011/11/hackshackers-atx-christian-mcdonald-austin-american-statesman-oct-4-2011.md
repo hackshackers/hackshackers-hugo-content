@@ -11,7 +11,7 @@ groups:
 - Austin
 ---
 
-{{< figure src="http://photos4.meetupstatic.com/photos/event/b/8/9/e/event_69287262.jpeg" >}}
+{{< figure src="https://secure.meetupstatic.com/photos/event/b/8/9/e/event_69287262.jpeg" >}}
 
 On Oct. 4, Hacks/Hackers ATX met at Austin American-Statesman to hear from the Statesman&#8217;s own Christian McDonald on Deconstructing the Bastrop Complex Fire Map. We were all aware of the devastation of the wildfires in early September, and the Statesman used innovative techniques to provide the community with information and coverage. Check out his video and presentation (also on [Slideshare][1]) embedded below. Links associated with the presentation are available on [Delicious][2]. 
 

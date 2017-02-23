@@ -23,7 +23,7 @@ groups:
 - Chicago
 ---
 
-{{< figure src="http://www.themediaconsortium.org/wp-content/uploads/2010/09/hackathon-300x71.png" >}}
+{{< figure src="https://www.themediaconsortium.org/wp-content/uploads/2010/09/hackathon-300x71.png" >}}
 
 From iPads to Android, mobile is the future of media. But how can news organizations capitalize on mobile mania to better connect with their audiences? That&#8217;s a key question that journalists can&#8217;t answer alone.
 

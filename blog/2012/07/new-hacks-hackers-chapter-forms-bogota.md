@@ -16,7 +16,7 @@ groups:
 - Bogotá
 ---
 
-{{< figure link="http://www.meetup.com/Hacks-Hackers-Bogota/events/70386462/" src="http://hackshackers.com/wp-content/uploads/logos/chapters/bogota_side.gif" alt="Hacks/Hackers Bogota logo" >}}
+{{< figure link="http://www.meetup.com/Hacks-Hackers-Bogota/events/70386462/" src="https://hackshackers.com/wp-content/uploads/logos/chapters/bogota_side.gif" alt="Hacks/Hackers Bogota logo" >}}
 
 Bogota, Colombia now has a Hacks/Hackers chapter and we are excited to be a new addition to the Hacks/Hackers family.
 

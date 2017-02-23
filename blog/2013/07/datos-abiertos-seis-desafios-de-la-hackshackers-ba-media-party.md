@@ -10,7 +10,7 @@ groups:
 - Buenos Aires
 ---
 
-{{< figure src="http://ijnet.org/sites/default/files/imagecache/large/images/mediaparty.jpg" alt="image:" >}}
+{{< figure src="https://ijnet.org/sites/default/files/imagecache/large/images/mediaparty.jpg" alt="image:" >}}
 
 Unos días antes de realizar nuestra [primera Media Party][1] en agosto de 2012, nuestro capitulo de Hacks/Hackers Buenos Aires se dio cuenta de que íbamos a necesitar un megáfono para anunciar algunas de nuestras actividades a los cientos de participantes.
 
