@@ -1,6 +1,6 @@
 ---
 title: Example Group
-# see /content/data/groups/example-group.yml for metadata example
+# see /content/data/groups/example-group.yml for metadata source
 ---
 
 *This is an example of the "scratch pad" page that any H/H group can have.*
