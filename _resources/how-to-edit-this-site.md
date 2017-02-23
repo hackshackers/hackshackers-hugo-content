@@ -55,7 +55,6 @@ To embed the image in an article, the simplest way is:
 
 ```
 ![img alt text](/content-images/path/to/my/image.jpg)
-
 ```
 
 To get fancier, use the Hugo `{{</* figure */>}}` [shortcode][5]:
