@@ -1,6 +1,5 @@
 ---
-title: How to edit this site
-url: resources/how-to-edit-this-site
+title: Edit a post or page
 ---
 
 Not only is the code for this site open source, the content is too. Anyone in the Hacks/Hackers community can propose a new post or suggest edits to an existing one by opening a pull request on GitHub.
@@ -25,7 +24,7 @@ Then go back to the root of your fork of the repository, and click "New pull req
 
 Individual pages like this one have a big link labeled "Suggest Edits" below the page title. Click it! GitHub will prompt you to fork the repository and propose changes. Or you can browse the repository to find the page you want to edit, then click this link:
 
-![Edit a page in GitHub](/content-images/resources/edit-page.png)
+{{< figure alt="Edit a page in GitHub" src="/content-images/resources/edit-page.png" >}}
 
 Make your edits and click "Propose file change".
 
@@ -33,7 +32,7 @@ Make your edits and click "Propose file change".
 
 You'll see a dialog like this to review your changes and confirm that you really do want to create a pull request.
 
-![Create pull request dialog](/content-images/resources/create-pr.png)
+{{< figure alt="Create pull request dialog" src="/content-images/resources/create-pr.png" >}}
 
 Click "Create pull request" and proceeed to the next screen. You can give your PR a title and description before making it official.
 
@@ -45,7 +44,7 @@ Now, one of the site editors can review your proposed changes and merge them bac
 
 Conveniently, GitHub's text editor lets you place your new file in whatever directory you want by typing a `/`:
 
-![Creating a new directory](/content-images/resources/new-directory.png)
+{{< figure alt="Creating a new directory" src="/content-images/resources/new-directory.png" >}}
 
 #### Note: embedding images and other media
 

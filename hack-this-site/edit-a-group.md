@@ -1,6 +1,5 @@
 ---
-title: How to edit a group
-url: resources/how-to-edit-a-group
+title: Edit a group
 ---
 
 So you're organzing a local Hacks/Hackers group. Thank you! Here's how to add or update the information about your group that appears on this site.
