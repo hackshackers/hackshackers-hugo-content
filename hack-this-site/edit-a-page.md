@@ -4,6 +4,14 @@ description: All you need is a GitHub account to write a blog post or suggest ed
 weight: 1
 ---
 
+## tl;dr
+
+1. Use the "Suggest Edits" link on an existing page or [click here][7] to add a new page.
+1. Write/edit in [Markdown][3] using GitHub's web-based text editor.
+1. Keep clicking the big green button until your [pull request][8] is created.
+
+## The long version
+
 Not only is the code for this site open source, the content is too. Anyone in the Hacks/Hackers community can propose a new post or suggest edits to an existing one by opening a pull request on GitHub.
 
 All you need is a GitHub account. This doc uses GitHub's web-based text editor, but you can always use your local machine if you'd prefer.
@@ -32,7 +40,7 @@ Make your edits and click "Propose file change".
 
 ## Your Pull Request
 
-You'll see a dialog like this to review your changes and confirm that you really do want to create a pull request.
+You'll see a dialog like this to review your changes and confirm that you really do want to create a [pull request][8].
 
 {{< figure alt="Create pull request dialog" src="/content-images/resources/create-pr.png" >}}
 
@@ -79,3 +87,5 @@ We also have a custom `{{</* iframe */>}}` shortcode that accepts `src` and _CSS
 [4]: /resources/how-to-edit-a-group
 [5]: https://gohugo.io/extras/shortcodes/#figure
 [6]: https://gohugo.io/extras/shortcodes/
+[7]: https://github.com/hackshackers/hackshackers-hugo-content/new/master
+[8]: https://help.github.com/articles/using-pull-requests
