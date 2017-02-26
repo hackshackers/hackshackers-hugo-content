@@ -1,5 +1,7 @@
 ---
-title: Edit a group
+title: Edit group data
+description: Here's how to add or update the information about your group that appears on this site.
+weight: 2
 ---
 
 So you're organzing a local Hacks/Hackers group. Thank you! Here's how to add or update the information about your group that appears on this site.

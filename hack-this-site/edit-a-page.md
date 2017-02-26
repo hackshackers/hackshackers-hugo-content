@@ -1,5 +1,7 @@
 ---
 title: Edit a post or page
+description: All you need is a GitHub account to write a blog post or suggest edits to any page.
+weight: 1
 ---
 
 Not only is the code for this site open source, the content is too. Anyone in the Hacks/Hackers community can propose a new post or suggest edits to an existing one by opening a pull request on GitHub.
