@@ -8,7 +8,7 @@ weight: 1
 
 1. Use the "Suggest Edits" link on an existing page or [click here][7] to add a new page.
 1. Write/edit in [Markdown][3] using GitHub's web-based text editor.
-1. Keep clicking the big green button until your [pull request][8] is created.
+1. Keep clicking the *big green buttons* until your [pull request][8] is created.
 
 ## The long version
 
@@ -84,7 +84,7 @@ We also have a custom `{{</* iframe */>}}` shortcode that accepts `src` and _CSS
 [1]: https://github.com/hackshackers/hackshackers-hugo-content
 [2]: https://gohugo.io
 [3]: https://guides.github.com/features/mastering-markdown/
-[4]: /resources/how-to-edit-a-group
+[4]: /hack-this-site/edit-group-page/
 [5]: https://gohugo.io/extras/shortcodes/#figure
 [6]: https://gohugo.io/extras/shortcodes/
 [7]: https://github.com/hackshackers/hackshackers-hugo-content/new/master
