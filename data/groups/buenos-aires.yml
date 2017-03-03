@@ -1,5 +1,5 @@
 label: Buenos Aires
+externalUrl: 'http://www.meetup.com/HacksHackersBA/'
 coordinates:
-- -34.617803
-- -58.439558
-externalUrl: http://meetupba.hackshackers.com
+  - -34.617803
+  - -58.439558

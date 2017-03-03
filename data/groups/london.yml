@@ -1,5 +1,5 @@
 label: London
+externalUrl: 'http://www.meetup.com/HacksHackersLondon/'
 coordinates:
-- 51.508500
-- -0.125700
-externalUrl: http://meetuplondon.hackshackers.com/
+  - 51.5085
+  - -0.1257
