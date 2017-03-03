@@ -22,7 +22,7 @@ Simply create a file similar to [`content/groups/example-group.md`][5] and make 
 
 The group page works like a scratch pad and you can update it at any time with a pull request.
 
-[1]: /resources/how-to-edit-this-site
+[1]: /hack-this-site/edit-a-page/
 [2]: http://www.yaml.org/start.html
 [3]: /groups
 [4]: https://github.com/hackshackers/hackshackers-hugo-content/blob/master/data/groups/example-group.yml
