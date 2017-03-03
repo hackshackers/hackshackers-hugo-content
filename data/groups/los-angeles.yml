@@ -1,5 +1,5 @@
 label: Los Angeles
+externalUrl: 'http://www.meetup.com/HacksHackers-LA/'
 coordinates:
-- 34.054400
-- -118.243900
-externalUrl: http://meetupla.hackshackers.com/
+  - 34.0544
+  - -118.2439

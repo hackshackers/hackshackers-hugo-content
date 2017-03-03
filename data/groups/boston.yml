@@ -1,5 +1,5 @@
 label: Boston
+externalUrl: 'http://www.meetup.com/hackshackersboston/'
 coordinates:
-- 42.360500
-- -71.059600
-externalUrl: https://www.meetup.com/hackshackersboston/
+  - 42.3605
+  - -71.0596

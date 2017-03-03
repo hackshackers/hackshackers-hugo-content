@@ -1,5 +1,4 @@
 label: Tampa Bay
 coordinates:
-- 27.762500
-- -82.545833
-externalUrl: http://www.meetup.com/hhtampabay/
+  - 27.7625
+  - -82.545833333333

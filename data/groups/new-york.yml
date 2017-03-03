@@ -1,5 +1,5 @@
-label: New York
+label: New York City
+externalUrl: 'http://www.meetup.com/hacks-hackers-nyc/'
 coordinates:
-- 40.764800
-- -73.980800
-externalUrl: http://meetupnyc.hackshackers.com
+  - 40.7648
+  - -73.9808

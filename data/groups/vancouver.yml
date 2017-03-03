@@ -1,5 +1,5 @@
 label: Vancouver
+externalUrl: 'http://www.meetup.com/HacksHackersVancouver/'
 coordinates:
-- 49.260900
-- -123.113900
-externalUrl: http://www.meetup.com/hackshackersvancouver/
+  - 49.2609
+  - -123.1139
