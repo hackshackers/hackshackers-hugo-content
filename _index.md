@@ -2,4 +2,10 @@
 feature_img: "/images/work.png"
 feature_img_alt: At work
 ---
-Lorem ipsum Do dolor nisi dolore magna non sit et in enim pariatur reprehenderit sunt ullamco enim non occaecat nisi aliqua minim do tempor dolore ullamco in sit irure in eiusmod nostrud et Excepteur id occaecat fugiat sunt eu esse labore dolore amet in laborum mollit enim labore exercitation cupidatat labore in consequat ut deserunt fugiat deserunt minim aliquip magna eu ea tempor Ut cillum nisi in dolor ex id consectetur ullamco commodo mollit sit adipisicing pariatur cillum nulla dolore in dolore dolore enim laboris nulla ex dolore officia sit officia laboris in in sed dolore consectetur elit elit Duis dolore nisi in eiusmod do sit adipisicing nulla ad voluptate do dolor consectetur sit ea et Excepteur exercitation pariatur sit non sunt nostrud commodo ea ut in proident in nisi minim voluptate dolore consequat mollit dolor aute consequat laborum magna in irure anim eu tempor cupidatat in aute irure aliquip anim adipisicing culpa consectetur consequat et cupidatat elit sint reprehenderit eu eu Duis ea eiusmod ex Excepteur dolore nostrud sunt incididunt est exercitation enim.
+Hacks/Hackers is an international grassroots community of people who seek to inspire and inform each other to build the future of media.
+<br>
+<br>
+"Hacks" (journalists) and "hackers" (technologists) work together to create physical and digital spaces for exploring new ways to tell stories. We help members find collaborators for projects and new ventures, and share information and code. We bring together startups and large companies working in media, defined broadly.
+<br>
+<br>
+We believe the open flow of information is essential to democratic society and seek to ensure that the watchdog function journalists have fulfilled continues to exist, regardless of the institutions that have played that role in the past.
