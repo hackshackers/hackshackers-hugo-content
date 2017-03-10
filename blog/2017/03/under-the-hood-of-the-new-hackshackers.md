@@ -9,17 +9,17 @@ date: 2017-03-10
 
 _If you just want to know how to contribute code or text, check out the [Hack This Site][1] documentation. If you're curious about the design process, we'll cover that soon in another post. If you want to learn more about how the site works, read on._
 
-This being Hacks/Hackers, an imperative for this site was the idea that anyone can "hack" it. In practice, this meant that we needed an architecture that lets anyone tinker with the site's _container_ (HTML templates, JavaScript, and CSS) as well as its _content_.
+This being Hacks/Hackers, an imperative for this site was the idea that anyone can "hack" it. In practice, this meant that we needed an architecture that lets anyone tinker with the site's container (HTML templates, JavaScript, and CSS) as well as its content.
 
-In the CMS-driven sites that we're all used to building and using, authors write content on one web page, which sends it to a server, which saves it to a row in the database. When someone's browser requests a URL on the site, the server figures out which database row corresponds to the request, fetches it from the database, builds a HTML page, and sends it back to the browser. (This is an oversimplified version, see below...)
+In the CMS-driven sites that we're all used to building and using, authors write content on one web page, which sends it to a server, which saves it to a row in the database. When someone's browser requests a URL on the site, the server figures out which database row corresponds to the request, fetches it from the database, builds a HTML page, and sends it back to the browser. (This is an oversimplified version.)
 
-Within this standard architecture, we could open-source the container's source code in a public GitHub repository. But that's not feasible for the content; it needs the context of the server.
+Within this standard architecture, we could open-source the container's code in a public GitHub repository. But that's not feasible for the content; it needs the context of the server.
 
 ## Thinking static
 
-Thinking about opening up the content led us to static site generators. These are programs that translate static content files (usually [Markdown][2]) and templates to static HTML files that are uploaded to the site. Unlike the continuously running programs that power a CMS, the static site generator runs only when you need to compile a build.
+Thinking about opening up the content, our team at Alley Interactive started looking at static site generators. These are programs that translate static content files (usually [Markdown][2]) and templates to static HTML files that are uploaded to the site. Unlike the continuously running programs that power a CMS, the static site generator runs only when you need to compile a build.
 
-Going back to the oversimplified explanation of a CMS from before, what actually happens when someone's browser requests a URL is that they probably receive a cached version of the HTML page. This saves the server from rebuilding the same HTML page over and over, and improves performance.
+Going back to that oversimplified explanation of a CMS, what actually happens when someone's browser requests a URL is that they probably receive a cached version of the HTML page. This saves the server from rebuilding the same HTML page over and over, and improves performance.
 
 With a static site generator, the cache is the whole site. It's _fast_.
 
