@@ -1,5 +1,5 @@
 ---
-title: Your new look: crystal clear and cutting edge
+title: "Your new look: crystal clear and cutting edge"
 authors:
   - Samantha Sunne
 categories:
