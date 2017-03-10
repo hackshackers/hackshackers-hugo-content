@@ -5,8 +5,8 @@ coordinates:
   - 12.3155
 founded: 2015
 organizers:
-  - { name: "Enrico Costa", link: "#0" }
+  - { name: "Enrico Costa" }
   - { name: "Antonio Massariolo", link: "http://www.antoniomassariolo.it" }
-  - { name: "Erica Villa", link: "#0" }
+  - { name: "Erica Villa" }
   - { name: "Luca Corsato", link: "https://osd.tools" }
 # groupPage: venezia
