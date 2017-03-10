@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers enters 2017
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2017-01-06"
 _migration:
   id: 17712
@@ -30,7 +30,7 @@ Distributing work this way maximizes what the group can accomplish while keeping
 
 **Upcoming events:**
 
-  * January: 
+  * January:
       * 7 &#8211; San Francisco, USA &#8211; White House [social media hackathon][10]
       * 11 &#8211; Washington, D.C., USA &#8211; Cybersecurity Institute for Journalists [seminar][11]
       * 15-18 &#8211; Cape Town, South Africa &#8211; UN [World Data Forum][12]
@@ -38,10 +38,10 @@ Distributing work this way maximizes what the group can accomplish while keeping
       * 21 &#8211; Berlin, Germany &#8211; &#8220;[Hashtag, High Tech, Hackmac][14]&#8221; data journalism day
       * 27-28 &#8211; Odense, Denmark &#8211; [NODA17][15], the Nordic Data Journalism Conference
       * 31-1 &#8211; London, UK &#8211; [#newsHACK][16], the BBC&#8217;s transcription hackathon
-  * February: 
+  * February:
       * 6 &#8211; Paris, France &#8211; [News Impact Summit][17]
       * 8-9 &#8211; London, UK &#8211; [newsrewired][18]
-  * March: 
+  * March:
       * 2-5 &#8211; Jacksonville, USA &#8211; National Institute of Computer-Assisted Reporting (NICAR) [conference][19]
       * 31-1 &#8211; Tonsberg, Norway &#8211; [SKUP][20] conference for investigative reporters and editors in Norway
 

@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers Media Parties now on three continents
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-10-21"
 _migration:
   id: 17656
@@ -40,29 +40,29 @@ Earlier this month, [Montreal][11] met [to talk about][12] cloud-based services 
 
 **Job openings:**
 
-  * Africa: 
+  * Africa:
       * Quartz Africa is looking for a [technical writer][18]
-  * North America: 
+  * North America:
       * Vox is looking for an [editor to cover tech][19], business and the economy
       * The Minneapolis Star Tribune is taking applications for its [digital design internship][20]
       * Pew Research has openings for a [data analyst][21], [UX designer][22] and other positions
-  * Asia: 
+  * Asia:
       * Mapbox, the popular mapping startup, is hiring a [data analyst][23] in Bangalore, India
 
 **Other upcoming events:**
 
-  * October: 
+  * October:
       * Oct 21 &#8211; Madrid, Spain &#8211; Medialab-Prado&#8217;s [Data Driven Journalism Production Workshop][24]
       * Oct 21-23 &#8211; Cape Town, South Africa &#8211; [Media Party Africa][7], co-run by Hacks/Hackers Africa and Code for Africa
       * Oct 25-27 &#8211; Casablanca, Morocco &#8211; [d|bootcamp][25], a three-day civic hacking workshop
       * Oct 28-29 &#8211; Chicago and San Francisco, USA &#8211; [Mobile Me & You][26]
       * Oct 28-30 &#8211; London, UK &#8211; [MozFest][27], Mozilla&#8217;s open web conference
-  * November: 
+  * November:
       * Nov 3-4 &#8211; Buenos Aires, Argentina &#8211; FOPEA&#8217;s [International Journalism Conference][28]
       * Nov 7-9 &#8211; Johannesburg, South Africa &#8211; [African Investigative Journalism Conference][29]
       * Nov 22-23 &#8211; Covilha, Portugal &#8211; the [Journalism and Mobile Devices Congress][30]
       * Nov 23-24 &#8211; Amsterdam, Netherlands &#8211; [European Women in Technology][31] Conference
-  * December: 
+  * December:
       * Dec 1-4 &#8211; Panama City, Panama &#8211; the [International Anti-Corruption Conference][32]
       * Dec 2-3 &#8211; Dead Sea, Jordan &#8211; the [Arab Investigative Journalism Conference][33]
 

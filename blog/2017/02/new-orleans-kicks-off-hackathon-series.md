@@ -1,7 +1,7 @@
 ---
 title: New Orleans kicks off hackathon series
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2017-02-09"
 _migration:
   id: 17734

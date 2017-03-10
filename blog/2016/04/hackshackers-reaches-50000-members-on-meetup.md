@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers reaches 50,000 members on Meetup
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-04-29"
 _migration:
   id: 17440
@@ -31,7 +31,7 @@ Organizer Jakub Górnicki said they focused mostly on the tech possibilities for
 
 **
 
-{{< figure src="/content-images/blog/2016/04/IMG\_20160420\_001409-300x300.jpg" alt="IMG\_20160420\_001409" >}}</p> 
+{{< figure src="/content-images/blog/2016/04/IMG\_20160420\_001409-300x300.jpg" alt="IMG\_20160420\_001409" >}}</p>
 
 </strong>
 
@@ -42,7 +42,7 @@ Organizer Jakub Górnicki said they focused mostly on the tech possibilities for
   * A tiny radio station in Marfa, Texas, [won every RTDNA award][8] in a two-state region (Poynter)
   * **A social analytics company found that Buzzfeed publishes its content [across almost 50 channels][9] (Naytev)
 
-** 
+**
 
 **Job openings:**
 

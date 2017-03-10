@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers Caracas and Taipei hold their first events
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-10-14"
 _migration:
   id: 17635
@@ -42,9 +42,9 @@ The [brand new chapter in Caracas][1], Venezuela, got off to a booming start las
 
 **Job openings:**
 
-  * Europe: 
+  * Europe:
       * The Financial Times has an opening for a [data viz analyst][14]
-  * North America: 
+  * North America:
       * The CIA (yes, that one) is looking for a [freelance interactive developer][15]
       * Mississippi Today, a new nonprofit, is seeking a [web developer and designer][16]
       * Fox News is looking for a lead digital [project manager][17]
@@ -52,12 +52,12 @@ The [brand new chapter in Caracas][1], Venezuela, got off to a booming start las
       * NPR is accepting applications for its [design/code/visualization internship][19]
       * NBC is seeking a [product designer][20] in New York
       * Stanford is accepting applications for the John S. Knight [journalism innovation fellowship][21]
-  * Asia: 
+  * Asia:
       * The International New York Times needs an [IT specialist][22] in Hong Kong
 
 **Other upcoming events:**
 
-  * October: 
+  * October:
       * Oct 14-15 &#8211; Washington, DC, USA &#8211; [TransparencyCamp][23], the Sunlight Foundation&#8217;s unconference for open government
       * Oct 17-17 &#8211; Vitoria, Brazil &#8211; [Brazilian Conference of Citizen Media][24]
       * Oct 21 &#8211; Madrid, Spain &#8211; Medialab-Prado&#8217;s [Data Driven Journalism Production Workshop][25]
@@ -65,11 +65,11 @@ The [brand new chapter in Caracas][1], Venezuela, got off to a booming start las
       * Oct 25-27 &#8211; Casablanca, Morocco &#8211; [d|bootcamp][27], a three-day civic hacking workshop
       * Oct 28-29 &#8211; Chicago and San Francisco, USA &#8211; [Mobile Me & You][28]
       * Oct 28-30 &#8211; London, UK &#8211; [MozFest][29], Mozilla&#8217;s open web conference
-  * November: 
+  * November:
       * Nov 3-4 &#8211; Buenos Aires, Argentina &#8211; FOPEA&#8217;s [International Journalism Conference][30]
       * Nov 7-9 &#8211; Johannesburg, South Africa &#8211; [African Investigative Journalism Conference][31]
       * Nov 22-23 &#8211; Covilha, Portugal &#8211; the [Journalism and Mobile Devices Congress][32]
-  * December: 
+  * December:
       * Dec 1-4 &#8211; Panama City, Panama &#8211; the [International Anti-Corruption Conference][33]
       * Dec 2-3 &#8211; Dead Sea, Jordan &#8211; the [Arab Investigative Journalism Conference][34]
 

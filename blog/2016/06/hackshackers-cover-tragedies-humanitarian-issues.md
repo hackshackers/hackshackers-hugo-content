@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers cover tragedies, humanitarian issues
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-06-17"
 _migration:
   id: 17513
@@ -41,14 +41,14 @@ Nairobi held a [Hack4Humanity][7] to coincide with the World Humanitarian Summit
 
 **Job openings:**
 
-  * North America: 
+  * North America:
       * The International Business Times is seeking students or recent grads for a [data fellowhip][13]
       * First Look Media has openings for both a [frontend][14] and [backend][15] engineer
       * New York Magazine is hiring a [UX designer][16]
-  * Asia: 
+  * Asia:
       * CNN is hiring a [social publishing producer][17] in Hong Kong
       *  Internews is looking to fill [several positions][18] in central Asia
-  * Europe: 
+  * Europe:
       * Politico is looking for an [economics reporter][19] to be based in Frankfurt
 
 **Other events coming up:**

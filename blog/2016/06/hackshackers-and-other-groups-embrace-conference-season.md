@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers and other groups embrace conference season
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-06-12"
 _migration:
   id: 17466
@@ -41,14 +41,14 @@ Organizers said the event helped to revitalize the Brussels chapter, and [Camill
 
 **Job openings:**
 
-  * Latin America: 
+  * Latin America:
       * A.M. Costa Rica, an English language internet daily, is looking for [a managing editor][19]
-  * Asia: 
+  * Asia:
       * ICFJ is offering a [one-year fellowship][20] in Kazakhstan
       * The South China Morning Post is seeking a [technology editor][21]
-  * Europe: 
+  * Europe:
       * Press Association Sport is seeking a [data journalist][22] to join them in East Yorkshire
-  * North America: 
+  * North America:
       * National Geographic is hiring a [digital product manager][23] in Washington, D.C.
       * The Sunlight Foundation is hiring a [quantitative analyst][24]
       * Ipsos, a polling company in New York, is hiring a [content specialist][25]

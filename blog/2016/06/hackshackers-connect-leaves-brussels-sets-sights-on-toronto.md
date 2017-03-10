@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers Connect leaves Brussels, sets sights on Toronto
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-06-03"
 _migration:
   id: 17464
@@ -38,14 +38,14 @@ Next Tuesday, we&#8217;ll be catching up in our global call at 11 a.m. EST (1500
 
 **Job openings:**
 
-  * North America: 
+  * North America:
       * USA Today is looking for a [senior data journalist][11]
       * The Institute for Nonprofit News is hiring a [full-stack developer][12]
       * Timeline, a media startup, is hiring a [data journalist][13]
       * Community-driven news startup Hearken is looking for a [community manager][14]
       * McClatchy newswire is hiring an [innovation manager][15] in Raleigh, N.C.
       * Mic is hiring a [lead data engineer][16]
-  * Asia: 
+  * Asia:
       * Reuters is [looking for correspondents][17] in China
       * The Phnom Penh Post is hiring a [reporter and sub-editor][18]
 

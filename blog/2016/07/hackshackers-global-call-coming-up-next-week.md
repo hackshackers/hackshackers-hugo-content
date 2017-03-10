@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers global call coming up tomorrow!
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-07-04"
 _migration:
   id: 17522
@@ -40,17 +40,17 @@ Organizer [Joanna Geary][8] shared the templates they use for assigning [roles][
 
 **Job openings:**
 
-  * Europe: 
+  * Europe:
       * The Bureau of Investigative Journalism is hiring a [Data Lab director][14]
       * Storyful is hiring a [journalist][15] in the UK
-  * North America: 
+  * North America:
       * Vox is hiring a [graphics reporter][16] in Washington, D.C.
       * Conde Nast is hiring a [data engineer][17] in New York
       * The NYT has several [data analyst positions][18] open
       * The New Yorker is looking for an [editorial production developer][19]
       * EdSurge is seeking a [data journalist][20] to cover education technology
       * The Good Search, an ethical executive search company, wants to hire a [data research associate][21]
-  * Africa: 
+  * Africa:
       * CodeforAfrica is hiring for [several positions][22], including senior Python developer
 
 **Other upcoming events:**

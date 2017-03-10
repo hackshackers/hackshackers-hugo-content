@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers Connect comes to Brussels
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-05-20"
 _migration:
   id: 17458
@@ -18,7 +18,7 @@ Happy Friday, hacks and hackers! We&#8217;re excited to bring the [Connect serie
 
 **The week ahead:**
 
-  * Nairobi is holding [a discussion to coincide][4] with the World Humanitarian Summit 
+  * Nairobi is holding [a discussion to coincide][4] with the World Humanitarian Summit
   * Warsaw is [hosting four speakers][5] ranging from a fashion blogger to an archaeologist
   * [Miami][6] and [IRE][7] are holding their regular weekly open labs
   * Denmark is holding a [#NICAR16 roundup][8]
@@ -35,7 +35,7 @@ South Africa&#8217;s constitution turned 20 years old last week, and [Hacks/Hack
 [Co-organizer Adam Oxford][14] said the initial meeting was geared toward gauging a level of commitment to this project, before the group hosts a series of several more.
 
 > &#8220;Our meetup was really a starting point for a project &#8211; an app or event that can be used to teach people about the SA constitution &#8211; that we think will be quite big by the time we finish it. Originally we&#8217;d hoped to have some structure in place by the end of the evening, but actually most people wanted to talk around the underlying issue in small groups.
-> 
+>
 > This turned out to be really helpful, as the more people talked, the more committed they became to getting involved. Don&#8217;t be afraid to let people talk.&#8221;
 
 {{< tweet 730813908802514944 >}}
@@ -49,15 +49,15 @@ South Africa&#8217;s constitution turned 20 years old last week, and [Hacks/Hack
 
 **Job openings:**
 
-  * Africa: 
+  * Africa:
       * Open Data Durban is seeking a [community manager][19] in South Africa
-  * North America: 
+  * North America:
       * McClatchy is looking for a [full-stack developer][20] to join its research team in Washington, D.C.
       * OpenSecrets is hiring a reporter to cover money in politics also in Washington, D.C.
       * Think tank New America Foundation is hiring a [research associate][21]
-  * Asia: 
+  * Asia:
       * BuzzFeed is looking for a [commissioning editor][22] in India
-  * Europe: 
+  * Europe:
       * Polling company YouGov wants to hire a [data journalist][23] in London
 
 **Other upcoming events:**

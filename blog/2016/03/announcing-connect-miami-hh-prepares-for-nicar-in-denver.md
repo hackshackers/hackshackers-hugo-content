@@ -1,7 +1,7 @@
 ---
 title: Announcing Connect Miami; H/H prepares for NICAR in Denver
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-03-04"
 _migration:
   id: 17405
@@ -25,7 +25,7 @@ The intrepid website committee is asking for opinions on [their plans for a new 
 Hacks/Hackers IRE, located at [IRE][9]’s headquarters at the University of Missouri, has taken a few different forms over the years. Since last summer, [James Gordon][10] has been running it as a weekly open lab for students or anyone else interested in coming in to work on a journalism or tech project.
 
 > &#8220;We&#8217;re constantly playing around with the format. I initially tried to have a specific discussion topic planned ahead of time, but there are a lot of students who show up specifically because they are having trouble with an assignment or setting up their environment on their machine. For that reason, we now occasionally have an &#8220;open lab&#8221; with no planned discussion. Just a space for people get and give help.
-> 
+>
 > We also have a Slack going for attendants, which I have found to be great for keeping the conversation going in between meetups. Members will share articles and resources they have found useful and also get and receive help.”
 
 The [Connect][11] series has been picking up momentum, with New York hosting the third event in two months, 120 entrepreneurs-to-be at CUNY last weekend. On that note, another big announcement:

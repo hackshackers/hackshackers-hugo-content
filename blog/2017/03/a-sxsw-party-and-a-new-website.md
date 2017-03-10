@@ -1,7 +1,7 @@
 ---
 title: A SXSW party and a new website!
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2017-03-10"
 _migration:
   id: 17788

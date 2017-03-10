@@ -1,7 +1,7 @@
 ---
 title: Farewell NICAR, hello SXSW
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2017-03-04"
 _migration:
   id: 17783
@@ -39,18 +39,18 @@ Hacks/Hackers and other illustrious orgs like ONA and Google News Lab are puttin
 
 **Job openings:**
 
-  * North America: 
+  * North America:
       * Discourse Media in Vancouver, Canada, is hiring a [data reporter][14]
       * The Gazette in Iowa is looking for a [web developer][15]
       * CQ Roll Call is hiring a [UX designer][16]
       * The Economist is also hiring a [UX developer][17]
       * LATimes data desk is accepting [internship][18] applications
-  * Europe: 
+  * Europe:
       * Business Reporter in London is looking for a [tech online reporter][19]
 
 **Upcoming events:**
 
-  * March: 
+  * March:
       * 2-5 &#8211; Jacksonville, USA &#8211; National Institute of Computer-Assisted Reporting (NICAR) [conference][20]
       * 10-11 &#8211; Milan, Italy &#8211; [Visualized Milan][21]
       * 10-16 &#8211; Austin, USA &#8211; [SXSW][22] Interactive Festival
@@ -59,10 +59,10 @@ Hacks/Hackers and other illustrious orgs like ONA and Google News Lab are puttin
       * 23 &#8211; Miami, USA &#8211; Journalists & Editors workshop on [Mobile Media Culture in the Americas][25]
       * 29-31 &#8211; Brussels, Belgium &#8211; [RightsCon][26] for a freer Internet
       * 31-1 &#8211; Tonsberg, Norway &#8211; [SKUP][27] conference for investigative reporters and editors in Norway
-  * April: 
+  * April:
       * 5-9 &#8211; Perugia, Italy &#8211; International Journalism [Festival][28]
       * 15-16 &#8211; Austin, USA &#8211; International Symposium on Online Journalism ([ISOJ][29])
-  * May: 
+  * May:
       * 1-4 &#8211; Jakarta, Indonesia &#8211; UNESCO&#8217;s [conference][30] for World Press Freedom Day
       * 4-6 &#8211; Galway, Ireland &#8211; [MoJoCon][31] Mobile Journalism Conference
       * 15-20 &#8211; San Salvador, El Salvador &#8211; [Forum][32] for Central American Journalism

@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers Connect Brussels is coming up next week
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-05-27"
 _migration:
   id: 17462
@@ -22,7 +22,7 @@ Hacks/Hackers Buenos Aires also announced the dates for this year&#8217;s [#HHBA
 
   * Uruguay is holdings its third [DataCampUY][5]
   * [Miami][6] and [IRE][7] are holding their regular weekly open labs
-  * Toronto is [hearing from Catherine Gicheru][8] of Code for Kenya 
+  * Toronto is [hearing from Catherine Gicheru][8] of Code for Kenya
   * Miami is partnering with Code for Miami for [#HackForChange][9]
   * Brussels is hosting the [seventh Hacks/Hackers Connect][10]
   * Buenos Aires is discussing [journalism in the era of leaks][11]

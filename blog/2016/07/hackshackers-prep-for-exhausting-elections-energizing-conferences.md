@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers prep for exhausting elections, energizing conferences
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-07-25"
 _migration:
   id: 17561
@@ -38,9 +38,9 @@ Attendee [Prestone Adie][13] posted [an update][14] on the [H/H blog][15], takin
 
 **Job openings:**
 
-  * Africa: 
+  * Africa:
       * Mail & Garden Africa is looking for a [digital editor][20] in Johannesburg
-  * North America: 
+  * North America:
       * The Marshall Project, a startup covering criminal justice, wants to hire a [director of technology][21]
       * ProPublica is taking applications for its [reporting fellowship][22]
       * The Washington Post is looking for a [graphics assignment editor][23]
@@ -48,23 +48,23 @@ Attendee [Prestone Adie][13] posted [an update][14] on the [H/H blog][15], takin
       * Florida International University is looking for a [Knight Innovator in Residence][25]
       * tronc, Inc., is hiring [data scientists][26]
       * Digital First Media is looking for a [WordPress developer][27] based in Denver
-  * Europe: 
+  * Europe:
       * Radio Free Europe, based in Prague, is looking for someone to manage their [digital news archive][28]
       * The Sun in London is hiring [designers][29] for its digital platforms
       * Telegraph Media Group is hiring a [data journalist][30]
 
 **Other upcoming events:**
 
-  * July: 
+  * July:
       * July 28-29 &#8211; Portland, Oregon, USA &#8211; [SRC CON][31], a Mozilla conference for journalist coders
-  * August: 
+  * August:
       * Aug 10-13 &#8211; Sydney, Australia &#8211; [Storyology][32], a journalism and storytelling conference
       * Aug 25-27 &#8211; Buenos Aires, Argentina &#8211; the Hacks/Hackers Buenos Aires [media party][33]
-  * September: 
+  * September:
       * Sept 15-17 &#8211; Denver, USA &#8211; Online News Association (ONA)&#8217;s [annual conference][34]
       * Sept 17-20 &#8211; New Orleans, USA &#8211; Society of Professional Journalists [Excellence in Journalism][35] conference
       * Sept 20-22 &#8211; Jakarta, Indonesia &#8211; [Global Forum for Media Development][36] (GFMD)
-      * Sept. 22 &#8211; New York, USA &#8211; NYC Media Lab [Annual Summit][37], for executives, academics and startups to convene around future of media 
+      * Sept. 22 &#8211; New York, USA &#8211; NYC Media Lab [Annual Summit][37], for executives, academics and startups to convene around future of media
           * (Hacks/Hackers community members can register with a 25% off discount code: HACKSHACKER)
       * Sept 23-24 &#8211; Toronto, Canada &#8211; Hacks/Hackers [Connect Toronto][38]
       * Sept 23-25 &#8211; Kathmandu, Nepal &#8211; [Asian Investigative Journalism Conference][39]

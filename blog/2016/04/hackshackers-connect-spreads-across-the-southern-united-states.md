@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers Connect spreads across the southern United States
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-04-15"
 _migration:
   id: 17431
@@ -41,22 +41,22 @@ And our partners at Google News Lab released their own video, of the [Connect ev
 
 **Job openings:**
 
-  * Africa: 
+  * Africa:
       * impactAFRICA is accepting applications for [funding for data-driven storytelling][15] through April 15
       * This is Africa has openings for [three associate editors][16] and [four summer interns][17]
-  * North America: 
+  * North America:
       * Dow Jones in New York has openings for a [graphics editor][18], [financial visual editor][19], and [features visual editor][20]
       * The NYT has [four open positions][21] on its Interactive News desk
       * KPCC, a public radio station in California, is looking for an [audio software engineer][22] and a [dev/ops engineer][23]
       * Cox Media Group in Ohio is looking for a [graphics specialist][24]
       * The Cannabist, a marijuana-focused publication run by The Denver Post, is hiring a [data journalist][25]
-  * Europe: 
+  * Europe:
       * The Times is hiring a [newsroom developer][26] for its team in London
       * Thomson Reuters Lab is looking for a [data viz specialist][27] in London
-  * Asia: 
+  * Asia:
       * An investigative documentary being produced in the U.S. is seeking [a producer who is fluent in Korean][28]
       * The Cambodia Daily is hiring a [managing editor][29]
-  * Middle East: 
+  * Middle East:
       * **News Deeply is hiring [an editor][30] in Beirut**
 
  [1]: http://connect.hackshackers.com/event/austin

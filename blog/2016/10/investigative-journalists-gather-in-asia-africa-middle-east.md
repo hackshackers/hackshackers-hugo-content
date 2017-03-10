@@ -1,7 +1,7 @@
 ---
 title: Investigative journalists gather in Asia, Africa, Middle East
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-10-07"
 _migration:
   id: 17625
@@ -42,12 +42,12 @@ While we&#8217;re still digesting the tips and tools from those events, investig
 
 **Job openings:**
 
-  * Middle East: 
+  * Middle East:
       * The Arab Reporters for Investigative Journalism organization is looking for a [program manager][16]
-  * Europe: 
+  * Europe:
       * Macworld and PC Advisor are looking for a [reporter][17] in London
       * The Times & Sunday Times are seeking a [digital design editor][18]
-  * North America: 
+  * North America:
       * The Las Vegas Review-Journal is seeking a [data journalist][19]
       * The Wall Street Journal is hiring a &#8220;[new media editor][20]&#8221; to produce content for Snapchat
       * The Boston Business Journal has an opening for a [tech reporter][21]
@@ -55,7 +55,7 @@ While we&#8217;re still digesting the tips and tools from those events, investig
 
 **Other upcoming events:**
 
-  * October: 
+  * October:
       * Oct 7-9 &#8211; New York, USA &#8211; [Future of Storytelling][23] Festival
       * Oct 8 &#8211; Oslo, Norway &#8211; Data [SKUP conference][24]
       * Oct 13-14 &#8211; Berlin, Germany &#8211; [Ada Lovelace Festival][25] for women developers
@@ -66,15 +66,15 @@ While we&#8217;re still digesting the tips and tools from those events, investig
       * Oct 25-27 &#8211; Casablanca, Morocco &#8211; [d|bootcamp][30], a three-day civic hacking workshop
       * Oct 28-29 &#8211; Chicago and San Francisco, USA &#8211; [Mobile Me & You][31]
       * Oct 28-30 &#8211; London, UK &#8211; [MozFest][32], Mozilla&#8217;s open web conference
-  * November: 
+  * November:
       * Nov 3-4 &#8211; Buenos Aires, Argentina &#8211; FOPEA&#8217;s [International Journalism Conference][33]
       * Nov 7-9 &#8211; Johannesburg, South Africa &#8211; [African Investigative Journalism Conference][2]
       * Nov 22-23 &#8211; Covilha, Portugal &#8211; the [Journalism and Mobile Devices Congress][34]
-  * December: 
+  * December:
       * Dec 1-4 &#8211; Panama City, Panama &#8211; the [International Anti-Corruption Conference][35]
       * Dec 2-3 &#8211; Dead Sea, Jordan &#8211; the [Arab Investigative Journalism Conference][3]
 
-Not subscribed yet? Enter your email to get Hacks/Hackers news and updates in your inbox weekly: 
+Not subscribed yet? Enter your email to get Hacks/Hackers news and updates in your inbox weekly:
 
 <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 

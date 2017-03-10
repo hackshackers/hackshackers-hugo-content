@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers off and running after IRE, tronc and Brexit news
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-06-24"
 _migration:
   id: 17517
@@ -42,15 +42,15 @@ But first, consider taking a minute to answer [OpenNews&#8217;s survey][4] on ho
 
 **Job openings:**
 
-  * North America: 
+  * North America:
       * Pew Research Center is looking for a [digital producer][17] to join its data team
       * U.S. News is hiring a [front-end developer][18]
       * Planet Labs wants to hire a [civic data scientist][19]
       * Spoon University, a startup covering university food culture, is hiring a [front-end engineer][20]
       * Philly.com is hiring an [analyst and an engineer][21]
-  * Europe: 
+  * Europe:
       * BBC3 is hiring a [web developer][22] and a [development lead][23]
-  * Africa: 
+  * Africa:
       * The Citizen Justice Network is hiring an [editorial intern][24]
       * BBC Africa is hiring [multimedia journalists][25] in Tanzania
 

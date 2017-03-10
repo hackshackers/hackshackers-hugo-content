@@ -1,7 +1,7 @@
 ---
 title: MisinfoCon starts today
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2017-02-24"
 _migration:
   id: 17775
@@ -48,9 +48,9 @@ Instead of zooming in on a local chapter, we&#8217;re going to give the Hacks/Ha
 
 **Job openings:**
 
-  * Asia: 
+  * Asia:
       * South China Morning Post has an opening for a [digital marketing analyst][25]
-  * North America: 
+  * North America:
       * Concordia University in Montreal is looking for a [data journalism professor][26]
       * ProPublica has an opening for a [data reporter][27]
       * FiveThirtyEight has two openings on its [data viz team][28]
@@ -59,14 +59,14 @@ Instead of zooming in on a local chapter, we&#8217;re going to give the Hacks/Ha
       * Wirecutter, a NYT site, is looking for a [back-end engineer][31]
       * WNYC is hiring a [data and interactive editor][32]
       * INN is hiring a [director][33] of INN Labs
-  * Europe: 
+  * Europe:
       * The Centre for Investigative Journalism is looking for a new [director][34]
 
 **Upcoming events:**
 
-  * February: 
+  * February:
       * 24-26 &#8211; Boston, USA &#8211; [MisinfoCon][35], a summit on misinformation
-  * March: 
+  * March:
       * 2-5 &#8211; Jacksonville, USA &#8211; National Institute of Computer-Assisted Reporting (NICAR) [conference][36]
       * 10-11 &#8211; Milan, Italy &#8211; [Visualized Milan][37]
       * 10-16 &#8211; Austin, USA &#8211; [SXSW][38] Interactive Festival
@@ -75,10 +75,10 @@ Instead of zooming in on a local chapter, we&#8217;re going to give the Hacks/Ha
       * 23 &#8211; Miami, USA &#8211; Journalists & Editors workshop on [Mobile Media Culture in the Americas][41]
       * 29-31 &#8211; Brussels, Belgium &#8211; [RightsCon][42] for a freer Internet
       * 31-1 &#8211; Tonsberg, Norway &#8211; [SKUP][43] conference for investigative reporters and editors in Norway
-  * April: 
+  * April:
       * 5-9 &#8211; Perugia, Italy &#8211; International Journalism [Festival][44]
       * 15-16 &#8211; Austin, USA &#8211; International Symposium on Online Journalism ([ISOJ][45])
-  * May: 
+  * May:
       * 1-4 &#8211; Jakarta, Indonesia &#8211; UNESCO&#8217;s [conference][46] for World Press Freedom Day
       * 4-6 &#8211; Galway, Ireland &#8211; [MoJoCon][47] Mobile Journalism Conference
       * 15-20 &#8211; San Salvador, El Salvador &#8211; [Forum][48] for Central American Journalism

@@ -1,7 +1,7 @@
 ---
 title: Hacking public transit with HackDash
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-11-25"
 _migration:
   id: 17680
@@ -36,11 +36,11 @@ The group [used HackDash][5], a tool created by the Hacks/Hackers Buenos Aires t
 
 **Job openings:**
 
-  * Africa: 
+  * Africa:
       * The South African National Editors’ Forum (Sanef) is looking for a new [executive director][13]
-  * Europe: 
+  * Europe:
       * Wired Magazine is hiring an [editor][14] in London
-  * North America: 
+  * North America:
       * Chicago Tribune is hiring for a [programmer/data reporter][15]
       * Pace University is looking for [someone to teach][16] digital journalism
       * DNAinfo is hiring a [newsroom developer][17]
@@ -52,21 +52,21 @@ The group [used HackDash][5], a tool created by the Hacks/Hackers Buenos Aires t
       * Journalism 360, a network of immersive journalism practitioners, is looking for a [managing editor][24]
       * WNYC is hiring for a [director of digital techology][25] (via [NewsNerdery][26])
       * IRE is looking for a [director of data services][27]
-  * Asia: 
+  * Asia:
       * TIME has an opening for an [associate editor][28] for audience engagement in Hong Kong
       * South China Morning Post is hiring a [front-end web developer][29]
 
 **Upcoming events:**
 
-  * December: 
+  * December:
       * Dec 1-4 &#8211; Panama City, Panama &#8211; the [International Anti-Corruption Conference][30]
       * Dec 2-3 &#8211; Dead Sea, Jordan &#8211; the [Arab Investigative Journalism Conference][31]
       * Dec 3 &#8211; Mexico City, Mexico &#8211; Periodista de a Pie is offering a [one-day workshop][32] on Google tools training
       * Dec 5-6 &#8211; San Francisco, USA &#8211; [Mobile Innovation Summit][33]
-  * January: 
+  * January:
       * Jan 21 &#8211; Berlin, Germany &#8211; &#8220;[Hashtag, High Tech, Hackmac][34]&#8221; data journalism day**
 
-** 
+**
 
  [1]: http://www.meetup.com/Hacks-Hackers-Miami/
  [2]: http://www.meetup.com/hackshackersIRE/

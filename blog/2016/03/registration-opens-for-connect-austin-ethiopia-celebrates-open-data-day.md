@@ -1,7 +1,7 @@
 ---
 title: Registration opens for Connect Austin; Ethiopia celebrates Open Data Day
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-03-25"
 _migration:
   id: 17414

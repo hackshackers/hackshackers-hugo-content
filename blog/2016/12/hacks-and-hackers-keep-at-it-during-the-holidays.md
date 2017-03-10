@@ -1,7 +1,7 @@
 ---
 title: Hacks and hackers keep at it during the holidays
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-12-09"
 _migration:
   id: 17696
@@ -38,12 +38,12 @@ Season&#8217;s greetings, hacks and hackers! The holidays are closing in on us &
 
 **Job openings:**
 
-  * Europe: 
+  * Europe:
       * KSF Media in Helsinki has is looking for a [data scientist and front-end engineers][12]
       * Conde Nast is hiring an [interactive developer][13] in London
-  * Latin America: 
+  * Latin America:
       * Fox is looking for a [digital content manager][14] in Brazil
-  * North America: 
+  * North America:
       * Applications are open to become a [Presidential Innovation Fellow][15]
       * Chronicle of Higher Education is hiring a new [data editor][16]
       * Newsday has an opening for a [digital news editor][17]
@@ -52,19 +52,19 @@ Season&#8217;s greetings, hacks and hackers! The holidays are closing in on us &
       * Crain&#8217;s is looking for an [entrepreneurship reporter][20] in Detroit
       * Emerson College has [two openings][21] in its digital journalism department
       * Observer Media is hiring [full-stack enginners][22]
-  * Asia: 
+  * Asia:
       * South China Morning Post has three open positions for [web developers][23]
       * Marie Claire magazine is looking for a [digital content editor][24] in China
 
 **Upcoming events:**
 
-  * December: 
+  * December:
       * 13 &#8211; Amsterdam, Netherlands &#8211; [News Impact Summit][25] on emotions and digital storytelling
-  * January: 
+  * January:
       * 15-18 &#8211; Cape Town, South Africa &#8211; UN [World Data Forum][26]
       * 21 &#8211; Berlin, Germany &#8211; &#8220;[Hashtag, High Tech, Hackmac][27]&#8221; data journalism day
       * 27-28 &#8211; Odense, Denmark &#8211; [NODA17][28], the Nordic Data Journalism Conference
-  * February: 
+  * February:
       * 6 &#8211; Paris, France &#8211; [News Impact Summit][29]
 
  [1]: https://www.meetup.com/hacks-hackers-dublin/events/236094987/

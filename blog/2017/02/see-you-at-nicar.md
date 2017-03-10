@@ -1,7 +1,7 @@
 ---
 title: See you at NICAR
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2017-02-17"
 _migration:
   id: 17756
@@ -40,9 +40,9 @@ The group is [meeting next week][9] to talk about &#8220;facts, fake facts and a
 
 **Job openings:**
 
-  * Middle East: 
+  * Middle East:
       * Arab Reporters for Investigative Journalism is looking for a [senior multimedia editor][15]
-  * North America: 
+  * North America:
       * The Intercept is hiring a [product designer][16]
       * Texas Tribune is looking for a [Software Engineer][17] and [Community Reporter][18]
       * CNN is hiring an &#8220;emerging platforms [product manager][19]&#8220;
@@ -52,7 +52,7 @@ The group is [meeting next week][9] to talk about &#8220;facts, fake facts and a
       * McClatchy is hiring a [data reporter][23]
       * ProPublica is looking for a [full-stack developer][24]
       * Orlando Sentinel is hiring a [sports designer][25]
-  * Europe: 
+  * Europe:
       * BBC is looking for a [head of statistics][26]
       * Reuters is hiring a [video producer][27]
       * International Business Times is hiring a [video programmer][28]
@@ -60,10 +60,10 @@ The group is [meeting next week][9] to talk about &#8220;facts, fake facts and a
 
 **Upcoming events:**
 
-  * February: 
+  * February:
       * 18-19 &#8211; Tucson, USA &#8211; [News Hack Arizona][30]
       * 24-26 &#8211; Boston, USA &#8211; [MisinfoCon][31], a summit on misinformation
-  * March: 
+  * March:
       * 2-5 &#8211; Jacksonville, USA &#8211; National Institute of Computer-Assisted Reporting (NICAR) [conference][32]
       * 10-11 &#8211; Milan, Italy &#8211; [Visualized Milan][33]
       * 10-16 &#8211; Austin, USA &#8211; [SXSW][34] Interactive Festival
@@ -71,10 +71,10 @@ The group is [meeting next week][9] to talk about &#8220;facts, fake facts and a
       * 23 &#8211; Miami, USA &#8211; Journalists & Editors workshop on [Mobile Media Culture in the Americas][36]
       * 29-31 &#8211; Brussels, Belgium &#8211; [RightsCon][37] for a freer Internet
       * 31-1 &#8211; Tonsberg, Norway &#8211; [SKUP][38] conference for investigative reporters and editors in Norway
-  * April: 
+  * April:
       * 5-9 &#8211; Perugia, Italy &#8211; International Journalism [Festival][39]
       * 15-16 &#8211; Austin, USA &#8211; International Symposium on Online Journalism ([ISOJ][40])
-  * May: 
+  * May:
       * 1-4 &#8211; Jakarta, Indonesia &#8211; UNESCO&#8217;s [conference][41] for World Press Freedom Day
       * 4-6 &#8211; Galway, Ireland &#8211; [MoJoCon][42] Mobile Journalism Conference
       * 15-20 &#8211; San Salvador, El Salvador &#8211; [Forum][43] for Central American Journalism

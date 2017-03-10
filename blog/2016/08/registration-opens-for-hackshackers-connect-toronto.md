@@ -1,7 +1,7 @@
 ---
 title: Registration opens for Hacks/Hackers Connect Toronto
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-08-29"
 _migration:
   id: 17593
@@ -40,25 +40,25 @@ Check out the [#HHBA hashtag][9] for some of the presentations and lessons share
 
 **Job openings:**
 
-  * Africa: 
+  * Africa:
       * [Amplify][13], a paid fellowship for African storytellers and creators, is accepting applications
-  * North America: 
+  * North America:
       * The Marshall Project, a startup covering criminal justice, is hiring a [web producer][14]
       * The Milwaukee Journal Sentinel is hiring an [interactive news dev][15]
       * CPI is looking for a [news app developer][16]
       * Reveal is offering an [investigative fellowship][17] for journalists of color
       * CNN is looking for a [senior producer][18] for data and interactives
       * The Online News Associtation is hiring a [creative digital manager][19]
-  * Europe: 
+  * Europe:
       * MailOnline is taking applications for [digital traineeships][20] that will place journalists in bureaus across the world
 
 **Other upcoming events:**
 
-  * September: 
+  * September:
       * Sept 15-17 &#8211; Denver, USA &#8211; Online News Association (ONA)&#8217;s [annual conference][21]
       * Sept 17-20 &#8211; New Orleans, USA &#8211; Society of Professional Journalists [Excellence in Journalism][22] conference
       * Sept 20-22 &#8211; Jakarta, Indonesia &#8211; [Global Forum for Media Development][23] (GFMD)
-      * Sept. 22 &#8211; New York, USA &#8211; NYC Media Lab [Annual Summit][24], for executives, academics and startups to convene around future of media 
+      * Sept. 22 &#8211; New York, USA &#8211; NYC Media Lab [Annual Summit][24], for executives, academics and startups to convene around future of media
           * (Hacks/Hackers community members can register with a 25% off discount code: HACKSHACKER)
       * Sept 23-24 &#8211; Toronto, Canada &#8211; Hacks/Hackers [Connect Toronto][25]
       * Sept 23-25 &#8211; Kathmandu, Nepal &#8211; [Asian Investigative Journalism Conference][26]
@@ -66,7 +66,7 @@ Check out the [#HHBA hashtag][9] for some of the presentations and lessons share
       * Sept 29-Oct 1 &#8211; Miami, USA &#8211; Digital Humanities + [Data Journalism Symposium][28]
       * Sept 29-Oct 1 &#8211; Chicago, USA &#8211; Local indie online news publishers are gathering for the [LION summit][29]
       * Sept 30-Oct 1 &#8211; Palo Alto, USA &#8211; [Computation + Journalism Symposium][30]
-  * October: 
+  * October:
       * Oct 7-9 &#8211; New York, USA &#8211; [Future of Storytelling][31] Festival
       * Oct 17-17 &#8211; Vitoria, Brazil &#8211; [Brazilian Conference of Citizen Media][32]
 

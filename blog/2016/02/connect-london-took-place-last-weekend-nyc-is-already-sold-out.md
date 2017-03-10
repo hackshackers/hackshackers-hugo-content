@@ -1,7 +1,7 @@
 ---
 title: Connect London took place last weekend; NYC is already sold out
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-02-12"
 _migration:
   id: 17396
@@ -12,7 +12,7 @@ categories:
 
 Greetings hacks and hackers, [the Connect series][1] is rolling onward like a behemoth and all over the world, individual chapters are holding get-togethers and learning new skills. Let’s take a look at what’s coming up:
 
-**The week ahead**: 
+**The week ahead**:
 
   * Stanford is learning how to use DocumentCloud and SearchLight to look for [hidden patterns in documents][2] on Tuesday
   * Washington, DC, is holding a [hands-on Python workshop][3] on Thursday

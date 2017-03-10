@@ -1,7 +1,7 @@
 ---
 title: Media Party Miami brings speakers from all over Latin America
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-04-08"
 _migration:
   id: 17429
@@ -31,14 +31,14 @@ We’re excited to bring the [Connect series][10] to Austin next week, just in t
 
 **Chapter spotlight:**
 
-Miami kicked off its own [Media Party][13] last weekend, featuring media representatives from Argentina, Brazil, Cuba, Mexico and Venezuela and the U.S. 
+Miami kicked off its own [Media Party][13] last weekend, featuring media representatives from Argentina, Brazil, Cuba, Mexico and Venezuela and the U.S.
 
 {{< tweet 716017257319686145 >}}
 
 Co-organizer Mariana Santos said H/H Miami is still experimenting with the event, which was inspired by the wildly successful [HHBA Media Party][14] in Buenos Aires.
 
 > “With over 5,000 members, the Hacks/Hackers group in Buenos Aires is much older and more established, and we can’t just transplant the same event from Argentina to Miami without doing more work to inform the community first. We will put more work into promoting the opportunities so people know what they can expect from an event like this.
-> 
+>
 > After the event, we talked about how to reach more people in Miami for next year’s event. We concluded that breaking up the event into smaller events throughout the year would give us more promotion of the event.”
 
 **Worth a read:**
@@ -50,18 +50,18 @@ Co-organizer Mariana Santos said H/H Miami is still experimenting with the event
 
 **Job openings:**
 
-  * Africa: 
+  * Africa:
       * The Global Press Journal is [recruiting female journalists][20] in Zambia and Zimbabwe
-  * North America: 
+  * North America:
       * The Regina Leader Post in Saskatchewan is looking for an [interactive news coordinator][21]
       * The Washington Post is hiring a [data scientist][22], [security analyst][23], and [senior mobile developer][24]
       * The New Yorker is hiring a [senior digital designer][25]
       * CQ Roll Call, in Washington, D.C., is hiring a [product manager][26]
       * The Tow-Knight Center is accepting applications for a [news entrepreneurship fellowship][27] in New York
       * The Vulcan Advocate in Alberta is seeking a [multimedia journalist][28]
-  * Middle East: 
+  * Middle East:
       * News Deeply, a startup, is seeking a part-time [deputy managing editor][29] in Beirut
-  * Europe: 
+  * Europe:
       * Destatis, Germany’s government statistics office, is looking for someone to [design and develop international statistics][30]
       * The Bureau of Investigative Journalism in London is hiring an [investigations editor][31]
       * **The Sun in London has openings for [graphics producers][32]**

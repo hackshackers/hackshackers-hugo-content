@@ -1,7 +1,7 @@
 ---
 title: Help us pick a new Hacks/Hackers logo
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-12-02"
 _migration:
   id: 17686
@@ -48,7 +48,7 @@ Organizers Silva Shih and Kirby Wu have been posting and communicating on a vari
 
 **Job openings:**
 
-  * North America: 
+  * North America:
       * KERA, the NPR station in Dallas, is hiring for a [designer and developer][23]
       * Vox has an opening for a [front-end developer][24]
       * Chicago Tribune has a [programmer][25] opening
@@ -59,22 +59,22 @@ Organizers Silva Shih and Kirby Wu have been posting and communicating on a vari
       * Axios, a news startup, has several [design and digital positions][30] open
       * Bloomberg BNA is looking for a [data reporter][31]
       * The Tow Center for Digital Journalism is looking for [research scholars][32]
-  * Europe: 
+  * Europe:
       * The Times and Sunday Times is looking for a new [data editor][33]
       * The Guardian is looking for a new [visuals editor][34] and [motion graphics editor][35]
-  * Asia: 
+  * Asia:
       * South China Morning Post has an opening for a [mobile app developer][36]
-  * Africa: 
+  * Africa:
       * Internews, an organization promoting media development, has an opening for a [program director][37]
 
 **Upcoming events:**
 
-  * December: 
+  * December:
       * Dec 1-4 &#8211; Panama City, Panama &#8211; the [International Anti-Corruption Conference][38]
       * Dec 2-3 &#8211; Dead Sea, Jordan &#8211; the [Arab Investigative Journalism Conference][39]
       * Dec 3 &#8211; Mexico City, Mexico &#8211; Periodista de a Pie is offering a [one-day workshop][40] on Google tools training
       * Dec 5-6 &#8211; San Francisco, USA &#8211; [Mobile Innovation Summit][41]
-  * January: 
+  * January:
       * Jan 21 &#8211; Berlin, Germany &#8211; &#8220;[Hashtag, High Tech, Hackmac][42]&#8221; data journalism day
       * Jan 27-28 &#8211; Odense, Denmark &#8211; [NODA17][43], the Nordic Data Journalism Conference
 

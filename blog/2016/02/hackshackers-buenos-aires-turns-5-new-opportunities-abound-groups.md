@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers Buenos Aires turns 5; new opportunities abound for other groups
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-02-27"
 _migration:
   id: 17402

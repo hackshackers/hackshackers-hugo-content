@@ -1,7 +1,7 @@
 ---
 title: Dozens of Hacks/Hackers jobs open up in the first weeks of 2017
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2017-01-13"
 _migration:
   id: 17715
@@ -32,13 +32,13 @@ It&#8217;s a new year, hacks and hackers, and newsrooms seem to be ushering in t
 
 **Job openings:**
 
-  * Europe: 
+  * Europe:
       * Financial Times has an opening for a [news developer][7] on its graphics team
       * BBC has an opening on its [social news team][8]
       * openDemocracy is looking for an [investigative journalist][9] to work on a project on press freedom
-  * Asia: 
+  * Asia:
       * Scroll.in, a newsfeed startup, is hiring [producers][10] in Mumbai
-  * North America: 
+  * North America:
       * KPCC is looking for an [app developer][11]
       * Gannett has an opening for a [graphic designer][12]
       * FiveThirtyEight is accepting [internship][13] applications
@@ -58,16 +58,16 @@ It&#8217;s a new year, hacks and hackers, and newsrooms seem to be ushering in t
 
 **Upcoming events:**
 
-  * January: 
+  * January:
       * 15-18 &#8211; Cape Town, South Africa &#8211; UN [World Data Forum][26]
       * 20-21 &#8211; Anaheim, USA &#8211; [A3E &#8216;Future of Audio&#8217; Summit][27]
       * 21 &#8211; Berlin, Germany &#8211; &#8220;[Hashtag, High Tech, Hackmac][28]&#8221; data journalism day
       * 27-28 &#8211; Odense, Denmark &#8211; [NODA17][29], the Nordic Data Journalism Conference
       * 31-1 &#8211; London, UK &#8211; [#newsHACK][30], the BBC&#8217;s transcription hackathon
-  * February: 
+  * February:
       * 6 &#8211; Paris, France &#8211; [News Impact Summit][31]
       * 8-9 &#8211; London, UK &#8211; [newsrewired][32]
-  * March: 
+  * March:
       * 2-5 &#8211; Jacksonville, USA &#8211; National Institute of Computer-Assisted Reporting (NICAR) [conference][33]
       * 31-1 &#8211; Tonsberg, Norway &#8211; [SKUP][34] conference for investigative reporters and editors in Norway
 

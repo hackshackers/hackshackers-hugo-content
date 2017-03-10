@@ -1,7 +1,7 @@
 ---
 title: 'Seven first events of 2017: Nairobi, Joburg, Singapore and more'
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2017-01-20"
 _migration:
   id: 17717
@@ -39,30 +39,30 @@ Earlier this week, [Rio de Janeiro][8] invited Nick Denton, the founder of Gawke
 
 **Job openings:**
 
-  * Middle East: 
+  * Middle East:
       * Sohati, a site for medical and health news, is hiring a [digital media executive][15]
-  * North America: 
+  * North America:
       * Chicago Tribune is looking for a [lead engineer][16]
       * Columbia journalism school has two openings for [data instructors][17]
       * NBC is looking for a [director][18] of web products
       * NOLA Media Group has a [community news][19] fellowship
       * Sacramento Business Journal has an opening for [lead designer][20]
       * Denver Post is hiring an [online producer][21]
-  * Europe: 
+  * Europe:
       * Financial News in London is looking for a [tech correspondent][22]
       * BBC is looking for a principal [software engineer][23]
 
 **Upcoming events:**
 
-  * January: 
+  * January:
       * 20-21 &#8211; Anaheim, USA &#8211; A3E [Future of Audio][24] summit
       * 21 &#8211; Berlin, Germany &#8211; &#8220;[Hashtag, High Tech, Hackmac][25]&#8221; data journalism day
       * 27-28 &#8211; Odense, Denmark &#8211; [NODA17][26], the Nordic Data Journalism Conference
       * 31-1 &#8211; London, UK &#8211; [#newsHACK][27], the BBC&#8217;s transcription hackathon
-  * February: 
+  * February:
       * 6 &#8211; Paris, France &#8211; [News Impact Summit][28]
       * 8-9 &#8211; London, UK &#8211; [newsrewired][29]
-  * March: 
+  * March:
       * 2-5 &#8211; Jacksonville, USA &#8211; National Institute of Computer-Assisted Reporting (NICAR) [conference][30]
       * 31-1 &#8211; Tonsberg, Norway &#8211; [SKUP][31] conference for investigative reporters and editors in Norway
 

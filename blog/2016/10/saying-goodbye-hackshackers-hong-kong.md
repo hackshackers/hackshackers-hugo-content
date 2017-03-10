@@ -1,7 +1,7 @@
 ---
 title: Saying goodbye to Hacks/Hackers Hong Kong
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-10-19"
 _migration:
   id: 17639

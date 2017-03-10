@@ -1,7 +1,7 @@
 ---
 title: Chapters kick off 2016 with meetups and Connect events
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-02-01"
 _migration:
   id: 17382

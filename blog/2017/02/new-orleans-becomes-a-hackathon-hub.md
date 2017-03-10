@@ -1,7 +1,7 @@
 ---
 title: New Orleans becomes a hackathon hub
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2017-02-10"
 _migration:
   id: 17747
@@ -39,10 +39,10 @@ Organizer [Samantha Sunne][3] wrote roundup of the projects [for the website][5]
 
 **Job openings:**
 
-  * Asia: 
+  * Asia:
       * Indian Express is looking for a [tech reporter][12] in Delhi
       * BBC has openings for a [software engineer][13], [UX designer][14] and [interactive journalist][15] in Jakarta
-  * North America: 
+  * North America:
       * IRE is looking for a [newsroom trainer][16]
       * VTDigger is looking for a [chief innovation officer][17]
       * Mississippi Today has openings for a [database editor][18] and [web dev][19]
@@ -52,12 +52,12 @@ Organizer [Samantha Sunne][3] wrote roundup of the projects [for the website][5]
 
 **Upcoming events:**
 
-  * February: 
+  * February:
       * 11-12 &#8211; Amsterdam, Netherlands &#8211; [Hackathon][21] for Humanitarian Aid
       * 16-17 &#8211; Warsaw, Poland &#8211; [#RockitWAW][22], a networking conference for digital communications professionals
       * 18-19 &#8211; Tucson, USA &#8211; [News Hack Arizona][23]
       * 24-26 &#8211; Boston, USA &#8211; [MisinfoCon][24], a summit on misinformation
-  * March: 
+  * March:
       * 2-5 &#8211; Jacksonville, USA &#8211; National Institute of Computer-Assisted Reporting (NICAR) [conference][25]
       * 10-11 &#8211; Milan, Italy &#8211; [Visualized Milan][26]
       * 10-16 &#8211; Austin, USA &#8211; [SXSW][27] Interactive Festival
@@ -65,10 +65,10 @@ Organizer [Samantha Sunne][3] wrote roundup of the projects [for the website][5]
       * 23 &#8211; Miami, USA &#8211; Journalists & Editors workshop on [Mobile Media Culture in the Americas][29]
       * 29-31 &#8211; Brussels, Belgium &#8211; [RightsCon][30] for a freer Internet
       * 31-1 &#8211; Tonsberg, Norway &#8211; [SKUP][31] conference for investigative reporters and editors in Norway
-  * April: 
+  * April:
       * 5-9 &#8211; Perugia, Italy &#8211; International Journalism [Festival][32]
       * 15-16 &#8211; Austin, USA &#8211; International Symposium on Online Journalism ([ISOJ][33])
-  * May: 
+  * May:
       * 1-4 &#8211; Jakarta, Indonesia &#8211; UNESCO&#8217;s [conference][34] for World Press Freedom Day
       * 4-6 &#8211; Galway, Ireland &#8211; [MoJoCon][35] Mobile Journalism Conference
       * 18-20 &#8211; Hamburg, Germany &#8211; [International Press Institute congress][36] on media freedom in the digital age
