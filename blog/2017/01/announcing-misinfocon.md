@@ -1,7 +1,7 @@
 ---
 title: Announcing MisinfoCon
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2017-01-26"
 _migration:
   id: 17722
@@ -41,32 +41,32 @@ Last week, [Singapore][9] met for [an event called][10] &#8220;A Study in Moire:
 
 **Job openings:**
 
-  * Asia: 
+  * Asia:
       * Conde Nast is looking for a [digital editor][15] in Mumbai
-  * North America: 
+  * North America:
       * Texas Tribune is hiring a [backend engineer][16]
       * NBC has an opening for an [interactive designer][17]
       * Poynter is accepting applications for a [visual journalism fellowship][18]
       * Washington Post is looking for a [designer][19] of emerging news products
       * NPR has a [devops][20] position open
-  * Europe: 
+  * Europe:
       * Financial News is looking for a [tech correspondent][21]
       * BBC is searching for a principal [software engineer][22]
-  * Australia: 
+  * Australia:
       * New York Times has an opening for a [graphics/multimedia editor][23]
 
 **Upcoming events:**
 
-  * January: 
+  * January:
       * 27-28 &#8211; Odense, Denmark &#8211; [NODA17][24], the Nordic Data Journalism Conference
       * 31-1 &#8211; London, UK &#8211; [#newsHACK][25], the BBC&#8217;s transcription hackathon
-  * February: 
+  * February:
       * 6 &#8211; Paris, France &#8211; [News Impact Summit][26]
       * 8-9 &#8211; London, UK &#8211; [newsrewired][27]
       * 11-12 &#8211; Amsterdam, Netherlands &#8211; [Hackathon][28] for Humanitarian Aid
       * 18-19 &#8211; Tucson, USA &#8211; [News Hack Arizona][29]
       * 24-26 &#8211; Boston, USA &#8211; [Misinfocon][30], a summit on misinformation
-  * March: 
+  * March:
       * 2-5 &#8211; Jacksonville, USA &#8211; National Institute of Computer-Assisted Reporting (NICAR) [conference][31]
       * 15-16 &#8211; London, UK &#8211; The Guardian [Changing Media Summit][32]
       * 31-1 &#8211; Tonsberg, Norway &#8211; [SKUP][33] conference for investigative reporters and editors in Norway

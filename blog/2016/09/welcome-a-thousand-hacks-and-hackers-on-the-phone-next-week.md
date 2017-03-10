@@ -1,7 +1,7 @@
 ---
 title: Welcome a thousand hacks and hackers on the phone next week
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-09-30"
 _migration:
   id: 17620
@@ -41,26 +41,26 @@ If you&#8217;re interested in helping to organize [Hacks/Hackers Hong Kong][5], 
 
 **Job openings:**
 
-  * Asia: 
+  * Asia:
       * Dow Jones has an opening for an [Android developer][11] in Hong Kong
-  * North America: 
+  * North America:
       * IRE/NICAR is hiring a [data director][12] to oversee data and training projects
       * The University of Colorado is looking for [people to teach][13] data journalism
       * ESPN is hiring a [software engineer][14] in LA
       * The Texas Tribune is seeking a [data viz developer][15]
       * NYT is hiring an [interactive news developer][16]
       * Voice of America is looking for a [tech reporter][17] in San Francisco
-  * Africa: 
+  * Africa:
       * IREX is looking for a Portuguese speaker to [develop radio innovation][18] in Mozambique
 
 **Other upcoming events:**
 
-  * September: 
+  * September:
       * Sept 29-Oct 1 &#8211; Miami, USA &#8211; Digital Humanities + [Data Journalism Symposium][19]
       * Sept 29-Oct 1 &#8211; Chicago, USA &#8211; Local indie online news publishers are gathering for the [LION summit][20]
       * Sept 30-Oct 1 &#8211; Palo Alto, USA &#8211; [Computation + Journalism Symposium][21]
-  * October: 
-      * Oct 6-8 &#8211; Washington, DC, USA &#8211; [Double Exposure][22], an investigative film festival and symposium 
+  * October:
+      * Oct 6-8 &#8211; Washington, DC, USA &#8211; [Double Exposure][22], an investigative film festival and symposium
           * (Hacks/Hackers community members can [register with a 10% off discount code][23]: HACK10)
       * Oct 7-9 &#8211; New York, USA &#8211; [Future of Storytelling][24] Festival
       * Oct 13-14 &#8211; Berlin, Germany &#8211; [Ada Lovelace Festival][25] for women developers
@@ -68,7 +68,7 @@ If you&#8217;re interested in helping to organize [Hacks/Hackers Hong Kong][5], 
       * Oct 17-17 &#8211; Vitoria, Brazil &#8211; [Brazilian Conference of Citizen Media][27]
       * Oct 21-23 &#8211; Cape Town, South Africa &#8211; [Media Party Africa][28], co-run by Hacks/Hackers Africa and Code for Africa
       * Oct 25-27 &#8211; Casablanca, Morocco &#8211; [d|bootcamp][29], a three-day civic hacking workshop
-  * November: 
+  * November:
       * Nov 7-9 &#8211; Johannesburg, South Africa &#8211; [African Investigative Journalism Conference][30]
       * Nov 22-23 &#8211; Covilha, Portugal &#8211; the [Journalism and Mobile Devices Congress][31]
 

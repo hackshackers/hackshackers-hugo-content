@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers Connect Miami kicks off
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-05-13"
 _migration:
   id: 17455
@@ -26,7 +26,7 @@ Happy Friday the 13th, hacks and hackers. [#HHConnect][1] Miami fires off today 
 Last week, [Hacks/Hackers Venezia][7] (Venice) [invited author Federico Badaloni][7] to discuss his book “The Architecture of Communication.” [Enrico Costa][8] said he and the other organizers try to attract audiences with a wide range of talks and discussions.
 
 > ”Our meetings are very informal and diverse in terms of members&#8217; background. So far we have organized conversations and talks ranging from data and visual journalism to information architecture.
-> 
+>
 > Our future goal is to gain higher levels of know-how through hands on practice through workshops or hackathons, but the trip is so amazing there is actually no hurry to get there!”
 
 {{< tweet 728997871064907776 >}}
@@ -40,13 +40,13 @@ Last week, [Hacks/Hackers Venezia][7] (Venice) [invited author Federico Badaloni
 
 **Job openings:**
 
-  * Europe: 
+  * Europe:
       * Telegraph Media group is hiring an [SEO and social media editor][13]
       * Bloomberg is hiring a [business reporter][14] in Munich
-  * North America: 
+  * North America:
       * The Independent, a UK news outlet, is seeking a [US news editor][15] in New York
       * A Hawaii CBS/NBC affiliate is looking for a [multimedia investigative journalist][16]
-  * Middle East: 
+  * Middle East:
       * **Arabian Computer News, a technology publication in Dubai, is [hiring an editor][17]**
 
  [1]: http://twitter.com/hashtag/hhconnect

@@ -1,7 +1,7 @@
 ---
 title: Hacks and Hackers turn out in force at NICAR
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-03-11"
 _migration:
   id: 17407

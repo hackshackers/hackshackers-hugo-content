@@ -1,7 +1,7 @@
 ---
 title: Dublin (and others) traverse the digital frontier
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-11-04"
 _migration:
   id: 17664
@@ -42,7 +42,7 @@ Hacks/Hackers groups are always striving to find the best way to communicate wit
 
 **Job openings:**
 
-  * North America: 
+  * North America:
       * The Daily Dot is looking for a [tech writer][19]
       * CBS MoneyWatch is hiring a [data editor][20]
       * The Marshall Project has an opening for an [editorial designer][21]
@@ -51,13 +51,13 @@ Hacks/Hackers groups are always striving to find the best way to communicate wit
       * NYTLabs alum Alexis Lloyd is looking for a [data viz designer][24] for a new startup
       * WaPo is hiring a [graphics reporter][25] and [designer][26]
       * The Texas Tribune has a [data viz][27] opening
-  * Europe: 
+  * Europe:
       * The Sun in London is hiring a [tech and science reporter][28]
       * University College Dublin has an opening for [professor][29] in digital communication
 
 **Other upcoming events:**
 
-  * November: 
+  * November:
       * Nov 7-9 &#8211; Johannesburg, South Africa &#8211; [African Investigative Journalism Conference][30]
       * Nov 11-13 &#8211; Dublin, Ireland &#8211; Hacks/Hackers Dublin&#8217;s [Investigative Journalism on the Digital Frontier][2] Conference
       * Nov 18-19 &#8211; Leuven, Belgium &#8211; [VVOJ conference][31], a gathering of the Dutch-Flemish Association of Investigative Journalists
@@ -65,7 +65,7 @@ Hacks/Hackers groups are always striving to find the best way to communicate wit
       * Nov 22 &#8211; Birminghham, UK &#8211; a one-day [data journalism conference][33]
       * Nov 22-23 &#8211; Covilha, Portugal &#8211; the [Journalism and Mobile Devices Congress][34]
       * Nov 23-24 &#8211; Amsterdam, Netherlands &#8211; [European Women in Technology][35] Conference
-  * December: 
+  * December:
       * Dec 1-4 &#8211; Panama City, Panama &#8211; the [International Anti-Corruption Conference][36]
       * Dec 2-3 &#8211; Dead Sea, Jordan &#8211; the [Arab Investigative Journalism Conference][37]
 

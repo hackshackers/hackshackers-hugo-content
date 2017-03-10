@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers Southwest/South Wales launches in the UK
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-11-11"
 _migration:
   id: 17668
@@ -44,29 +44,29 @@ H/H SWxSW kept the momentum going by sharing ever bit of code, presentation and 
 
 **Job openings:**
 
-  * North America: 
+  * North America:
       * St Louis Public Radio is hiring a &#8220;[visual communications specialist][11]&#8220;
       * The Austin Business Journal is looking for a [tech reporter][12]
       * McClatchy has an opening for a [designer/developer][13]
       * Observer Media is looking for a [WordPress engineer][14]
-  * Latin America: 
+  * Latin America:
       * Fox seeks a [digital media coordinator][15] in Brazil
-  * Europe: 
+  * Europe:
       * Organized Crime and Corruption Reporting Project has an opening for a [fact-checker manager][16]
       * Investigative news site Apache is looking for an [investigative reporter][17] in Antwerpen
-  * Africa: 
+  * Africa:
       * WITS University has an opening for a [journalism and media lecturer][18]
 
 **Upcoming events:**
 
-  * November: 
+  * November:
       * Nov 11-13 &#8211; Dublin, Ireland &#8211; Hacks/Hackers Dublin&#8217;s [Investigative Journalism on the Digital Frontier][19] Conference
       * Nov 18-19 &#8211; Leuven, Belgium &#8211; [VVOJ conference][20], a gathering of the Dutch-Flemish Association of Investigative Journalists
       * Nov 19-20 &#8211; London, UK &#8211; the Parliament [Accountability Hack][21], aka ParlyHack
       * Nov 22 &#8211; Birmingham, UK &#8211; a one-day [data journalism conference][22]
       * Nov 22-23 &#8211; Covilha, Portugal &#8211; the [Journalism and Mobile Devices Congress][23]
       * Nov 23-24 &#8211; Amsterdam, Netherlands &#8211; [European Women in Technology][24] Conference
-  * December: 
+  * December:
       * Dec 1-4 &#8211; Panama City, Panama &#8211; the [International Anti-Corruption Conference][25]
       * Dec 2-3 &#8211; Dead Sea, Jordan &#8211; the [Arab Investigative Journalism Conference][26]
       * Dec 5-6 &#8211; San Francisco, USA &#8211; [Mobile Innovation Summit][27]

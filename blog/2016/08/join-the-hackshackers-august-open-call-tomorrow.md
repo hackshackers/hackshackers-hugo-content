@@ -1,7 +1,7 @@
 ---
 title: Join the Hacks/Hackers August open call tomorrow
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-08-01"
 _migration:
   id: 17574
@@ -39,9 +39,9 @@ A new month also means a new [global open call][1]. Join us tomorrow at [1500 GM
 
 **Job openings:**
 
-  * Africa: 
+  * Africa:
       * ICJF is offering a [year-long fellowship][13] to work with Code for Africa
-  * North America: 
+  * North America:
       * Toronto&#8217;s Global News is hiring an [investigative/data journalist][14]
       * Solutions Journalism is hiring a [university relations manager][15]
       * News startup the Texas Tribune is hiring a [software engineer][16]
@@ -50,21 +50,21 @@ A new month also means a new [global open call][1]. Join us tomorrow at [1500 GM
       * Minnesota Public Radio is looking for a [product designer][19]
       * The San Diego Union-Tribune is seeking a [data reporter][20]
       * 18F, a data and innovation arm of the U.S. government, has [several openings][21]
-  * Europe: 
+  * Europe:
       * New Scientist magazine is hiring a [technology editor][22]
       * The German Research Centre for Geosciences is hiring a [data scientist][23]
       * The Tab, a student reporting network, is hiring a [full-stack developer][24] in London
 
 **Other upcoming events:**
 
-  * August: 
+  * August:
       * Aug 10-13 &#8211; Syndey, Australia &#8211; [Storyology][25], a journalism and storytelling conference
       * Aug 25-27 &#8211; Buenos Aires, Argentina &#8211; the Hacks/Hackers Buenos Aires [media party][26]
-  * September: 
+  * September:
       * Sept 15-17 &#8211; Denver, USA &#8211; Online News Association (ONA)&#8217;s [annual conference][27]
       * Sept 17-20 &#8211; New Orleans, USA &#8211; Society of Professional Journalists [Excellence in Journalism][28] conference
       * Sept 20-22 &#8211; Jakarta, Indonesia &#8211; [Global Forum for Media Development][29] (GFMD)
-      * Sept. 22 &#8211; New York, USA &#8211; NYC Media Lab [Annual Summit][30], for executives, academics and startups to convene around future of media 
+      * Sept. 22 &#8211; New York, USA &#8211; NYC Media Lab [Annual Summit][30], for executives, academics and startups to convene around future of media
           * (Hacks/Hackers community members can register with a 25% off discount code: HACKSHACKER)
       * Sept 23-24 &#8211; Toronto, Canada &#8211; Hacks/Hackers [Connect Toronto][31]
       * Sept 23-25 &#8211; Kathmandu, Nepal &#8211; [Asian Investigative Journalism Conference][32]

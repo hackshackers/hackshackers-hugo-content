@@ -1,7 +1,7 @@
 ---
 title: '#JournalismJobs on every continent'
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2017-02-02"
 _migration:
   id: 17727
@@ -46,10 +46,10 @@ If you decide five platforms aren&#8217;t enough for you, check out other chapte
 
 **Job openings:**
 
-  * Europe: 
+  * Europe:
       * The Bureau of Investigative Journalism has [two openings][19] on its Data Lab
       * Reuters is looking for a [video editor][20] in London
-  * North America: 
+  * North America:
       * ProPublica is hiring a [web producer][21] and [full-stack developer][22]
       * McClatchy has two openings for [data reporters][23]
       * Politico Pro is hiring a [graphics reporter][24] for its DataPoint team
@@ -59,23 +59,23 @@ If you decide five platforms aren&#8217;t enough for you, check out other chapte
       * Quartz is looking for an [app writer][28]
       * ESPN has an opening for a [senior digital designer][29]
       * FiveThirtyEight is hiring [two visual journalists][30]
-  * Latin America: 
+  * Latin America:
       * Reporters Without Borders is hiring a [program director][31] and a lead researcher for its [Media Ownership Monitor][32]
-  * Asia: 
+  * Asia:
       * CNNMoney is seeking a [multiplatform editor][33] in Hong Kong
       * ICFJ is taking applications for a [Knight journalism fellow][34] in Indonesia
-  * Africa: 
+  * Africa:
       * Code for Africa has an opening for [program manager][35] in Nigeria
 
 **Upcoming events:**
 
-  * February: 
+  * February:
       * 6 &#8211; Paris, France &#8211; [News Impact Summit][36]
       * 8-9 &#8211; London, UK &#8211; [newsrewired][37]
       * 11-12 &#8211; Amsterdam, Netherlands &#8211; [Hackathon][38] for Humanitarian Aid
       * 18-19 &#8211; Tucson, USA &#8211; [News Hack Arizona][39]
       * 24-26 &#8211; Boston, USA &#8211; [MisinfoCon][40], a summit on misinformation
-  * March: 
+  * March:
       * 2-5 &#8211; Jacksonville, USA &#8211; National Institute of Computer-Assisted Reporting (NICAR) [conference][41]
       * 10-11 &#8211; Milan, Italy &#8211; [Visualized Milan][42]
       * 10-16 &#8211; Austin, USA &#8211; [SXSW][43] Interactive Festival
@@ -83,10 +83,10 @@ If you decide five platforms aren&#8217;t enough for you, check out other chapte
       * 23 &#8211; Miami, USA &#8211; Journalists & Editors workshop on [Mobile Media Culture in the Americas][45]
       * 29-31 &#8211; Brussels, Belgium &#8211; [RightsCon][46] for a freer Internet
       * 31-1 &#8211; Tonsberg, Norway &#8211; [SKUP][47] conference for investigative reporters and editors in Norway
-  * April: 
+  * April:
       * 5-9 &#8211; Perugia, Italy &#8211; International Journalism [Festival][48]
       * 15-16 &#8211; Austin, USA &#8211; International Symposium on Online Journalism ([ISOJ][49])
-  * May: 
+  * May:
       * 1-4 &#8211; Jakarta, Indonesia &#8211; UNESCO&#8217;s [conference][50] for World Press Freedom Day
       * 4-6 &#8211; Galway, Ireland &#8211; [MoJoCon][51] Mobile Journalism Conference
       * 18-20 &#8211; Hamburg, Germany &#8211; [International Press Institute congress][52] on media freedom in the digital age

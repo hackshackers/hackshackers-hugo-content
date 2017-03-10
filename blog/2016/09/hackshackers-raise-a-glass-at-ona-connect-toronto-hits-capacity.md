@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers raise a glass at ONA; Connect Toronto hits capacity
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-09-19"
 _migration:
   id: 17610
@@ -40,13 +40,13 @@ London is featuring an &#8220;interactive imagery specialist&#8221; for its [Sep
 
 **Job openings:**
 
-  * Africa: 
+  * Africa:
       * The Committee to Protect Journalists is hiring a [research associate][17] for its Africa program
       * Code for Africa has an opening for a [communty & knowledge lead][18] in Nairobi
-  * Europe: 
+  * Europe:
       * The Independent is seeking a [technology reporter][19]
       * Politico is hiring a [data analyst][20] in Brussels
-  * North America: 
+  * North America:
       * The Marshall Project is looking for an [editorial designer][21]
       * The San Antonio Express-News has an opening for a [tech reporter][22]
       * Recode is hiring [someone to cover][23] Google&#8217;s AI projects
@@ -55,10 +55,10 @@ London is featuring an &#8220;interactive imagery specialist&#8221; for its [Sep
 
 **Other upcoming events:**
 
-  * September: 
+  * September:
       * Sept 17-20 &#8211; New Orleans, USA &#8211; Society of Professional Journalists [Excellence in Journalism][26] conference
       * Sept 20-22 &#8211; Jakarta, Indonesia &#8211; [Global Forum for Media Development][27] (GFMD)
-      * Sept. 22 &#8211; New York, USA &#8211; NYC Media Lab [Annual Summit][28], for executives, academics and startups to convene around future of media 
+      * Sept. 22 &#8211; New York, USA &#8211; NYC Media Lab [Annual Summit][28], for executives, academics and startups to convene around future of media
           * (Hacks/Hackers community members can register with a 25% off discount code: HACKSHACKER)
       * Sept 22-25 &#8211; New Delhi, India &#8211; Y Combinator [Startup Conference][29]
       * Sept 23-24 &#8211; Toronto, Canada &#8211; Hacks/Hackers [Connect Toronto][30]
@@ -67,15 +67,15 @@ London is featuring an &#8220;interactive imagery specialist&#8221; for its [Sep
       * Sept 29-Oct 1 &#8211; Miami, USA &#8211; Digital Humanities + [Data Journalism Symposium][33]
       * Sept 29-Oct 1 &#8211; Chicago, USA &#8211; Local indie online news publishers are gathering for the [LION summit][34]
       * Sept 30-Oct 1 &#8211; Palo Alto, USA &#8211; [Computation + Journalism Symposium][35]
-  * October: 
-      * Oct 6-8 &#8211; Washington, DC, USA &#8211; [Double Exposure][36], an investigative film festival and symposium 
+  * October:
+      * Oct 6-8 &#8211; Washington, DC, USA &#8211; [Double Exposure][36], an investigative film festival and symposium
           * (Hacks/Hackers community members can [register with a 10% off discount code][37]: HACK10)
       * Oct 7-9 &#8211; New York, USA &#8211; [Future of Storytelling][38] Festival
       * Oct 14-15 &#8211; Washington, DC, USA &#8211; [TransparencyCamp][39], the Sunlight Foundation&#8217;s unconference for open government
       * Oct 17-17 &#8211; Vitoria, Brazil &#8211; [Brazilian Conference of Citizen Media][40]
       * Oct 21-23 &#8211; Cape Town, South Africa &#8211; [Media Party Africa][41], co-run by Hacks/Hackers Africa and Code for Africa
       * Oct 25-27 &#8211; Casablanca, Morocco &#8211; [d|bootcamp][42], a three-day civic hacking workshop
-  * November: 
+  * November:
       * Nov 7-9 &#8211; Johannesburg, South Africa &#8211; [African Investigative Journalism Conference][43]
 
  [1]: http://ona16.journalists.org/

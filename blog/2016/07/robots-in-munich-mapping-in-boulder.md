@@ -1,7 +1,7 @@
 ---
 title: Robots in Munich; mapping in Boulder
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-07-11"
 _migration:
   id: 17526
@@ -39,7 +39,7 @@ Happy July, hacks and hackers. Meetups tripled from last week to this, with chap
 
 **Job openings:**
 
-  * North America: 
+  * North America:
       * Public Radio International is hiring a [data journalist][16] and [data editor][17]
       * Code for America is taking applications for its [one-year fellowship][18]
       * Pew is hiring a [senior research associate][19]
@@ -47,7 +47,7 @@ Happy July, hacks and hackers. Meetups tripled from last week to this, with chap
       * The Connecticut Health I-Team is seeking a [data journalist][21]
       * Mississippi Today, a newly founded nonprofit, is looking for a [database editor][22]
       * Reuters is hiring a [financial technology correspondent][23]
-  * Africa: 
+  * Africa:
       * Uliza, a tech startup, is seeking a [pilot manager][24] for its new product
       * Africa Check, Africa&#8217;s first independent fact-checking website, is hiring a [deputy editor][25]
 
@@ -59,7 +59,7 @@ Happy July, hacks and hackers. Meetups tripled from last week to this, with chap
   * Aug 25-27 &#8211; Buenos Aires, Argentina &#8211; Hacks/Hackers Buenos Aires [media party][29]
   * Sept 15-17 &#8211; Denver, USA &#8211; [ONA][30] annual conference
   * Sept 17-20 &#8211; New Orleans, USA &#8211; SPJ [Excellence in Journalism][31] conference
-  * Sept. 22 &#8211; New York, USA &#8211; NYC Media Lab [Annual Summit][32], for executives, academics and startups to convene around future of media 
+  * Sept. 22 &#8211; New York, USA &#8211; NYC Media Lab [Annual Summit][32], for executives, academics and startups to convene around future of media
       * (Hacks/Hackers community members can register with a 25% off discount code: HACKSHACKER)
   * Sept 23-24 &#8211; Toronto, Canada &#8211; Hacks/Hackers [Connect Toronto][33]
   * Sept 29-Oct 1 &#8211; Miami, USA &#8211; Digital Humanities + [Data Journalism Symposium][34]

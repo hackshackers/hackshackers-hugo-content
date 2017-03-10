@@ -1,7 +1,7 @@
 ---
 title: Lessons from Media Party Africa
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-10-28"
 _migration:
   id: 17658
@@ -26,7 +26,7 @@ It&#8217;s almost election time in the U.S., hacks and hackers! Please join us n
 [London][7] held its [October meetup][8] last week, inviting speakers from Bloomber, the Wall Street Journal and the BBC to talk about their latest projects. London has been a steadily moving machine for years when it comes to meetups like this, and organizer [Joanna Geary][9] said one advantage is to have the leadership in tightly organized roles.
 
 > &#8220;To make sure everything we do is ploughed back into the community Hacks/Hackers London is registered as a Community Interest Company, with our organisers (Joanna, Pete, Sarah, Cassie and Jeremy) as named directors.
-> 
+>
 > Whilst this took some upfront paperwork from us, it protects us from personal liability if something goes wrong at an event and, more importantly, provides a structure that means we can move on, but Hacks/Hackers London stays to serve the community.&#8221;
 
 {{< tweet 788833092245004288 >}}
@@ -42,9 +42,9 @@ Not every Hacks/Hackers chapter needs or wants a formalized system like this. Bu
 
 **Job openings:**
 
-  * Africa: 
+  * Africa:
       * The World Wide Web foundation is hiring a [communications officer][16] in Cape Town
-  * North America: 
+  * North America:
       * The Las Vegas Review-Journal is hiring a [data journalist][17]
       * Harvard&#8217;s Nieman Foundation is taking applications for its [fellowship][18]
       * Ohio University is seeking an [Assistant Professor][19] Interactive Information Design
@@ -53,23 +53,23 @@ Not every Hacks/Hackers chapter needs or wants a formalized system like this. Bu
       * Fusion is hiring an [editorial developer][22] for its interactive team
       * Mother Jones is looking for a [web developer][23]
       * The Seattle Times is taking applications for an [interactives intern][24]
-  * Europe: 
+  * Europe:
       * The UK Office for National Statistics is looking for a [data viz specialist][25]
 
 **Other upcoming events:**
 
-  * October: 
+  * October:
       * Oct 28-30 &#8211; London, UK &#8211; [MozFest][26], Mozilla&#8217;s open web conference
       * Oct 28-30 &#8211; Roanoke, USA &#8211; Journalism and Women Symposium (JAWS) [CAMP][27]
       * Oct 28-29 &#8211; Chicago and San Francisco, USA &#8211; [Mobile Me & You][28]
-  * November: 
+  * November:
       * Nov 3-4 &#8211; Buenos Aires, Argentina &#8211; FOPEA&#8217;s [International Journalism Conference][29]
       * Nov 7-9 &#8211; Johannesburg, South Africa &#8211; [African Investigative Journalism Conference][30]
       * Nov 11-13 &#8211; Dublin, Ireland &#8211; Hacks/Hackers Dublin&#8217;s [Investigative Journalism on the Digital Frontier][31] Conference
       * Nov 19-20 &#8211; London, UK &#8211; the Parliament [Accountability Hack][32], aka ParlyHack
       * Nov 22-23 &#8211; Covilha, Portugal &#8211; the [Journalism and Mobile Devices Congress][33]
       * Nov 23-24 &#8211; Amsterdam, Netherlands &#8211; [European Women in Technology][34] Conference
-  * December: 
+  * December:
       * Dec 1-4 &#8211; Panama City, Panama &#8211; the [International Anti-Corruption Conference][35]
       * Dec 2-3 &#8211; Dead Sea, Jordan &#8211; the [Arab Investigative Journalism Conference][36]
 

@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers global call tomorrow
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-09-05"
 _migration:
   id: 17598
@@ -40,24 +40,24 @@ Welcome to September, hacks and hackers, and happy [Labor Day][1] to those labor
 
 **Job openings:**
 
-  * Anywhere: 
+  * Anywhere:
       * ICFJ is hiring a [data mining expert][16] and [data viz developer][17] for an 18-month project
-  * North America: 
+  * North America:
       * The Center for Responsive Politics (i.e., OpenSecrets) is hiring a [full-stack developer][18]
       * New York Media is looking for someone to join its [interactive team][19]
       * The WSJ is hiring a [graphics reporter][20] based in New York
       * Wired magazine is hiring a [software engineer][21] in San Francisco
-  * Europe: 
+  * Europe:
       * i, a new media startup in London, is looking for a [tech correspondent][22] and other positions
 
 **Other upcoming events:**
 
-  * September: 
+  * September:
       * Sept 8-10 &#8211; Buenos Aires, Argentina &#8211; [Media Chicas][23], a hackathon and other events for women in LatAm digital media
       * Sept 15-17 &#8211; Denver, USA &#8211; Online News Association (ONA)&#8217;s [annual conference][24]
       * Sept 17-20 &#8211; New Orleans, USA &#8211; Society of Professional Journalists [Excellence in Journalism][25] conference
       * Sept 20-22 &#8211; Jakarta, Indonesia &#8211; [Global Forum for Media Development][26] (GFMD)
-      * Sept. 22 &#8211; New York, USA &#8211; NYC Media Lab [Annual Summit][27], for executives, academics and startups to convene around future of media 
+      * Sept. 22 &#8211; New York, USA &#8211; NYC Media Lab [Annual Summit][27], for executives, academics and startups to convene around future of media
           * (Hacks/Hackers community members can register with a 25% off discount code: HACKSHACKER)
       * Sept 23-24 &#8211; Toronto, Canada &#8211; Hacks/Hackers [Connect Toronto][28]
       * Sept 23-25 &#8211; Kathmandu, Nepal &#8211; [Asian Investigative Journalism Conference][29]
@@ -65,7 +65,7 @@ Welcome to September, hacks and hackers, and happy [Labor Day][1] to those labor
       * Sept 29-Oct 1 &#8211; Miami, USA &#8211; Digital Humanities + [Data Journalism Symposium][31]
       * Sept 29-Oct 1 &#8211; Chicago, USA &#8211; Local indie online news publishers are gathering for the [LION summit][32]
       * Sept 30-Oct 1 &#8211; Palo Alto, USA &#8211; [Computation + Journalism Symposium][33]
-  * October: 
+  * October:
       * Oct 7-9 &#8211; New York, USA &#8211; [Future of Storytelling][34] Festival
       * Oct 17-17 &#8211; Vitoria, Brazil &#8211; [Brazilian Conference of Citizen Media][35]
       * Oct 25-27 &#8211; Casablanca, Morrocco &#8211; [d|bootcamp][36], a three-day workshop on civic hacking

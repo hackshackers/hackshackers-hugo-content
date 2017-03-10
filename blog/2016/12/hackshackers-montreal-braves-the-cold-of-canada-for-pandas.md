@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers Montreal braves the cold of Canada for Pandas
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-12-16"
 _migration:
   id: 17700
@@ -29,11 +29,11 @@ We&#8217;re midway through the coldest months &#8211; unless, of course, you liv
 
 **Job openings:**
 
-  * Anywhere: 
+  * Anywhere:
       * Open Society Foundation is looking for a [communications specialist][9] to work from anywhere
-  * Europe: 
+  * Europe:
       * The Bureau of Investigative Journalism is hiring on its [Local Data Lab][10]
-  * North America: 
+  * North America:
       * FiveThirtyEight has openings for part-time and freelance [politics writers][11]
       * WSJ is seeking a [news editor][12] for visuals
       * Dow Jones Company is looking for a [Visuals News Editor][13]
@@ -41,11 +41,11 @@ We&#8217;re midway through the coldest months &#8211; unless, of course, you liv
 
 **Upcoming events:**
 
-  * January: 
+  * January:
       * 15-18 &#8211; Cape Town, South Africa &#8211; UN [World Data Forum][15]
       * 21 &#8211; Berlin, Germany &#8211; &#8220;[Hashtag, High Tech, Hackmac][16]&#8221; data journalism day
       * 27-28 &#8211; Odense, Denmark &#8211; [NODA17][17], the Nordic Data Journalism Conference
-  * February: 
+  * February:
       * 6 &#8211; Paris, France &#8211; [News Impact Summit][18]
 
  [1]: https://www.meetup.com/HacksHackersMontreal/

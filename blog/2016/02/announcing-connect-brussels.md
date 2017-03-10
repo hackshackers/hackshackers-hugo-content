@@ -1,7 +1,7 @@
 ---
 title: Announcing Connect Brussels
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-02-20"
 _migration:
   id: 17399

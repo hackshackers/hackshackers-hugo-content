@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers returns from NICAR, Boston takes the plate for a baseball hackathon
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-03-19"
 _migration:
   id: 17412

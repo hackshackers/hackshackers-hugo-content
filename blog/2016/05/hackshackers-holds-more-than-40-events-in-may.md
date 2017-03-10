@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers holds more than 40 events in May
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-05-07"
 _migration:
   id: 17452
@@ -19,7 +19,7 @@ Welcome to May, hacks and hackers. Miami is gearing up for its highly anticipate
   * Miami is holding its regular Monday [OpenHack][4]
   * IRE will hold its regular [Wednesday lab][5]
   * Miami will also be hosting the <a href="{{< tweet 725230791693766656 >}}&#8221;>6th Connect event</a> next weekend
-  * Johannesburg is holding [#HacktheConstitution][6] 
+  * Johannesburg is holding [#HacktheConstitution][6]
 
 **Chapter spotlight:**
 
@@ -40,14 +40,14 @@ Co-organizer Simon Elvery, who helped re-launch the chapter earlier this year, s
 
 **Job openings:**
 
-  * Europe 
+  * Europe
       * The Times and Sunday Times in London is hiring [a news producer][12]
       * Context Media is looking for a [digital media analyst][13]
       * IBTimes is hiring a [data journalist][14] in London
-  * North America 
+  * North America
       * ProPublica is looking for a [senior editor for audience engagement][15]
       * CNN Digital is hiring an [interactive producer][16] in Atlanta, Georgia
-  * Asia 
+  * Asia
       * Reuters is hiring a [sub-editor for its Asia desk][17] in Bangalore, India
 
  [1]: http://connect.hackshackers.com/

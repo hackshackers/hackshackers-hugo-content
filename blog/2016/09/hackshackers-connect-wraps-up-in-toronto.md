@@ -1,7 +1,7 @@
 ---
 title: Hacks/Hackers Connect takes Toronto
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-09-26"
 _migration:
   id: 17614
@@ -44,21 +44,21 @@ At the same time, the Jakarta hosted the [Global Forum for Media Development][2]
 
 **Job openings:**
 
-  * North America: 
+  * North America:
       * New York Daily News is seeking an [interactive developer][18]
       * The Boston Business Journal is hiring a [tech reporter][19]
       * The Outline, a new media venture, is hiring a [developer][20] and a [designer][21]
-  * Africa: 
+  * Africa:
       * CodeforAfrica is hiring a [community and knowledge lead][22]
 
 **Other upcoming events:**
 
-  * September: 
+  * September:
       * Sept 28-29 &#8211; Chicago, USA &#8211; INN workshop on [Tech and Product Design for News Leaders][23]
       * Sept 29-Oct 1 &#8211; Miami, USA &#8211; Digital Humanities + [Data Journalism Symposium][24]
       * Sept 29-Oct 1 &#8211; Chicago, USA &#8211; Local indie online news publishers are gathering for the [LION summit][25]
       * Sept 30-Oct 1 &#8211; Palo Alto, USA &#8211; [Computation + Journalism Symposium][26]
-  * October: 
+  * October:
       * Oct 6-8 &#8211; Washington, DC, USA &#8211; [Double Exposure][27], an investigative film festival and symposium
       * (Hacks/Hackers community members can [register with a 10% off discount code][28]: HACK10)
       * Oct 7-9 &#8211; New York, USA &#8211; [Future of Storytelling][29] Festival
@@ -66,7 +66,7 @@ At the same time, the Jakarta hosted the [Global Forum for Media Development][2]
       * Oct 17-17 &#8211; Vitoria, Brazil &#8211; [Brazilian Conference of Citizen Media][31]
       * Oct 21-23 &#8211; Cape Town, South Africa &#8211; [Media Party Africa][32], co-run by Hacks/Hackers Africa and Code for Africa
       * Oct 25-27 &#8211; Casablanca, Morrocco &#8211; [d|bootcamp][33], a three-day civic hacking workshop
-  * November: 
+  * November:
       * Nov 7-9 &#8211; Johannesburg, South Africa &#8211; [African Investigative Journalism Conference][34]
 
  [1]: http://connect.hackshackers.com/event/toronto

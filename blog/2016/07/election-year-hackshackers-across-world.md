@@ -1,7 +1,7 @@
 ---
 title: Election year for Hacks/Hackers across the world
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-07-19"
 _migration:
   id: 17529
@@ -36,12 +36,12 @@ Last month, [Paris][6] held [a session on polling data][7], prepping for an upco
 
 **Job openings:**
 
-  * North America: 
+  * North America:
       * The Miami Herald is hiring a [digital news developer][13]
       * Voice of America is looking for an [audience engagement coordinator][14] who is fluent in Urdu
       * Storyful, a social media startup, is hiring a [viral video journalist][15]
       * Reuters is hiring a [senior product manager][16] for customer experience-related projects
-  * Europe: 
+  * Europe:
       * Computer Business Review is seeking a [journalism intern][17] for its website
       * Voice of Norway is hiring a [designer and audio engineer][18] for an Arabic-language broadcast
       * The UN has an opening for a [data analyst][19] in Geneva
@@ -53,7 +53,7 @@ Last month, [Paris][6] held [a session on polling data][7], prepping for an upco
   * Sept 15-17 &#8211; Denver, USA &#8211; Online News Association (ONA) [annual conference][22]
   * Sept 17-20 &#8211; New Orleans, USA &#8211; Society of Professional Journalists [Excellence in Journalism][23] conference
   * Sept 20-22 &#8211; Jakarta, Indonesia &#8211; [Global Forum for Media Development][24] (GFMD)
-  * Sept. 22 &#8211; New York, USA &#8211; NYC Media Lab [Annual Summit][25], for executives, academics and startups to convene around future of media 
+  * Sept. 22 &#8211; New York, USA &#8211; NYC Media Lab [Annual Summit][25], for executives, academics and startups to convene around future of media
       * (Hacks/Hackers community members can register with a 25% off discount code: HACKSHACKER)
   * Sept 23-24 &#8211; Toronto, Canada &#8211; Hacks/Hackers [Connect Toronto][26]
   * Sept 23-25 &#8211; Kathmandu, Nepal &#8211; [Asian Investigative Journalism Conference][27]

@@ -1,7 +1,7 @@
 ---
 title: Miami plans its first Media Party; Brisbane relaunches
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-04-01"
 _migration:
   id: 17417
@@ -49,12 +49,12 @@ And last but not least, the [Hacks/Hackers global open call][13] will take place
 
 **Job openings:**
 
-  * Latin America 
+  * Latin America
       * Mongabay, a news site covering the rainforest, is hiring a [writer, editor and program manager][22]
-  * North America 
+  * North America
       * Vocativ, a startup that covers media and technology, is hiring a[dataviz designer][23] and a [data journalist][24]
       * Timeline, a startup in San Francisco, is hiring a [visual editor][25] and an [audience growth manager][26]
-  * Europe 
+  * Europe
       * The European Journalism Centre is looking for [a new director][27]
       * The Washington Post is hiring a [Europe correspondent][28]
       * The BBC is taking applications for a [digital journalist apprenticeship][29]

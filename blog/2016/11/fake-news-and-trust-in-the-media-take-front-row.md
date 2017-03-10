@@ -1,7 +1,7 @@
 ---
 title: Fake news and trust in the media take front row
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-11-18"
 _migration:
   id: 17675
@@ -37,7 +37,7 @@ Good morning, afternoon, evening or night, hacks and hackers. After a year of ne
 
 **Job postings:**
 
-  * North America: 
+  * North America:
       * The Marshall Project is looking for a [social media editor][14] (via [INN][15])
       * The Berkman Klein Center for Internet & Society at Harvard University is accepting [fellowship][16] applications
       * American City Business Journals has an opening for a [product designer][17]
@@ -46,19 +46,19 @@ Good morning, afternoon, evening or night, hacks and hackers. After a year of ne
       * Dow Jones is hiring someone to [develop tools][20] for journalists
       * The Texas Tribune is offering [data internships][21]
       * VICE is hiring a [data engineer][22]
-  * Europe: 
+  * Europe:
       * BBC is looking for a [digital editor][23]
 
 **Upcoming events:**
 
-  * November: 
+  * November:
       * Nov 11-13 &#8211; Dublin, Ireland &#8211; Hacks/Hackers Dublin&#8217;s [Investigative Journalism on the Digital Frontier][24] Conference
       * Nov 18-19 &#8211; Leuven, Belgium &#8211; [VVOJ conference][25], a gathering of the Dutch-Flemish Association of Investigative Journalists
       * Nov 19-20 &#8211; London, UK &#8211; the Parliament [Accountability Hack][26], aka ParlyHack
       * Nov 22 &#8211; Birmingham, UK &#8211; a one-day [data journalism conference][27]
       * Nov 22-23 &#8211; Covilha, Portugal &#8211; the [Journalism and Mobile Devices Congress][28]
       * Nov 23-24 &#8211; Amsterdam, Netherlands &#8211; [European Women in Technology][29] Conference
-  * December: 
+  * December:
       * Dec 1-4 &#8211; Panama City, Panama &#8211; the [International Anti-Corruption Conference][30]
       * Dec 2-3 &#8211; Dead Sea, Jordan &#8211; the [Arab Investigative Journalism Conference][31]
       * Dec 3 &#8211; Mexico City, Mexico &#8211; Periodista de a Pie is offering a [one-day workshop][32] on Google tools training

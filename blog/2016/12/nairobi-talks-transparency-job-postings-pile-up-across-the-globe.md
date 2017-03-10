@@ -1,7 +1,7 @@
 ---
 title: Nairobi talks transparency; job postings pile up across the globe
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-12-23"
 _migration:
   id: 17703
@@ -33,17 +33,17 @@ The [Hacks/Hackers Africa][1] chapter in Nairobi [met last week][2] to discuss h
 
 **Job openings:**
 
-  * Africa: 
+  * Africa:
       * CodeforAfrica is hiring half a dozen &#8220;[research/tech ninjas][10]&#8220;
       * ICFJ is looking for a [consultant][11] for its Knight Fellowship program
       * WITS Academy&#8217;s journalism department is hiring a [web editor and lecturer][12]
       * Right2Know, a free speech and transparency activist group, needs a [communications specialist][13]
-  * Asia: 
+  * Asia:
       * ICFJ seeks four [journalists or technologists][14] for a an international journalism fellowship in India
       * South China Morning Post is looking for a [director][15] of data analytics and insights
-  * Latin America: 
+  * Latin America:
       * ICFJ needs a [data viz developer][16] who speaks Spanish
-  * North America: 
+  * North America:
       * CNN Tech has a [reporter][17] opening
       * Slate is also looking for a [tech reporter][18]
       * American Press Institute offers a [fellowship][19] to advance media innovation
@@ -54,12 +54,12 @@ The [Hacks/Hackers Africa][1] chapter in Nairobi [met last week][2] to discuss h
 
 **Upcoming events:**
 
-  * January: 
+  * January:
       * 11 &#8211; Cybersecurity Institute for Journalists [seminar][22] at the National Press Club
       * 15-18 &#8211; Cape Town, South Africa &#8211; UN [World Data Forum][23]
       * 21 &#8211; Berlin, Germany &#8211; &#8220;[Hashtag, High Tech, Hackmac][24]&#8221; data journalism day
       * 27-28 &#8211; Odense, Denmark &#8211; [NODA17][25], the Nordic Data Journalism Conference
-  * February: 
+  * February:
       * 6 &#8211; Paris, France &#8211; [News Impact Summit][26]
 
  [1]: https://www.facebook.com/HacksHackersAfrica/

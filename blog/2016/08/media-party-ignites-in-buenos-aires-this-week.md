@@ -1,7 +1,7 @@
 ---
 title: Media Party ignites in Buenos Aires this week
 authors:
-- samanthasunne
+- Samantha Sunne
 date: "2016-08-22"
 _migration:
   id: 17591
@@ -43,7 +43,7 @@ The Media Party will bring thousands of hackers, technologists, journalists and 
 
 **Job openings:**
 
-  * North America: 
+  * North America:
       * ProPublica is hiring an [engagement reporter][19] to reach audiences during the reporting of a story
       * InterNews is looking for a [senior technical advisor][20] to help them report on corruption
       * The MIT Media Lab is seeking a [data journalist][21] to work on a three-month journalism project
@@ -52,7 +52,7 @@ The Media Party will bring thousands of hackers, technologists, journalists and 
       * The Seattle Times is hiring a [&#8220;news artist&#8221;][24]
       * New York Magazine is looking for a [product manager][25]
       * The NYU journalism school is hiring a [multimedia specialist][26]
-  * Europe: 
+  * Europe:
       * China Daily has an opening for a [graphic designer][27] in London
       * The Times & Sunday Times is hiring a [social media editor][28]
       * Stuff, a tech and gadgets magazine in London, is looking for a [staff writer][29]
@@ -61,20 +61,20 @@ The Media Party will bring thousands of hackers, technologists, journalists and 
 
 **Other upcoming events:**
 
-  * August: 
+  * August:
       * Aug 25-27 &#8211; Buenos Aires, Argentina &#8211; the Hacks/Hackers Buenos Aires [Media Party][35]
-  * September: 
+  * September:
       * Sept 15-17 &#8211; Denver, USA &#8211; Online News Association (ONA)&#8217;s [annual conference][36]
       * Sept 17-20 &#8211; New Orleans, USA &#8211; Society of Professional Journalists [Excellence in Journalism][37] conference
       * Sept 20-22 &#8211; Jakarta, Indonesia &#8211; [Global Forum for Media Development][38] (GFMD)
-      * Sept. 22 &#8211; New York, USA &#8211; NYC Media Lab [Annual Summit][39], for executives, academics and startups to convene around future of media 
+      * Sept. 22 &#8211; New York, USA &#8211; NYC Media Lab [Annual Summit][39], for executives, academics and startups to convene around future of media
           * (Hacks/Hackers community members can register with a 25% off discount code: HACKSHACKER)
       * Sept 23-24 &#8211; Toronto, Canada &#8211; Hacks/Hackers [Connect Toronto][40]
       * Sept 23-25 &#8211; Kathmandu, Nepal &#8211; [Asian Investigative Journalism Conference][41]
       * Sept 28-29 &#8211; Chicago, USA &#8211; INN workshop on [Tech and Product Design for News Leaders][42]
       * Sept 29-Oct 1 &#8211; Miami, USA &#8211; Digital Humanities + [Data Journalism Symposium][43]
       * Sept 30-Oct 1 &#8211; Palo Alto, USA &#8211; [Computation + Journalism Symposium][44]
-  * October: 
+  * October:
       * Oct 7-9, New York, USA &#8211; [Future of Storytelling][45] Festival
       * Oct 17-17 &#8211; Vitoria, Brazil &#8211; [Brazilian Conference of Citizen Media][46]
 
