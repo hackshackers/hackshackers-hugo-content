@@ -54,8 +54,8 @@ The enormous party can be overwhelming, so [Austin](https://www.meetup.com/Hacks
 
 **Upcoming events:**
 
-| :Month: | :Day: | :City: | :Country: | :Event: |
-| ------- | ----- | ------ | --------- | ------- |
+| Month | Day | City | Country | Event |
+| ----- | --- | ---- | ------- | ----- |
 March | 19-21 | Berlin | Germany | Digital Innovators Summit [DIS 2017](http://www.innovators-summit.com/dis-home/)
 March | 23 | Miami | USA | Journalists & Editors workshop on [Mobile Media Culture in the Americas](https://mmca17.splashthat.com/)
 March | 29-31 | Brussels | Belgium | [RightsCon](https://www.rightscon.org/) for a freer Internet
