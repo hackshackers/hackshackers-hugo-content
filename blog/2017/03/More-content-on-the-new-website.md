@@ -73,7 +73,7 @@ May | 18-21 | Mechelen | Belgium | [Dataharvest](http://journalismfund.eu/event/
 June | 7-9 | Durban | South Africa | World News Media [Congress](https://events.wan-ifra.org/events/world-news-media-congress-2017)
 June | 15-18 | Detroit | USA | [Allied Media Conference](https://www.alliedmedia.org/amc)
 June | 19-21 | Bonn | Germany | [Global Media Forum](http://www.dw.com/en/global-media-forum/global-media-forum/s-101219) on identity and diversity
-June | 20-23 | Portland | OR | USA | [Open Source Bridge](http://opensourcebridge.org/)
+June | 20-23 | Portland | USA | [Open Source Bridge](http://opensourcebridge.org/)
 June | 21-22 | Phoenix | USA | INN Days, business training for nonprofit newsrooms
 June | 21-23 | Vienna | Austria | Global Editors Network [summit](https://events.bizzabo.com/201051/page/1009031/gen-summit-2017)
 June | 22-25 | Phoenix | USA | Investigative Reporters & Editors [IRE Conference](http://www.ire.org/conferences/ire2017/)
