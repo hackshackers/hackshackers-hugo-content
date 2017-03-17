@@ -1,12 +1,16 @@
 Happy St. Patrick's Day, hacks and hackers! If you missed it, Hacks/Hackers launched a [new website](hackshackers.com) last week:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Check out the new <a href="https://twitter.com/hashtag/HacksHackers?src=hash">#HacksHackers</a> website! <a href="https://t.co/3qOKg0SM9h">https://t.co/3qOKg0SM9h</a> <a href="https://t.co/KOwi9K7sTh">pic.twitter.com/KOwi9K7sTh</a></p>&mdash; Hacks/Hackers (@HacksHackers) <a href="https://twitter.com/HacksHackers/status/840310043379654656">March 10, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 840310043379654656 >}}
 
-This week we're adding and updating content, like a [comprehensive list of groups](https://hackshackers.com/groups/) and a [resource on suggested meetups](http://hackshackers.com/resources/suggested-meetups/).
+<!---<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Check out the new <a href="https://twitter.com/hashtag/HacksHackers?src=hash">#HacksHackers</a> website! <a href="https://t.co/3qOKg0SM9h">https://t.co/3qOKg0SM9h</a> <a href="https://t.co/KOwi9K7sTh">pic.twitter.com/KOwi9K7sTh</a></p>&mdash; Hacks/Hackers (@HacksHackers) <a href="https://twitter.com/HacksHackers/status/840310043379654656">March 10, 2017</a></blockquote>--->
+<!---#<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>--->
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Need ideas for events? Check out our guide to <a href="https://twitter.com/hashtag/HacksHackers?src=hash">#HacksHackers</a> <a href="https://twitter.com/hashtag/meetups?src=hash">#meetups</a>: <a href="https://t.co/g01U5JMfhO">https://t.co/g01U5JMfhO</a></p>&mdash; Hacks/Hackers (@HacksHackers) <a href="https://twitter.com/HacksHackers/status/836256835220942848">February 27, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+This week we're adding and updating content, like a [comprehensive list of groups](https://hackshackers.com/groups/) and [blog posts](http://hackshackers.com/blog/) on the site's development and layout.
+
+{{< tweet 836256835220942848 >}}
+
+<!---<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Need ideas for events? Check out our guide to <a href="https://twitter.com/hashtag/HacksHackers?src=hash">#HacksHackers</a> <a href="https://twitter.com/hashtag/meetups?src=hash">#meetups</a>: <a href="https://t.co/g01U5JMfhO">https://t.co/g01U5JMfhO</a></p>&mdash; Hacks/Hackers (@HacksHackers) <a href="https://twitter.com/HacksHackers/status/836256835220942848">February 27, 2017</a></blockquote>--->
+<!---<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>--->
 
 If you organize a local group, be sure to [let us know](https://docs.google.com/forms/d/e/1FAIpQLSdX5tuL_OKd39gntdUAMOSLxsmHDH5qfXtUS7hq83CDHONIPg/viewform) if you want to have your own page or make any updates.
 
@@ -19,8 +23,10 @@ If you organize a local group, be sure to [let us know](https://docs.google.com/
 
 Probably the biggest event in the Hacks/Hackers world this week was the [Awesomest Journalism Party Ever](https://theawesomest.journalismparty.com/ever/vii/), which sees hundreds of people partying like journalists at SXSW. Our website cohorts, [Alley Interactive](alleyinteractive.com), were there with swag:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The Awesomest Journalism Party. Ever. is starting now! Come say hi and grab some swag. <a href="https://t.co/X4KFWElXgA">pic.twitter.com/X4KFWElXgA</a></p>&mdash; Alley Interactive (@alleydigital) <a href="https://twitter.com/alleydigital/status/841045150654746624">March 12, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 841045150654746624 >}}
+
+<!---<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The Awesomest Journalism Party. Ever. is starting now! Come say hi and grab some swag. <a href="https://t.co/X4KFWElXgA">pic.twitter.com/X4KFWElXgA</a></p>&mdash; Alley Interactive (@alleydigital) <a href="https://twitter.com/alleydigital/status/841045150654746624">March 12, 2017</a></blockquote>--->
+<!---<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>--->
 
 The enormous party can be overwhelming, so [Austin](https://www.meetup.com/Hacks-Hackers-Austin/) organizer [Cindy Royal](https://twitter.com/CindyRoyal) did her part to encourage locals to come.
 
