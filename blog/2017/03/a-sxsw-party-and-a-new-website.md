@@ -129,3 +129,7 @@ We&#8217;re launching it just in time for the [Awesomest Journalism Party Ever][
  [41]: http://opensourcebridge.org/
  [42]: http://www.ire.org/conferences/ire2017/
  [43]: https://www.alleyinteractive.com/
+ 
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image:src" content="/content-images/about/hackshackers_logomark.png">
+ 
