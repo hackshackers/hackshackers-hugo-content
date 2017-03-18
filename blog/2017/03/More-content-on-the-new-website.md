@@ -1,4 +1,4 @@
-Happy St. Patrick's Day, hacks and hackers! If you missed it, Hacks/Hackers launched a [new website](hackshackers.com) last week:
+Beware the ides of March, hacks and hackers! (Whatever that means.) In case you missed it, we launched a [new website](hackshackers.com) last week:
 
 {{< tweet 840310043379654656 >}}
 
