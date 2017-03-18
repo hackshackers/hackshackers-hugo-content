@@ -46,7 +46,7 @@ Crime data is always some of the most popular data around, for nerds and average
 
 The local [CfA][14] brigade, [Code for New Orleans][15], has been interested in 311 data for a while, and found some brothers in arms at the hackathon. They ended up [creating a survey][16] to get feedback about the 311 system and started investigating why the city doesn&#8217;t already have an app for submitting issues into the 311 system. [Building a mobile app][13] was out of scope for this particular hackathon, but may be a project to tackle in the future.
 
-**Assessment data**
+[**Assessment data**](https://github.com/bhelx/nola-assessor-data)
 
 This team didn&#8217;t end up with a friendly public-facing app, sadly, but they certainly tried their hardest. Several intrepid hackers struggled to clean a monster set of 10 years of state assessment data, getting it significantly closer to usability. At least now the data can accessed via several CSVs, rather than writing code. A local reporter expressed interest in using it for a story, and in fact, assessment data was the most popular topic among all at the hackathon.
 
