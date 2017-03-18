@@ -131,5 +131,5 @@ We&#8217;re launching it just in time for the [Awesomest Journalism Party Ever][
  [43]: https://www.alleyinteractive.com/
  
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image:src" content="/content-images/about/hackshackers_logomark.png">
+<meta name="twitter:image:src" content="https://hackshackers.com/content-images/about/hackshackers_logomark.png">
  
