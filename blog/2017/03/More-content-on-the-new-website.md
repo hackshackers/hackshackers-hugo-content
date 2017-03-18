@@ -1,3 +1,12 @@
+---
+title: More content on the new website
+authors:
+- Samantha Sunne
+date: "2017-03-18"
+categories:
+- Newsletter
+---
+
 Beware the ides of March, hacks and hackers! (Whatever that means.) In case you missed it, we launched a [new website](hackshackers.com) last week:
 
 {{< tweet 840310043379654656 >}}
