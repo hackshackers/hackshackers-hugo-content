@@ -76,3 +76,6 @@ _Josh Kadis is the Director of Product Development for [Alley Interactive][18], 
 [16]: http://lunrjs.com/
 [17]: /search/#hacks
 [18]: https://www.alleyinteractive.com/
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image:src" content="https://hackshackers.com/content-images/about/hackshackers_logomark.png">
