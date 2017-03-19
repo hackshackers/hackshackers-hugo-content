@@ -52,6 +52,6 @@ Jennifer 8. Lee is an author and a journalist focused on the evolv­ing infra­
  [16]: http://aaww.org
  [17]: http://thesearchforgeneraltso.com
  [18]: http://wickedelicate.com
- [19]: http://www.chryswu.com/
+ [19]: http://chryswu.com/
  [20]: http://twitter.com/MacDiva
  [21]: http://pinboard.in/u:MacDiva
