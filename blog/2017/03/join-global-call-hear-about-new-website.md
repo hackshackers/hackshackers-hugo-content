@@ -10,7 +10,7 @@ categories:
 Welcome to April, hacks and hackers! As always, a new month means a new global call:
 <!-- The page for global calls is currently missing from the resources tab. So we'll just have to route people to the etherpad.-->
 
-embed tweet
+{{< tweet 847105821011918848 >}}
 
 We'll be talking about the huge rollout of the [new website](hackshackers.com), including new [logos](/resources/logos). To whet your whistle, check out this [new blog post](link) by designer Christa Field:
 
