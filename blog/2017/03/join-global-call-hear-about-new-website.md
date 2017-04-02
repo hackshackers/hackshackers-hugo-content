@@ -12,9 +12,7 @@ Welcome to April, hacks and hackers! As always, a new month means a new global c
 
 {{< tweet 847105821011918848 >}}
 
-We'll be talking about the huge rollout of the [new website](hackshackers.com), including new [logos](/resources/logos). To whet your whistle, check out this [new blog post](link) by designer Christa Field:
-
-embed tweet
+We'll be talking about the huge rollout of the [new website](hackshackers.com), including new [logos](/resources/logos)!
 
 **The week ahead:**
 
