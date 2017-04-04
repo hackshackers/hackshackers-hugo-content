@@ -43,7 +43,7 @@ We'll be talking about the huge rollout of the [new website](hackshackers.com), 
 	* BBC is hiring a [development lead](https://careershub.bbc.co.uk/members/modules/job/detail.php?record=19917) for the iPlayer
 * North America:
 	* Boston Globe is hiring a [D3-fluent developer](http://apps.bostonglobe.com/job-listing/)
-	* Politico is looking for a [web developer](http://careerservices.nyujournalism.org/job/2017-03-23/web-producer-5/)
+	* Politico is looking for a [web producer](http://careerservices.nyujournalism.org/job/2017-03-23/web-producer-5/)
 	* Education Week is seeking a [web designer](http://snd.org/jobs/view/web-designer-full-time-bethesda-md/)
 	* Wirecutter is looking for an [engineering manager](https://weworkremotely.com/jobs/4479-engineering-manager-wirecutter)
 	* Axios is hiring someone for [data viz](https://boards.greenhouse.io/axios/jobs/517774#.WNP2_xLytTY)
