@@ -2,7 +2,6 @@
 title: Hackathon Tips
 url: resources/hackathon-tips
 ---
-Add your tips by editing the Google Doc here: <http://hckhc.kr/9MDOjJ>
 
 As Hacks/Hackers chapters have gotten more experience running hackathons — eight and counting — we have compiled some of our experience into advice.
 
