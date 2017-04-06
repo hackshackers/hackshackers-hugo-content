@@ -16,3 +16,9 @@ Computation+Journalism 2017 is on for Oct. 13/14, 2017 at Northwestern Universit
 * Placeholder website: http://cj2017.northwestern.edu/
 * Sign up for email updates: http://cj2017.northwestern.edu/subscribe-to-receive-more-cj-2017-symposium-updates/ 
 * Last year's conference website (at Stanford): http://journalism.stanford.edu/cj2016/ 
+
+Data Science + Journalism (DS+J) Workshop at KDD 2017
+
+August 14, 2017
+Halifax, Canada
+https://sites.google.com/view/dsandj2017/
