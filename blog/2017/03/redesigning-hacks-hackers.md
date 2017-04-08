@@ -48,3 +48,6 @@ _Christa Field is the Creative Director for [Alley Interactive][4]. Alley is pro
 [2]: https://hackshackers.github.io/hh-prototypes/prototype/dist/styletile1.html
 [3]: https://hackshackers.github.io/hh-prototypes/prototype/dist/homepage.html
 [4]: https://www.alleyinteractive.com
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image:src" content="https://hackshackers.com/content-images/blog/2017/03/hh_design_studio.jpg">
