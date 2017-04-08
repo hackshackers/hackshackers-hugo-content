@@ -1,5 +1,5 @@
 ---
-title: Join the global call to hear about the new website
+title: New jobs and events in the Hacks/Hackers space
 authors:
 - Samantha Sunne
 date: "2017-04-09"
