@@ -1,5 +1,5 @@
 ---
-title: Funding, events and updates from #MisinfoCon
+title: Funding, events and updates from MisinfoCon
 authors:
 - Samantha Sunne
 date: "2017-04-16"
