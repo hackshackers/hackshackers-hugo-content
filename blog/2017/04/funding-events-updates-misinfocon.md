@@ -21,7 +21,7 @@ The formidable team behind [MisinfoCon](misinfocon.com) has put together an impr
 * [IRE](https://www.meetup.com/hackshackersIRE/) in Missouri is holding its weekly open lab
 * Taipei is holding its first [hackathon](https://twitter.com/hackshackersTPE/status/847801339996364801)
 
-{{< tweet https://twitter.com/hackshackersTPE/status/847801339996364801>}}
+{{< tweet 847801339996364801 >}}
 
 **Worth a read:**
 
