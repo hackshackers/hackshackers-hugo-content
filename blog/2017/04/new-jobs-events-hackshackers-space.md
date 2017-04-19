@@ -50,6 +50,7 @@ May | 1-2 | Amman | Jordan | [Arab Media Forum](http://www.arabmediaforum.ae/en/
 May | 1-4 | Jakarta | Indonesia | UNESCO's [conference](http://en.unesco.org/wpfd) for World Press Freedom Day
 May | 4-6 | Galway | Ireland | [MoJoCon](https://mojocon.rte.ie/), the Mobile Journalism Conference
 May | 5-6 | Madrid | Spain | [Digital tools workshop](https://blog.coralproject.net/open-positions/) at the Universidad Autonoma de Madrid
+May | 13–14 | San Francisco | USA| [Come & Play](http://comeandplay.org/) audio storytelling hackathon hosted by BuzzFeed and audiosear.ch
 May | 15-20 | San Salvador | El Salvador | [Forum](http://forocap.elfaro.net/es/2016) for Central American Journalism
 May | 18-20 | Hamburg | Germany | International Press Institute [World Congress](https://ipiwoco2017.sched.com/list/descriptions/) on media freedom in the digital age
 May | 18-21 | Mechelen | Belgium | [Dataharvest](http://journalismfund.eu/event/eijc-dataharvest-2017-mechelen), the European Investigative Journalism Conference
