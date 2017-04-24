@@ -65,7 +65,7 @@ June | 21-23 | Vienna | Austria | Global Editors Network [summit](https://events
 June | 22-25 | Phoenix | USA | Investigative Reporters & Editors [IRE Conference]([http://www.ire.org/conferences/ire2017/](http://www.ire.org/conferences/ire2017/))
 July | 5-7 | Madrid | Spain | Global Fact-Checking [Summit](http://about.poynter.org/node/102080)
 July | 6-7 | Dublin | Ireland | European Data and Computational Journalism [Conference](http://datajconf.com/)
-August | 17-19 | Denver | USA | [WordCamp for Publishers](https://2017-denver.journalist.wordcamp.org/), a Wordpress event
+August | 17-19 | Denver | USA | [WordCamp for Publishers](https://2017-denver.journalist.wordcamp.org/), a WordPress event
 August | 31-1 | Grahamstown | South Africa | [Highway Africa](http://highwayafrica.ru.ac.za/) conference on media, accountability and local governance
 October | 13-14 | Evanston | USA | [Computer + Journalism Symposium](http://cj2017.northwestern.edu/)
 
