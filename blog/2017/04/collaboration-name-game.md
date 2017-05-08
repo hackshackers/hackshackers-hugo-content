@@ -9,7 +9,7 @@ categories:
 
 Welcome to May, hacks and hackers! We've got a theme for this week's newsletter: collaboration. The Collaborative Journalism Summit just wrapped up in New Jersey with the announcement of a [sizable grant](http://centerforcooperativemedia.org/open-call-for-collaborative-reporting-projects-unveiled-at-collaborative-journalism-summit-heres-how-to-apply/) for journalism outlets pursuing collaborative projects.
 
-https://twitter.com/HBCompass/status/860128523868147712
+{{< tweet 860128523868147712 >}}
 
 Plus, several major outlets, including the New York Times, announced major partnerships this week. Keep reading for more details.
 
@@ -19,7 +19,7 @@ Plus, several major outlets, including the New York Times, announced major partn
 * Rosario is holding a [hackathon](https://www.meetup.com/Hacks-Hackers-Rosario/events/239354341/)
 * [IRE](http://www.meetup.com/hackshackersIRE/) in Missouri is holding its weekly open lab
 
-https://twitter.com/hackshackersbhx/status/860404998852816901
+{{< tweet 860404998852816901 >}}
 
 **Worth a read:**
 
@@ -29,7 +29,7 @@ https://twitter.com/hackshackersbhx/status/860404998852816901
 
 **Job openings:**
 
-| Country | Employer | Opening |
+| **Country** | **Employer** | **Opening** |
 | ------ | -------- | ----------- |
 Hong Kong | South China Morning Post | [Infographic designer](http://www.cpjobs.com/hk/job/infographic-designer-ref-cjy-ed-id-1729860)
 Jordan | Arab Reporters for Investigative Journalism (ARIJ) | [Fact-checker](http://en.arij.net/2017/05/02/researcherfact-checker/)
