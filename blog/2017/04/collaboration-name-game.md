@@ -82,3 +82,16 @@ July | [Next Journalism Prize](http://www.nextjournalism.eu/en/) | Nieman Founda
 July | [FoST Prize](https://futureofstorytelling.org/story/2017-fost-prize-submissions-are-open) | Future of Storytelling | Monetary award for innovative and cutting-edge storytelling projects
 September | [INN Days reimbursement](https://form.jotform.com/60836014737961) | INN | Travel stipends for INN member newsrooms traveling to INN Days in Phoenix
 
+<div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="//hackshackers.us1.list-manage.com/subscribe/post?u=c56f2e53d5ed6ef87f8aaa75c&amp;id=fb2bc6f10b" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+<div id="mc_embed_signup_scroll">
+<div class="mc-field-group"><label for="mce-EMAIL">Not subscribed yet? Enter your email to get Hacks/Hackers news and updates in your inbox weekly:  </label></div>
+<div class="mc-field-group"><input id="mce-EMAIL" class="required email" name="EMAIL" type="email" value="" /></div>
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+<div style="position: absolute; left: -5000px;"><input tabindex="-1" name="b_c56f2e53d5ed6ef87f8aaa75c_fb2bc6f10b" type="text" value="" /></div>
+<div class="clear"><input id="mc-embedded-subscribe" class="button" name="subscribe" type="submit" value="Subscribe" /></div>
+</div>
+</form></div>
+<!--End mc_embed_signup-->
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image:src" content="https://hackshackers.com/content-images/about/hackshackers_logomark.png">
