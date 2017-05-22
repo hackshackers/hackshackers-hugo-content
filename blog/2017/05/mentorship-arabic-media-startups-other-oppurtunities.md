@@ -19,11 +19,13 @@ Hope you had a good weekend, hacks and hackers. It's been a long week for journa
 Let's see what Hacks/Hackers groups and our friends are up to in the coming week:
 
 **The week ahead:**
+
 * Brisbane is discussing [Facebook bots](https://www.meetup.com/Hacks-Hackers-Brisbane/events/239654306/)
 * Singapore is building a [social privilege calculator](https://www.meetup.com/Hacks-Hackers-Singapore/events/239998790/)
 * [IRE](http://www.meetup.com/hackshackersIRE/) in Missouri is holding its weekly open lab
 
 **Worth a read:**
+
 * The J-school at UC Berkeley signed a deal with Amazon to stream its investigative documentaries, [discovering a new revenue stream](http://www.niemanlab.org/2017/05/with-a-big-amazon-streaming-deal-berkeleys-journalism-program-is-building-a-new-revenue-stream/?utm_source=Daily+Lab+email+list&utm_campaign=0014e6d63b-dailylabemail3&utm_medium=email&utm_term=0_d68264fd5e-0014e6d63b-396065225) (NiemanLab)
 * The American Press Institute published a strategy study on [forging successful collaborations](https://www.americanpressinstitute.org/publications/reports/strategy-studies/commercial-nonprofit-partnerships/?utm_source=API+Need+to+Know+newsletter&utm_campaign=77ea87d438-EMAIL_CAMPAIGN_2017_05_18&utm_medium=email&utm_term=0_e3bf78af04-77ea87d438-38065925) between commercial and nonprofit media (American Press Institute)
 * Facebook's attempt to cut down on fake news [may have backfired](https://www.theguardian.com/technology/2017/may/16/facebook-fake-news-tools-not-working), according to a review by the Guardian (Guardian)
