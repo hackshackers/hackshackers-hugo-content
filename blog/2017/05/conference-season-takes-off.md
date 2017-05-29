@@ -9,7 +9,7 @@ categories:
 
 It's nearly June, hacks and hackers! School is out and conference season is in. This month, we've got eight events supporting media innovation, ranging from Canada to South Africa to Austria. Where will you be this summer? (Or winter, for those of you in the south.)
 
-[{< tweet 868186051378020354 >}}
+{{< tweet 868186051378020354 >}}
 
 **The week ahead:**
 * Birmingham is holding an [election hack day](https://www.meetup.com/Hacks-Hackers-Birmingham/events/240292842/)
@@ -17,7 +17,7 @@ It's nearly June, hacks and hackers! School is out and conference season is in. 
 * Buenos Aires is hosting a [security workshop](https://www.meetup.com/HacksHackersBA/events/240246777/)
 * [IRE](https://www.meetup.com/hackshackersIRE/) is holding its regular weekly lab
 
-[{< tweet 868172413011361792 >}}
+{{< tweet 868172413011361792 >}}
 
 **Worth a read:**
 * Facebook Instant Articles have been less than successful, but [they're now incorporating](https://techcrunch.com/2017/05/25/facebooks-instant-articles-platform-to-support-google-amp-apple-news/?utm_source=API+Need+to+Know+newsletter&utm_campaign=e58c471779-EMAIL_CAMPAIGN_2017_05_26&utm_medium=email&utm_term=0_e3bf78af04-e58c471779-38065925) Google AMP (TechCrunch)
