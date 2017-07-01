@@ -9,7 +9,7 @@ categories:
 
 Hi, hacks and hackers. Let's give a friendly welcome to [Hacks/Hackers Havana](https://www.meetup.com/Periodistas-y-programadores-Habana/) (a.k.a. Periodistas y programadores de Habana), which just opened up shop in Cuba. Organizer and founder Barbara Maseda said they had higher than expected attendance for their first event. 
 
-https://www.facebook.com/groups/106156989954773/permalink/131278814109257/
+{{< facebook 131278814109257 >}}
 
 If you or anyone you know is interested in starting a chapter where you are, check out the [Start a Group guide](https://hackshackers.com/resources/start-a-group/) on the website.
 
