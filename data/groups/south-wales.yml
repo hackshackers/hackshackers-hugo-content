@@ -3,3 +3,7 @@ externalUrl: 'https://www.meetup.com/Hacks-Hackers-South-Wales-x-South-West/'
 coordinates:
   - 52.407511
   - -3.690216
+founded: 2016
+organizers:
+  - { name: "Glyn Mottershead", link: "https://twitter.com/glynmottershead" }
+  - { name: "Martin Chorley", link: "https://martinjc.com" }
