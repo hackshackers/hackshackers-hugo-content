@@ -1,5 +1,5 @@
 ---
-title: Dream jobs for #newsnerds
+title: "Dream jobs for #newsnerds"
 authors:
 - Samantha Sunne
 date: "2017-07-30"
