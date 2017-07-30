@@ -1,5 +1,5 @@
 ---
-title: Global call: The biggest Media Party is on its way
+title: "Global call: The biggest Media Party is on its way"
 authors:
 - Samantha Sunne
 date: "2017-07-09"
