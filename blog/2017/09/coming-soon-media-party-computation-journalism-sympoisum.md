@@ -11,7 +11,7 @@ Welcome to September, hacks and hackers! We've got half a dozen events lined up 
 
 {{< tweet 903651207188754432 >}}
 
-The [Computation+Journalism Symposimum](http://cj2017.northwestern.edu/), which takes place in October, announced its lineup of speakers, and recommends arranging travel and accommodation now:
+The [Computation+Journalism Symposium](http://cj2017.northwestern.edu/), which takes place in October, announced its lineup of speakers, and recommends arranging travel and accommodation now:
 
 {{< tweet 889243828200329216 >}}
 
