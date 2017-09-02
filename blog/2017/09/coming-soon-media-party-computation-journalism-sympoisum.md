@@ -23,6 +23,7 @@ And don't forget the Hacks/Hackers global planning call next Wednesday. We'll be
 
 * Hacks/Hackers is holding its [monthly open call](https://docs.google.com/document/d/17iqI5TAaTAUHrrr8QPUTpC2psyH66TqrE-AU2x1cILo/edit?usp=sharing)
 * IRE is holding its regular [weekly lab](https://www.meetup.com/hackshackersIRE/events/242782620/)
+* Venice is discussing a new [creativity tool](https://www.meetup.com/it-IT/Hacks-Hackers-Venezia/events/242280614/) for journalists
 
 **Worth a read:**
 
