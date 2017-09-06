@@ -19,7 +19,7 @@ If you found your way to this page, that means you&#8217;re interested in starti
   * The first Tuesday of every month, we hold an [open call][5]
   * Subscribe to [the weekly newsletter][6]
   * Check out the [calendar of all Hacks/Hackers meetups][7] worldwide
-  * Join the [Slack channel][8], if you&#8217;re on Slack
+  * Join the [Slack channel][8], if you&#8217;re on Slack (get an [invite here][13])
 
 **If you&#8217;re planning an event&#8230;**
 
@@ -36,8 +36,9 @@ If you found your way to this page, that means you&#8217;re interested in starti
  [5]: https://calendar.google.com/calendar/render?eid=aHQzMHY1dW5kMzR1cDc2ZTBtaW5lNzNrYmdfMjAxNjA0MDVUMTUwMDAwWiBiMWJmNWVnYzdyM2Nub3FnZWtvNTkzMjhwc0Bn&ctz=America/Chicago&sf=true&output=xml#eventpage_6
  [6]: http://hackshackers.com/blog/tag/newsletter-2/
  [7]: http://matchmaker.hhldn.co.uk/calendars
- [8]: http://newsnerdery.org/
+ [8]: https://hackshackers.slack.com
  [9]: https://github.com/HacksHackersAfrica/wiki/wiki/Organising-Meetings
  [10]: http://erikaowens.com/blog/some-tips-local-hackshackers-organizers
  [11]: /content-images/blog/2016/10/HacksHackersLondonMeetupRolesResponsibilities-Template.docx
  [12]: /content-images/blog/2016/10/Hacks2FHackers-London-Workback-Document-Template.xlsx
+ [13]: https://hackshackersslackers.herokuapp.com/
