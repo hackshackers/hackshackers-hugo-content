@@ -29,7 +29,7 @@ If you found your way to this page, that means you&#8217;re interested in starti
   * Try finding sponsors by making a verbal announcement at your meetup or reaching out to potential sponsors by email
   * Make a venue database for your city, so that you (and future organizers) have a place to find/record potential venues
 
- [1]: http://hackshackers.com/resources/start-a-group/
+ [1]: http://hackshackers.com/resources/join/
  [2]: https://groups.google.com/forum/#!forum/hackshackersorganizers
  [3]: http://connect.hackshackers.com
  [4]: http://meetupnyc.hackshackers.com/
