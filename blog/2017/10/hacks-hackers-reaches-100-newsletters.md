@@ -17,9 +17,12 @@ As a reminder, we also have a [list serv for local organizers](https://groups.go
 
 **The week ahead:**
 
-* Lagos is holding a [workshop](http://bit.ly/2w0Xcs6) on turning spreadsheets into stories
+* Singapore is talking about [virtual reality](https://www.meetup.com/Hacks-Hackers-Singapore/events/243672571/)
 * IRE is holding its regular [weekly lab](https://www.meetup.com/hackshackersIRE/events/243534425/)
-* Miami is [hacking](https://www.meetup.com/Hacks-Hackers-Miami/events/243469654/) with Code for Miami
+* Washington, D.C., is [fighting fake news](https://www.meetup.com/Hacks-Hackers-DC/events/243503300/)
+* Berlin is hosting a [post-election special](https://www.meetup.com/Hacks-Hackers-Berlin/events/243942532/)
+* San Francisco is talking [audience collaboration and engagement](https://www.meetup.com/hacksandhackers/events/244177474/)
+
 
 **Worth a read:**
 
