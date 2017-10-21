@@ -11,7 +11,7 @@ Hello again, hacks and hackers! We have some exciting news for you this week:
 
 {{< iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdlyznxX-zXgjd4MCYfH1YaX0It31Bluwic6tHGwj7n3w7j6A/viewform?embedded=true" width="500" height="200" >}}
 
-You can access the application form [here](https://docs.google.com/forms/d/e/1FAIpQLSdlyznxX-zXgjd4MCYfH1YaX0It31Bluwic6tHGwj7n3w7j6A/viewform?usp=sf_link). It's *very* lightweight and so is the reimbursement process. If you've got any questions, feel free to reach out on Twitter or respond to this email.
+Thanks to help from Mozilla, we are offering grants for local Hacks/Hackers chapters to hold events relating to misinformation. You can access the application form [here](https://docs.google.com/forms/d/e/1FAIpQLSdlyznxX-zXgjd4MCYfH1YaX0It31Bluwic6tHGwj7n3w7j6A/viewform?usp=sf_link). It's *very* lightweight and so is the reimbursement process. If you've got any questions, feel free to reach out on Twitter or respond to this email.
 
 **The week ahead:**
 
