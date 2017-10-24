@@ -7,4 +7,4 @@ Thanks to the Mozilla Foundation and its efforts to fight misinformation on the 
 
 ## Application
 
-{{< iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdlyznxX-zXgjd4MCYfH1YaX0It31Bluwic6tHGwj7n3w7j6A/viewform?embedded=true" width="100%" height="1000" >}}
+{{< iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdlyznxX-zXgjd4MCYfH1YaX0It31Bluwic6tHGwj7n3w7j6A/viewform?embedded=true" width="100%" height="2000" >}}
