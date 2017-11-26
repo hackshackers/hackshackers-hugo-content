@@ -9,7 +9,7 @@ categories:
 
 Happy Sunday, hacks and hackers! Today concludes the enormous [Media Indaba](https://mediaindaba.africa/) event in South Africa, which you may remember from last year, when it was called Media Party Africa.
 
-{{< status 934006721781133312>}}
+{{< tweet 934006721781133312 >}}
 
 Do you know of any Hacks/Hackers-esque events coming up in January? Let us know, because with winter holidays coming up, our events list is starting to run dry.
 
