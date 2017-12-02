@@ -7,11 +7,11 @@ categories:
 - Newsletter
 ---
 
-Welcome to December, hacks and hackers! We're aware of a few media tech events coming up in North America and the U.K, but the calendar is sadly empty for other regions and next year. If you know of an event, respond to this email to share it with the class!
+Welcome to December, hacks and hackers! A new month means a new [global open call](https://hackshackers.com/resources/global-open-call/). If you'd like to know what's going on at Hacks/Hackers, [add the event to your calendar](https://calendar.google.com/calendar/r?cid=b1bf5egc7r3cnoqgeko59328ps@group.calendar.google.com) or contribute to [the agenda](https://docs.google.com/document/d/1XC3mZazLC3JyGlwUb3-ACvHQ8hp7YQjfp8ndPrRaNM0/edit?usp=sharing).
 
-{{< tweet 936600030261252098 >}}
+{{< iframe src="https://www.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=400&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=b1bf5egc7r3cnoqgeko59328ps%40group.calendar.google.com&amp;color=%23853104&amp;ctz=America%2FVancouver" width="400" height="200" >}}
 
-Hacks/Hackers chapters, though, are running at full speed, with meetups this week in Kenya, Ecuador, Singapore, the U.S. and the U.K. Check out these events and other news - like media development grants from the UN - below.
+Hacks/Hackers chapters, meanwhile, are running at full speed, with meetups this week in Kenya, Ecuador, Singapore, the U.S. and the U.K. Check out these events and other news - like media development grants from the UN - below.
 
 **The week ahead:**
 
