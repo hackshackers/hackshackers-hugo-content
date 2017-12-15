@@ -17,7 +17,7 @@ Hope everyone had a good week, hacks and hackers! We have updated the Upcoming E
 * The repeal of Net Neutrality rules in the U.S. [might endanger local news publications](https://www.poynter.org/news/report-repeal-net-neutrality-will-hurt-local-news?utm_source=API+Need+to+Know+newsletter&utm_campaign=c4e4e22c35-EMAIL_CAMPAIGN_2017_12_12&utm_medium=email&utm_term=0_e3bf78af04-c4e4e22c35-38065925), a study from Stanford Law School finds (Poynter)
 * The new 140+ characters allowed on Twitter is [seriously upping engagement](https://www.buzzfeed.com/alexkantrowitz/early-data-shows-longer-tweets-are-a-hit-with-twitters-users?utm_term=.bcJKAOKaWL&utm_content=buffer6826f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#.bu3gAVgoZB), according to a BuzzFeed analysis (BuzzFeed)
 
-{{< tweet 940193340070514688 >}}
+{{< tweet 939242206547927040 >}}
 
 **Job openings:**
 
