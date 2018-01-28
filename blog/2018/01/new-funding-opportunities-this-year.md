@@ -31,7 +31,7 @@ Some of those have applications due soon. Check out these opportunities and othe
 * A startup in the truest sense: NiemanLab profiles [a Canadian news website](http://www.niemanlab.org/2018/01/we-stepped-in-and-started-doing-it-how-one-woman-built-an-award-winning-news-outlet-from-her-dining-room-table/) that a woman started with a staff of her kids (NiemanLab)
 * France and Brazil [may be following Germany's lead](http://mediashift.org/2018/01/netizen-report-fearful-fake-news-lawmakers-france-brazil-want-limit-free-speech-elections/) in making misinformation unlawful (MediaShift)
 
-{{< tweet 954023738118475777 }}
+{{< tweet 954023738118475777 >}}
 
 **Job openings:**
 

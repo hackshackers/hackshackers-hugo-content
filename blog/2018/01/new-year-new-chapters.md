@@ -23,7 +23,7 @@ We want to see even more new chapters next year. If you're interested in being a
 * Facebook is [now emphasizing](https://www.nytimes.com/2018/01/11/technology/facebook-news-feed.html?smid=tw-share&_r=0) user-generated content, as opposed to news items shared on the News Feed (NYT)
 * Chequeado, based in Argentina, has become [one of the world leaders among fact-checking institutions](https://knightcenter.utexas.edu/en/blog/00-19172-how-argentine-innovators-created-chequeado-and-made-it-global-leader-fact-checking), thanks to its innovation and rigorous media research (Knight Center)
 
-{{< tweet 952259961391845376 >}
+{{< tweet 952259961391845376 >}}
 
 **Job openings:**
 
