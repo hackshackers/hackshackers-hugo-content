@@ -24,7 +24,7 @@ Happy Sunday, hacks and hackers! We have our global call coming up this week, so
 * Runrun.es, which got its start on Twitter, is now an [influential and innovative news source](https://knightcenter.utexas.edu/en/blog/00-19265-born-twitter-runrunes-becomes-one-most-important-and-innovative-news-sites-venezuela) in Venezuela (Knight Center)
 * The New York Times got an insider view of [one of the black markets of social media](https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html), finding that many influencers had inflated their followers with bots (NYT)
 
-{<< tweet 957288725431705600 >}}
+{{< tweet 957288725431705600 >}}
 
 **Job openings:**
 
