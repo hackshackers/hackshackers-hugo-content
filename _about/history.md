@@ -15,4 +15,3 @@ Now the three of us have combined forces to build the Hacks/Hackers community. 
 
 We welcome your participation and suggestions.
 
-(testing prose.io)
