@@ -1,6 +1,7 @@
 ---
 title: History
 url: about/history
+published: true
 ---
 The roots of Hacks/Hackers were planted in 2009, based on the interests of three people interested in the intersection of journalism and technology.
 
@@ -13,3 +14,5 @@ From opposite sides of the country, we coincidentally both hit on the name of "H
 Now the three of us have combined forces to build the Hacks/Hackers community. Hacks/Hackers grew from an [initial chapter in the Bay Area](http://meetupbayarea.hackshackers.com) in late 2009 to flourishing chapters in [New York](http://meetupnyc.hackshackers.com), [Boston](http://meetupbos.hackshackers.com), [Austin](http://meetupaustin.hackshackers.com/) and other cities during 2010. Hacks/Hackers has also gone international, with chapters launching in Latin America, Europe and Australia.
 
 We welcome your participation and suggestions.
+
+(testing prose.io)
