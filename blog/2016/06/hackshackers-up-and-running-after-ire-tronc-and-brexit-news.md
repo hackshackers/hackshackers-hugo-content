@@ -38,8 +38,6 @@ But first, consider taking a minute to answer [OpenNews&#8217;s survey][4] on ho
   * A few publishers are experimenting with [publishing and monetizing their content on Medium][15] (Nieman Lab)
   * Poynter assembled [some of the most damning reviews][16] of tronc, Inc.&#8217;s new publicity video (Poynter)
 
-{{< tweet 744883655391117313 >}}
-
 **Job openings:**
 
   * North America:
