@@ -11,6 +11,6 @@ We hold these calls on the first Wednesday of every month. You can subscribe to
 
 Follow the [newsletter](https://hackshackers.com/categories/newsletter/) and [Google group](https://groups.google.com/forum/#!forum/hackshackersorganizers) for agendas and notes.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=b1bf5egc7r3cnoqgeko59328ps%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/b/1/embed?mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=b1bf5egc7r3cnoqgeko59328ps%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FNew_York" style="border-width:0" width="500" height="300" frameborder="0" scrolling="no"></iframe>
 
  [1]: https://twitter.com/HacksHackers
