@@ -16,7 +16,7 @@ The second in-person gathering was [MisinfoCon at MozFest](https://misinfocon.co
 
 # Medium Collection
 
-We host essays, blog posts and updates on the [MisinfoCon website](misinfocon.com). If you are working on a project, have done some research, or feel that you could contribute in another way, [send us a pitch](https://docs.google.com/forms/d/e/1FAIpQLSfYC27JfyoLT4UkdneXWxtx6mLNHFKzpqdanYxlSxPefArgcA/viewform?c=0&w=1). An honorarium of $100 is offered for each piece. Stories should be at least 700 words.
+We host essays, blog posts and updates on the [MisinfoCon website](https://misinfocon.com). If you are working on a project, have done some research, or feel that you could contribute in another way, [send us a pitch](https://docs.google.com/forms/d/e/1FAIpQLSfYC27JfyoLT4UkdneXWxtx6mLNHFKzpqdanYxlSxPefArgcA/viewform?c=0&w=1). An honorarium of $100 is offered for each piece. Stories should be at least 700 words.
 
 # Calendar
 
