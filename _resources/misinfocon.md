@@ -4,7 +4,7 @@ url: resources/misinfocon
 ---
 ![misinfocon-logo](/content-images/resources/misinfocon_black.png)
 
-[MisinfoCon](misinfocon.com) is a global movement focused on building solutions to online trust, verification, fact checking, and reader experience in the interest of addressing misinformation in all of its forms.
+[MisinfoCon](https://misinfocon.com) is a global movement focused on building solutions to online trust, verification, fact checking, and reader experience in the interest of addressing misinformation in all of its forms.
 
 # Summits
 
