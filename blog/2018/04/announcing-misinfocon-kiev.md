@@ -7,7 +7,7 @@ categories:
 - Newsletter
 ---
 
-Big news, hacks and hackers! [MisinfoCon](misinfocon.com), the event that brought together misinformation experts in London and Cambridge, is coming to Kiev, Ukraine. Sign up for the [MisinfoCon mailing list](https://hackshackers.us1.list-manage.com/subscribe?u=c56f2e53d5ed6ef87f8aaa75c&id=69a0f5880c) to get notified when registration opens later this month.
+Big news, hacks and hackers! [MisinfoCon](misinfocon.com), the event that brought together misinformation experts in London and Cambridge, is [coming to Kiev, Ukraine](https://misinfocon.com/misinfocon-kyiv-may-29-30-402677289e92). Sign up for the [MisinfoCon mailing list](https://hackshackers.us1.list-manage.com/subscribe?u=c56f2e53d5ed6ef87f8aaa75c&id=69a0f5880c) to get notified when registration opens later this month.
 
 {{< tweet 984961859274051584 >}}
 
