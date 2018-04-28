@@ -2,7 +2,7 @@
 title: Global call to discuss misinformation efforts
 authors: 
 - Samantha Sunne
-date: "2018-04-22"
+date: "2018-04-29"
 categories:
 - Newsletter
 ---
