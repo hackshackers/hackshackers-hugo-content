@@ -25,6 +25,8 @@ On to the Hacks/Hackers news:
 * What is "measurable journalism", [MediaShift wants to know](http://mediashift.org/2018/04/research-measurable-journalism-tells-us-technological-cultural-shifts-digital-media/), and will it help or harm journalism as a whole adapt to the digital environment? (MediaShift)
 * Medium suddenly yanked their paid membership option for publications, [closing yet another experiment](https://www.cjr.org/business_of_news/medium-publication.php) in the roller coaster of digital journalism monetization (CJR)
 
+{{< tweet 993926021144612864 >}}
+
 **Job openings:**
 
 | Location | Employer | Opening |
