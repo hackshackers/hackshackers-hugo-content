@@ -1,5 +1,5 @@
 ---
-title: 
+title:
 authors:
 - Samantha Sunne
 date: "2017-12-24"
@@ -7,9 +7,7 @@ categories:
 - Newsletter
 ---
 
-Happy holidays, hacks and hackers. This is our last newsletter of 2017, so of course we're doing a 2017 roundup:
-
-{{< tweet 941845979661258755 >}}
+Happy holidays, hacks and hackers. This is our last newsletter of 2017, so of course we're doing a 2017 roundup.
 
 Even though much of the world is hibernating for the holidays, or the winter weather, or both, there are plenty of journalism jobs being posted and events being announced, so read on for more.
 
