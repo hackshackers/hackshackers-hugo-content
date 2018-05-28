@@ -1,6 +1,6 @@
 ---
-title: 
-authors: MisinfoCon Kyiv this week
+title: MisinfoCon Kyiv this week
+authors:
 - Samantha Sunne
 date: "2018-05-27"
 categories:
@@ -55,7 +55,7 @@ June | 4-5 | New York | US | [Ops conference](https://links.ifttt.com/wf/click?u
 June | 13 | Bonn | Germany | [Global Media Forum](https://ijnet.org/en/opportunities/global-media-forum-showcase-startups-germany)
 June | 14-17 | Orlando | US | [Investigative Reporters and Editors](https://links.ifttt.com/wf/click?upn=IX-2Fi-2BCN1pErcSg6j4qopAswQdl6zHJO0C2aU4utXXuLLDF0AtWLVgqSXM7gxnULY_h3EYRiceYmcE2w0m2fAsUdvQn6qbOUOB2Sacjxu96PubrDHVYh90tkbFAxRCFiSKTZ5z4HJrqQvpM53Cwo7VCq0Uwd43g0XgEXsdy7qJLpPoX7HtKA-2FQeSz7xY2e-2Fq7vEdnsmXjs3qbkv24tAwrsgkD2T6OL24NlEjixDcs33twOxo9cLznjNpHOwPzG4LfBFQ0s-2Bcj112fQqCOiT5Zy9sPxJbJGg9YU6bXMnHEXpEio9ya5tu8qFIrApGDkc5JdIPsi2uzm3nqy16UNfxfd7GLfkajo7pz-2FWVcFxtyrGgd-2F4hx05CSw-2BBT5hIRZavcU) conference
 June | 20-21 | Cardiff | UK | [European Data and Computational Journalism Conference](http://datajconf.com/)
-June | 29-30 | Hamburg | Germany | NDR Annual Conference - [Alternative: Facts!](https://netzwerkrecherche.org/termine/konferenzen/jahreskonferenzen/nr-jahreskonferenz-2018/international-guests/) 
+June | 29-30 | Hamburg | Germany | NDR Annual Conference - [Alternative: Facts!](https://netzwerkrecherche.org/termine/konferenzen/jahreskonferenzen/nr-jahreskonferenz-2018/international-guests/)
 
 **Project funding:**
 
