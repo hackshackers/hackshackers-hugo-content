@@ -16,8 +16,6 @@ Greetings, hacks and hackers! Toronto just wrapped up a maximum-capacity [Connec
 
 At the same time, the Jakarta hosted the [Global Forum for Media Development][2], the NYC Media Lab held its [Annual Summit][3] in New York, Y Combinator&#8217;s [Startup Conference][4] took place in New Delhi, _and_ the [Asian Investigative Journalism Conference][5] happened in Kathmandu. It was a big weekend for media innovation all over the world.
 
-{{< tweet 779053974364295168 >}}
-
 {{< tweet 780038746984943616 >}}
 
 **The week ahead:**
