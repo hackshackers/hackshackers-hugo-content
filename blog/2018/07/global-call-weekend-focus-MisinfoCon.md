@@ -1,5 +1,5 @@
 ---
-title: Global call this weekend will focus on MisinfoCon
+title: Global call this week will focus on MisinfoCon
 authors:
 - Samantha Sunne
 date: "2018-07-08"
