@@ -1,5 +1,5 @@
 ---
-title: MisinfoCon DC updates and #journalismjobs
+title: MisinfoCon DC updates and journalismjobs
 authors: 
 - Samantha Sunne
 date: "2018-07-15"
