@@ -27,8 +27,6 @@ Learn all of those skills and more this week, at H/H gatherings around the world
 * A pair of journalists spent a year trying to [distill journalism innovation](http://www.niemanlab.org/2018/07/54-newsrooms-9-countries-and-9-core-ideas-heres-what-two-researchers-found-in-a-yearlong-quest-for-journalism-innovation/) into a few concise goals (NiemanLab)
 * German footballers, Google searches and gender bias all made GIJN's [Data Journalism Top 10](https://gijn.org/2018/07/19/gijns-data-journalism-top-10-footballers-salaries-google-trends-and-gender-bias-with-pudding/) this week (GIJN)
 
-{{< tweet 2630583246967756 >}}
-
 **Upcoming events:**
 
 | Month | Day | City | Country | Event |
