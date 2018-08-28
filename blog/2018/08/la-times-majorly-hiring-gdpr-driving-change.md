@@ -11,7 +11,7 @@ It's a busy week, hacks and hackers! The reinvigorated LA Times is hiring for [a
 
 {{< tweet 1033020846502109184 >}}
 
-Next week,our regular open call will focus on the misinformation-related events we've got on the horizon. (Hint: there are quite a few.) Do you know anyone who would be interested in doing a misinformation event in Asia? Please let us know.
+Next week,our regular [open call](https://hackshackers.com/resources/global-open-call/) will focus on the misinformation-related events we've got on the horizon. (Hint: there are quite a few.) Do you know anyone who would be interested in doing a misinformation event in Asia? Please let us know.
 
 {{< iframe src="https://calendar.google.com/calendar/b/1/embed?mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=b1bf5egc7r3cnoqgeko59328ps%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FNew_York" width="500" height="300" >}}
 
