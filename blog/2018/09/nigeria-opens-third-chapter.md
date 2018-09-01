@@ -2,7 +2,7 @@
 title: Nigeria opens a third H/H chapter
 authors: 
 - Samantha Sunne
-date: "2018-09-02"
+date: "2018-09-01"
 categories:
 - Newsletter
 ---
