@@ -26,8 +26,6 @@ Also - do you know of any journalism and/or tech-related events coming up this s
 * The new [Comprova initiative](https://knightcenter.utexas.edu/blog/00-19902-24-brazilian-media-outlets-will-fact-check-viral-content-ahead-elections-part-new-comp), meaning "Prove" in Portuguese, will see 24 media outlets in Brazil cross-checking each other, a method that was found productive in Europe (Knight Center)
 * Podcasts get millions of listeners every week. Should they install [a paywall](http://www.niemanlab.org/2018/07/enough-with-the-netflix-for-audio-podcast-companies-should-take-a-cue-from-meditation-apps-instead/)? And how? (NiemanLab)
 
-{{< tweet 1011640534711128064 >}}
-
 **Upcoming events:**
 
 | Month | Day | City | Country | Event |
