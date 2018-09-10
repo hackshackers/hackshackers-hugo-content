@@ -15,7 +15,7 @@ Lots. Our mission is to spread knowledge. information and ideas. Local chapter a
 
 ### How Do I Get Involved?
 
-Is there a [chapter in your area?](/groups) Join it. If you're interested in starting a chapter in your city, [tell us more about yourself and what you have in mind](/resources/join/). Also, you can email us at [volunteers@hackshackers.com](mailto:volunteers@hackshackers.com) if you just want to get involved.
+Is there a [chapter in your area?](/groups) Join it. If you're interested in starting a chapter in your city, [tell us more about yourself and what you have in mind](/resources/start-a-group/). If you have any questions, feel free to [email us](mailto:samantha@hackshackers.com).
 
 ### What's Behind the Name?
 
