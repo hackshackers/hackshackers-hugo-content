@@ -9,7 +9,7 @@ categories:
 
 Welcome, Scotland, to the Hacks/Hackers family! The H/H Scotland chapter will be holding events in Glasgow, Edinburgh and Stirling, and [their inaugural event](https://www.eventbrite.co.uk/e/hackshackers-scotland-launch-meetup-tickets-50478309984) is next Thursday. Link your Scottish friends to their [Meetup page](https://www.meetup.com/Hacks-Hackers-Scotland/) and [Twitter account](https://twitter.com/HacksHackersSCO).
 
-[{{< tweet 1042821038764113922?s=19 >}}
+[{{< tweet 1042821038764113922 >}}
 
 Next Wednesday, join us on our [monthly open call](https://hackshackers.com/resources/global-open-call/). We'll be talking about [CredCon](https://www.credcon.org/), [MisinfoCon London](london.misinfocon.com), and other exciting events.
 
