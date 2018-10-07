@@ -27,7 +27,7 @@ In the meantime, don't forget [Scotland is holding its first Hacks/Hackers meetu
 * The European Parliament hosted a conference for fact-checking organizations to discuss collaboration with politicians ahead of the elections. But fact-checkers are wary of collaborating because of politicians’ limited self-awareness in fact checking practices, [Poynter reports](https://www.poynter.org/news/eu-wants-support-fact-checking-fact-checkers-arent-sure-they-want-it). (Poynter)
 * A report looking at Canadian newspapers showed that the number of news stories being published each day has been cut in half in the last decade. [J-Source analyzed data from the report](http://j-source.ca/article/new-report-finds-newspaper-cuts-bad-news-for-local-political-coverage/) and wrote about ways Canadian print journalism landscape is changing. (J-Source)
 
-{{< tweet 1045732713859358720)>}}
+{{< tweet 1045732713859358720 >}}
 
 **Upcoming events:**
 
