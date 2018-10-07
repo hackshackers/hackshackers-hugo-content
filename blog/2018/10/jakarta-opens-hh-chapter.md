@@ -1,6 +1,6 @@
 ---
-title: 
-authors: Jakarta opens H/H chapter
+title: Jakarta opens H/H chapter
+authors:
 - Samantha Sunne
 date: "2018-10-07"
 categories:
