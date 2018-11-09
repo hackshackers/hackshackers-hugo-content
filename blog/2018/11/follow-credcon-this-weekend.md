@@ -84,6 +84,3 @@ January | [Entrepreneurial Journalism cohort](http://bit.ly/ejeducation)
 <meta name="twitter:card" content="summary">
 
 <meta name="twitter:image:src" content="https://hackshackers.com/content-images/about/hackshackers_logomark.png">
-
-Newsletter #156 Nov 11.md
-Displaying Newsletter #156 Nov 11.md.
