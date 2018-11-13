@@ -1,5 +1,5 @@
 ---
-title: Follow #CredCon this weekend
+title: Follow CredCon this weekend
 authors: 
 - Samantha Sunne
 date: "2018-11-11"
