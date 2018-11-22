@@ -1,6 +1,6 @@
 ---
 title: LA Times is majorly hiring; GDPR is driving change
-authors: 
+authors:
 - Samantha Sunne
 date: "2018-08-28"
 categories:
@@ -8,8 +8,6 @@ categories:
 ---
 
 It's a busy week, hacks and hackers! The reinvigorated LA Times is hiring for [all sorts of positions](http://www.journalismjobs.com/job-listings?keywords=los+angeles+times&industry=&position=&location=&jobType=&salary=&datePosted=&diversity=), including correspondents in Beijing, Singapore and Seoul, as well as positions like "Transformation project manager" and "Senior innovation editor."
-
-{{< tweet 1033020846502109184 >}}
 
 Next week,our regular [open call](https://hackshackers.com/resources/global-open-call/) will focus on the misinformation-related events we've got on the horizon. (Hint: there are quite a few.) Do you know anyone who would be interested in doing a misinformation event in Asia? Please let us know.
 
