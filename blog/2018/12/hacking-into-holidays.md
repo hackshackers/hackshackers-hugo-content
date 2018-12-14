@@ -25,7 +25,7 @@ If you want your job posting, event or project funding shared in the newsletter,
 * Google is stepping into the voice-driven news app game with [a Google News app](http://www.niemanlab.org/2018/12/google-is-launching-a-voice-driven-version-of-google-news-for-smart-speakers-and-phones/) that uses Google Assistant technology to give personalized news briefings (NiemanLab)
 * Is there a link between firefighters and cancer? How are survivors of gun violence coping? Open News [rounded up these recent projects](https://source.opennews.org/articles/things-you-made-dec-6/) and more from news orgs around the U.S. (Open News)
 
-{{< tweet https://twitter.com/gijn/status/1073642031497576457 >}}
+{{< tweet 1073642031497576457 >}}
 
 **Upcoming events:**
 
