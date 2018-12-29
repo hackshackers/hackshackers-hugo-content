@@ -12,8 +12,6 @@ categories:
 
 Happy Friday the 13th, hacks and hackers. [#HHConnect][1] Miami fires off today and continues throughout the weekend:
 
-{{< tweet 726958859764510720 >}}
-
 **The week ahead:**
 
   * [Miami][2] and [IRE][3] are holding their regular weekly open labs
