@@ -9,8 +9,6 @@ categories:
 
 Greetings, hacks and hackers! If you missed the MisinfoCon gathering last week in DC, check out [the hashtag](https://twitter.com/hashtag/misinfocon?src=hash) for some of the best tidbits:
 
-{{< tweet 1026487602982150146 >}}
-
 **Happening this week:**
 
 * Nigeria is [holding open labs](https://docs.google.com/forms/d/1YM2sXg18otgVDMJpBiZFjXs-mJkBP1NITyauLl5ZooA/viewform?edit_requested=true) in Abuja and Lagos
