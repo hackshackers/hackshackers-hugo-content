@@ -7,7 +7,7 @@ categories:
 - Newsletter
 ---
 
-Guess what, hacks and hackers!  You're in the news. This month, the [Stirling News](https://www.stirlingnews.co.uk/news/17381678.misinfoconx-in-stirling-efforts-to-curb-spread-of-false-information/?ref=twtrec), [The Times](https://www.scotsman.com/future-scotland/tech/misinfoconx-event-to-combat-fake-news-heads-to-scotland-1-4859339) and [The Scotsman](https://www.scotsman.com/future-scotland/tech/misinfoconx-event-to-combat-fake-news-heads-to-scotland-1-4859339) all profiled MisinfoCon and H/H, due to [MisinfoConX Scotland](https://www.eventbrite.co.uk/e/misinfoconx-scotland-tickets-53180015859) happening this week.
+Guess what, hacks and hackers!  You're in the news. This month, the [Stirling News](https://www.stirlingnews.co.uk/news/17381678.misinfoconx-in-stirling-efforts-to-curb-spread-of-false-information/?ref=twtrec), [The Times](https://www.thetimes.co.uk/edition/scotland/russia-infiltration-not-taken-seriously-by-some-hwfm0k02b) and [The Scotsman](https://www.scotsman.com/future-scotland/tech/misinfoconx-event-to-combat-fake-news-heads-to-scotland-1-4859339) all profiled MisinfoCon and H/H, due to [MisinfoConX Scotland](https://www.eventbrite.co.uk/e/misinfoconx-scotland-tickets-53180015859) happening this week.
 
 {{< tweet 1088527608873127936 >}}
 
