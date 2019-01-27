@@ -9,8 +9,6 @@ categories:
 
 Welcome back, hacks and hackers! We're pleased to announce the first [MisinfoConX](https://www.eventbrite.co.uk/e/misinfoconx-scotland-tickets-53180015859) in Scotland:
 
-{{< tweet 1068503329880383488 >}}
-
 MisinfoConX is a series of local, community-focused conferences aiming to combat misinformation in communities around the world. The first will take place in Stirling next month, and [early bird tickets are available now](https://www.eventbrite.co.uk/e/misinfoconx-scotland-tickets-53180015859).
 
 **Worth a read:**
