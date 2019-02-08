@@ -11,7 +11,9 @@ Hello, hacks and hackers! The [European Investigative Journalism Conference](htt
 
 {{< tweet 1093093209163603968 >}}
 
-Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfzb0F6Vwf1CBQrrrld9fBilh0rG9Mfll_BOeuu6hgshoT_Ew/viewform?fbclid=IwAR1A1J6nVhmFm0PJDhtoE7zbwoTFqItUcvz15wtC_M0GVGVllbiKKesbQ9A) to submit ideas for speakers, sessions, tools or talks, and represent Hacks/Hackers! 
+Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfzb0F6Vwf1CBQrrrld9fBilh0rG9Mfll_BOeuu6hgshoT_Ew/viewform?fbclid=IwAR1A1J6nVhmFm0PJDhtoE7zbwoTFqItUcvz15wtC_M0GVGVllbiKKesbQ9A) to submit ideas for speakers, sessions, tools or talks, and represent Hacks/Hackers!
+
+If you're in the market for a new job, First Draft News is hiring researchers, editors, designers and other full-time staffers for their new offices in London and New York. Check out [their job postings here](https://firstdraftnews.org/we-are-hiring-jan2019/).
 
 **Happening this week:**
 
@@ -62,6 +64,10 @@ July | 19-21 | Toronto | Canada | [International Conference on Social Media & So
 
 | Location | Employer | Opening |
 | -------- | -------- | ------- |
+UK | First Draft News | [Lead Designer](https://www.ziprecruiter.com/job/366af402)
+UK | First Draft News | [Research Analyst](https://www.ziprecruiter.com/job/15973393)
+UK | First Draft News | [Digital Content Producer](https://www.ziprecruiter.com/job/ad235d37)
+UK | First Draft News | [Product Manager](https://www.ziprecruiter.com/job/af108513)
 UK | Fast Track | [Senior Researcher & Project Manager](https://www.journalism.co.uk/media-jobs/senior-researcher-project-manager/s75/a733697/)
 UK | Hearst | [Audience Development Executive](https://www.cisionjobs.com/job/90923/hearst-audience-development-executive/)
 UK | The Sun Online | [SEO Editor](https://www.journalism.co.uk/media-jobs/seo-editor/s75/a734361/)
