@@ -7,7 +7,7 @@ categories:
 - Newsletter
 ---
 
-Greetings, hacks and hackers! The [International Journalism Festival](https://www.journalismfestival.com/) happened this weekend in Perugia, Italy, and if you weren't lucky enough to snag a ticket, the [#IFJ19](https://twitter.com/search?q=%23ifj19) tweeters have you covered.
+Greetings, hacks and hackers! The [International Journalism Festival](https://www.journalismfestival.com/) happened this weekend in Perugia, Italy, and if you weren't able to be there, the [#IFJ19](https://twitter.com/search?q=%23ifj19) tweeters have you covered.
 
 {{< tweet 1113688849945776128 >}}
 
