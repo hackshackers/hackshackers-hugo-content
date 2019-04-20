@@ -1,5 +1,5 @@
 ---
-Title: A packed week for H/H groups, and a burst of job postings
+Title: A packed week for local chapters, and a burst of job postings
 authors: 
 - Samantha Sunne
 date: "2019-04-21"
