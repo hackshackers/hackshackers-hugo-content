@@ -26,8 +26,6 @@ Jennifer 8. Lee is an author and a journalist focused on the evolv­ing infra­
 
 [Aron Pilhofer][5], co-founder, is editor of Interactive News Technologies at [The New York Times][6], overseeing a news-focused team of journalist/developers who build dynamic, data-driven applications to enhance The Times&#8217; reporting online. He also is co-founder of DocumentCloud, Knight Foundation-funded organization designed to improve journalism by making original source documents easy to find, share, read and collaborate on. He joined The Times in 2005 as a projects editor on the paper&#8217;s newly expanded computer-assisted reporting team, where he specialized in stories related to money, politics and influence for the politics desk and Washington bureau. Prior to that, Pilhofer was database editor at the Center for Public Integrity in Washington, where he began an ongoing project in 2002 to track a new form of political non-profit organization. The Center&#8217;s reporting was among the first to highlight the hole in campaign finance regulations that allows these groups to pump hundreds of millions into elections. Earlier, Pilhofer was on the national training staff of Investigative Reporters and Editors and worked for a number of years as a statehouse and projects reporter for Gannett newspapers in New Jersey and Delaware.
 
----
-
 ## Communications
 
 {{< figure src="/content-images/about/sunne.jpg" >}}
