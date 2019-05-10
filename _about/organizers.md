@@ -30,6 +30,8 @@ Jennifer 8. Lee is an author and a journalist focused on the evolv­ing infra­
 
 ## Communications
 
+{{< figure src="/content-images/about/sunne.jpg" >}}
+
 [Samantha Sunne][22] leads communications at Hacks/Hackers, providing support to chapter organizers and maintaining the monthly global open call. She is a freelance journalist based in New Orleans, Louisiana. She is a recipient of two national awards and three national grants for investigative reporting. She speaks at conferences, universities and newsrooms around the world, teaching digital tools and tech literacy for journalists, and publishes the [Tools for Reporters][23] newsletter. Her work has been published by the Washington Post, NPR and Reuters, and recommended by the Poynter Institute and the Harvard Shorenstein Center on Media, Politics and Public Policy. If you have any questions about Hacks/Hackers, you can reach her at samantha[at]hackshackers.com.
 
 
