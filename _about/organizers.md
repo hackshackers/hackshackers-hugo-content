@@ -2,7 +2,7 @@
 title: Who We Are
 url: about/organizers
 ---
-## Founders
+## Board Members
 
 {{< figure src="/content-images/about/richgordon-300dpi-smaller.jpg" >}}
 
@@ -16,17 +16,21 @@ url: about/organizers
 
 ---
 
+{{< figure src="/content-images/about/jenny8leeninaportrait-150x150.jpg" >}}
+
+Jennifer 8. Lee is an author and a journalist focused on the evolv­ing infra­struc­ture of news and information, specifically thinking about the business models. She started her journalism career at The New York Times at age 24 and worked for nine years. NPR has called her a &#8220;conceptual scoop artist&#8221; for her feature stories. She also authored [The Fortune Cookie Chronicles][7], a book on how Chinese food is all-American, which was featured on [The Colbert Report][8] and [TED.com][9]. She has made dumplings with Martha Steward and on the Today Show during the Beijing Olympics. She has played a lead role with the [Knight News Challenge][10], [News Foo][11], and the [SXSW][12] news events. She serves on the [advisory board for the Nieman Foundation][13], the board of the [Center for Public Integrity][14], the [Young Lions Committee of the New York Public Library][15], and the executive committee of the [Asian American Writers Workshop][16]. She is also co-producer of a documentary-in-progress called [The Search for General Tso][17] with the folks at [Wicked Delicate][18]. She majored in applied math and economics at Harvard, which makes her very comfortable with geeks. In her spare time she is optimistically writing a movie script on the Secret Court of 1920. She loves startups and startup founders.
+
+## Co-Founders
+
 {{< figure src="/content-images/about/aron.jpg" >}}
 
 [Aron Pilhofer][5], co-founder, is editor of Interactive News Technologies at [The New York Times][6], overseeing a news-focused team of journalist/developers who build dynamic, data-driven applications to enhance The Times&#8217; reporting online. He also is co-founder of DocumentCloud, Knight Foundation-funded organization designed to improve journalism by making original source documents easy to find, share, read and collaborate on. He joined The Times in 2005 as a projects editor on the paper&#8217;s newly expanded computer-assisted reporting team, where he specialized in stories related to money, politics and influence for the politics desk and Washington bureau. Prior to that, Pilhofer was database editor at the Center for Public Integrity in Washington, where he began an ongoing project in 2002 to track a new form of political non-profit organization. The Center&#8217;s reporting was among the first to highlight the hole in campaign finance regulations that allows these groups to pump hundreds of millions into elections. Earlier, Pilhofer was on the national training staff of Investigative Reporters and Editors and worked for a number of years as a statehouse and projects reporter for Gannett newspapers in New Jersey and Delaware.
 
 ---
 
-## Key leaders
+## Communications
 
-{{< figure src="/content-images/about/jenny8leeninaportrait-150x150.jpg" >}}
-
-Jennifer 8. Lee is an author and a journalist focused on the evolv­ing infra­struc­ture of news and information, specifically thinking about the business models. She started her journalism career at The New York Times at age 24 and worked for nine years. NPR has called her a &#8220;conceptual scoop artist&#8221; for her feature stories. She also authored [The Fortune Cookie Chronicles][7], a book on how Chinese food is all-American, which was featured on [The Colbert Report][8] and [TED.com][9]. She has made dumplings with Martha Steward and on the Today Show during the Beijing Olympics. She has played a lead role with the [Knight News Challenge][10], [News Foo][11], and the [SXSW][12] news events. She serves on the [advisory board for the Nieman Foundation][13], the board of the [Center for Public Integrity][14], the [Young Lions Committee of the New York Public Library][15], and the executive committee of the [Asian American Writers Workshop][16]. She is also co-producer of a documentary-in-progress called [The Search for General Tso][17] with the folks at [Wicked Delicate][18]. She majored in applied math and economics at Harvard, which makes her very comfortable with geeks. In her spare time she is optimistically writing a movie script on the Secret Court of 1920. She loves startups and startup founders.
+[Samantha Sunne][22] leads communications at Hacks/Hackers, providing support to chapter organizers and maintaining the monthly global open call. She is a freelance journalist based in New Orleans, Louisiana. She is a recipient of two national awards and three national grants for investigative reporting. She speaks at conferences, universities and newsrooms around the world, teaching digital tools and tech literacy for journalists, and publishes the [Tools for Reporters][23] newsletter. Her work has been published by the Washington Post, NPR and Reuters, and recommended by the Poynter Institute and the Harvard Shorenstein Center on Media, Politics and Public Policy. If you have any questions about Hacks/Hackers, you can reach her at samantha[at]hackshackers.com.
 
 
  [1]: http://www.linkedin.com/in/richgordon
@@ -50,3 +54,5 @@ Jennifer 8. Lee is an author and a journalist focused on the evolv­ing infra­
  [19]: http://chryswu.com/
  [20]: http://twitter.com/MacDiva
  [21]: http://pinboard.in/u:MacDiva
+ [22]: http://www.samanthasunne.com/
+ [23]: https://toolsforreporters.com/
