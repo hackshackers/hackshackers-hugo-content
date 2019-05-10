@@ -9,8 +9,6 @@ categories:
 
 Greetings, hacks and hackers! This week,hacks and hackers in London are learning about audience engagement, content discovery and [that famous BBC video verification](https://www.poynter.org/news/how-bbc-verified-video-grisly-murder-cameroon-step-step).
 
-{{< tweet 1048178006265647105 >}}
-
 You can [follow them on Eventbrite](https://www.eventbrite.co.uk/o/hackshackers-london-7638659927) to keep up with their monthly events in London.
 
 **Worth a read:**
@@ -18,8 +16,6 @@ You can [follow them on Eventbrite](https://www.eventbrite.co.uk/o/hackshackers-
 * A report from the Institute for Nonprofit News shows that nonprofit newsrooms in the U.S. [bring in about $350 million in total annual revenue](http://www.niemanlab.org/2018/10/this-is-the-state-of-nonprofit-news-in-2018/?utm_source=API+Need+to+Know+newsletter&utm_campaign=2f6930a787-EMAIL_CAMPAIGN_2018_10_03_12_09&utm_medium=email&utm_term=0_e3bf78af04-2f6930a787-45825441) (NiemanLab)
 * Tanzania recently made it a crime to publicly question official government statistics. [The Center for Global Development](https://www.cgdev.org/blog/tanzania-outlaws-fact-checking-seeks-world-bank-aid-create-new-facts) looks at what the World Bank is doing to help (Center for Global Development)
 * Simmons Research created [a News Media Trust Index](https://www.simmonsresearch.com/2018/10/03/rise-doubters-consumers-weigh-fake-news-media-trustworthiness/) based on US respondents’ trustworthiness in 38 large, well-known news sources. Their study found that 13 percent of respondents found none of the news sources trustworthy (Simmons Research)
-
-{{< tweet 1049363311429636098 >}}
 
 **Upcoming events:**
 
