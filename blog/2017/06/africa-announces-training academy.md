@@ -9,11 +9,7 @@ categories:
 
 Hacks/Hackers Africa is taking part in a massive 12-country collaboration called [StoryLab Academy](https://medium.com/code-for-africa/storylab-academy-will-support-newsrooms-in-12-african-cities-35e0b7e49dba). Members can sign up for MOOCs, public workshops and other training opportunities to advance their digital journalism efforts.
 
-{{< tweet 872766032674525188 >}}
-
-Plus, Lagos held its very first meetup in Nigeria:
-
-{{< tweet 876036586986721280 >}}
+Plus, Lagos held its very first meetup in Nigeria.
 
 **The week ahead:**
 
