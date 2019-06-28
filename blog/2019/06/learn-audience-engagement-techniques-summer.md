@@ -9,8 +9,6 @@ categories:
 
 Hello, hacks and hackers! The Knight Center is offering a new course in audience engagement called "[Know your audience: Strategies for increasing reach & engagement of your journalism](https://journalismcourses.org/AUD0619.html)" this summer.
 
-{{< tweet 140694315326464000 >}}
-
 The course will run from July 15 to August 11 and is taught by the Texas Tribune’s chief audience officer Amanda Zamora. Find out more [here](https://journalismcourses.org/AUD0619.html).
 
 **Worth a read:**
@@ -18,8 +16,6 @@ The course will run from July 15 to August 11 and is taught by the Texas Tribune
 * Twitter announced it will [no longer attach locations to tweets](https://www.niemanlab.org/2019/06/twitter-is-turning-off-location-data-on-tweets-a-small-win-for-privacy-but-a-small-loss-for-journalists-and-researchers/), except for photos, striking a win for privacy but a loss for social media geolocation.
 * Poynter held its sixth annual international fact-checking summit last weekend, and shared [nine of its biggest lessons](https://www.poynter.org/ifcn/2019/9-fact-checking-lessons-from-global-fact-6/).
 * Yongjin Kim, editor-in-chief and chief executive of the Korea Center for Investigative Journalism, says it's time for investigative reporters to develop a "[video state of mind](https://www.icij.org/blog/2019/06/investigative-journalists-should-develop-a-video-state-of-mind/)."
-
-{{< tweet 1141421599171604480 >}}
 
 **Upcoming events:**
 
