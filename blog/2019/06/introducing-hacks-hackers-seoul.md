@@ -9,8 +9,6 @@ categories:
 
 Hey everyone, please welcome the newest branch of the Hacks/Hackers family: Seoul just opened [a chapter](https://www.meetup.com/Hacks-Hackers-Seoul/) in conjunction with [Data Journalism Korea](https://www.facebook.com/groups/DataJournalismKR/).
 
-{{< tweet 2389502137993136 >}}
-
 They had their [first event on Friday](https://www.meetup.com/Hacks-Hackers-Seoul/events/262573295/) and are taking new members on [their Meetup group](https://www.meetup.com/Hacks-Hackers-Seoul/).
 
 **Worth a read:**
@@ -18,8 +16,6 @@ They had their [first event on Friday](https://www.meetup.com/Hacks-Hackers-Seou
 * Slack, a communication app that many newsrooms and tech teams have relied on for the past few years, [just became a publicly traded company](https://www.niemanlab.org/2019/06/congratulations-to-slack-the-now-public-company-that-keeps-thousands-of-newsrooms-humming/?utm_source=Weekly+Lab+email+list&utm_campaign=4cd89e2e0f-weeklylabemail&utm_medium=email&utm_term=0_8a261fca99-4cd89e2e0f-396331065) (Nieman Lab)
 * The New York Times created a [publicly available data boot camp](https://open.nytimes.com/how-we-helped-our-reporters-learn-to-love-spreadsheets-adc43a93b919) to teach its reporters some data journalism basics like navigating spreadsheets, analyzing data and translating the findings into impactful stories (The New York Times)
 * Jeremie Harris, the co-founder of a startup geared at mentoring data scientists, [compiled a checklist](https://towardsdatascience.com/why-youre-not-a-job-ready-data-scientist-yet-1a0d73f15012) of necessary skills data scientists need to know to be able to land jobs, which comes in handy for data journalists too (Towards Data Science)
-
-{{< tweet 1138809832608292864 >}}
 
 **Upcoming events:**
 
