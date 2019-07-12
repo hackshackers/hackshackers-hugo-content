@@ -7,11 +7,11 @@ categories:
 - Newsletter
 ---
 
-Greetings, hacks and hackers! [MisinfoCon](https://misinfocon.com/), a joint project between Hacks/Hackers, Mozilla, and other organizations, is returning to MozFest later this year. MisinfoCon London will be a one-day event on the 23rd of October, in the opening days of [MozFest](https://www.mozillafestival.org/en/). Mark your calendars!
+Greetings, hacks and hackers! [MozFest](https://www.mozillafestival.org/en/) is still [accepting proposals](https://www.mozillafestival.org/en/proposals/) for sessions at the open web festival, so get your pitches in.
 
 {{< tweet 1148678721768964099 >}}
 
-Also, Mozilla is still [accepting proposals](https://www.mozillafestival.org/en/proposals/) for sessions at the open web festival, so get your pitches in.
+And check out the wide array of Hacks/Hackers-type events all over the world at the bottom of this newsletter. 
 
 **Happening this week:**
 
