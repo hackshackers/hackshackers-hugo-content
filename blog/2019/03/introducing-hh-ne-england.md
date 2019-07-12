@@ -13,15 +13,11 @@ Hi again, hacks and hackers! This week we're excited to announce our 116th chapt
 
 In other news, please join us on our [regular global call](https://hackshackers.com/resources/global-open-call/) on Wednesday if you have any questions or anything to share about your local HH group.
 
-{{< tweet 1093203739090006017 >}}
-
 **Worth a read:**
 
 * The Knight Foundation announced that [it will invest $300 million](https://knightfoundation.org/press/releases/knight-foundation-focuses-on-building-the-future-of-local-news-in-300-million-five-year-commitment) into building the future for local news over the next five years (Knight Foundation)
 * The Membership Puzzle Project spoke to supporters of independent news sites and [found 25 ways](https://gijn.org/2019/02/18/25-ways-community-members-can-support-your-newsroom/) for community members to support news in non-monetary ways like helping with language translation, and testing products (GIJN)
 * After Uganda implemented a daily social media tax, millions of Ugandans [stopped using social media](https://www.theguardian.com/global-development/2019/feb/27/millions-of-ugandans-quit-internet-after-introduction-of-social-media-tax-free-speech) and critics argue that it was implemented to restrict free speech (The Guardian)
-
-{{< tweet 1097826494133481472 >}}
 
 **Upcoming events:**
 
