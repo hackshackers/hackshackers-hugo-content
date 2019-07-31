@@ -9,8 +9,6 @@ categories:
 
 Hi, hacks and hackers! The Knight Foundation just announced an enormous [$50 million investment](https://medium.com/trust-media-and-democracy/strengthening-democracy-in-the-digital-age-knights-50-million-investment-in-a-new-field-of-1fc4fadf5ec4) in the study of technology and democracy. This support [helped establish](https://twitter.com/uncmjschool/status/1153278785158033409?s=11) a new Center for Information, Technology and Public Life at the University of North Carolina.
 
-{{< tweet 1153278785158033409?s=11 >}}
-
 For funds and resources you can access yourself, check out the Opportunities list at the bottom of this newsletter.
 
 **The week ahead:**
@@ -23,8 +21,6 @@ For funds and resources you can access yourself, check out the Opportunities lis
 * Polis is collaborating with the Google News Initiative to reach out to newsrooms around the world to see how they’re incorporating AI and [wrote about what they’ve learned](https://blogs.lse.ac.uk/polis/2019/07/17/the-journalism-ai-global-survey-what-weve-learned-so-far/) so far (Polis)
 * Earlier this month, the Investigative Reporting Workshop launched [The Accountability Project](https://investigativereportingworkshop.org/2019/07/10/introducing-the-accountability-project-a-new-resource-for-public-data/), a tool that aggregates public datasets in an easy to use, searchable database (Investigative Reporting Workshop)
 * The Washington Post is establishing [a computational political journalism lab](https://www.niemanlab.org/2019/07/how-to-cover-11250-elections-at-once-heres-how-the-washington-posts-new-computational-journalism-lab-will-tackle-2020/) ahead of the 2020 U.S. election  to develop tools that help journalists everywhere cover elections (Nieman Lab) 
-
-{{< tweet 1150170259766304769 >}}
 
 **Upcoming events:**
 
