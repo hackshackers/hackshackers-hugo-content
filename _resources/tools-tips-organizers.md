@@ -2,40 +2,40 @@
 title: Tools and tips for organizers
 url: resources/tools-tips-organizers
 ---
-If you found your way to this page, that means you&#8217;re interested in starting a new chapter or wanting to get more involved. Great! Here you can find a list of resources as well as some crowdsourced tips for organizers.
+Do you want to start a new chapter, join an existing group, or just get more involved in general? Fantastic! Here, we compiled a list of resources as well as some crowdsourced tips from other organizers.
 
 **If you’re rebooting a chapter or starting a new one&#8230;**
 
-  * Read the [Rules (and suggestions) for New Chapters][1]
-  * Ask questions on the [Google Group for organizers][2]
-  * Consider holding a [Connect event][3]
-  * Start with events every other month, rather than every month (&#8220;Do less better&#8221;)
-  * Hold a meeting or retreat just for organizers, to plan a meeting for all members.
-  * Email us at <meetup@hackshackers.com>. We’ll set up a Meetup page for you, like [meetupnyc.hackshackers.com][4], though some groups have used Eventbrite and Facebook too.
-  * If you need some startup money, let us know. We might have some money (not much) we can funnel to startup chapters, but $50 can go a long way in a bar toward appetizers.
+  * Check out the [rules and recommendations for new groups][1]
+  * Read our [list of suggested meetups](https://hackshackers.com/resources/suggested-meetups/)
+  * Or Hacks/Hackers Africa's [list of potential meetups][9]
+  * Erika Owens in Philadelphia published [a list of suggestions][10] for organizers
+  * Pose a question on the [Google Group for organizers][2]
+  * Try holding intermittent or quarterly events (quality over quantity!)
+  * Instead of planning a chapter-wide event, plan a dinner or outing for you and your co-organizers.
+  * [Email us](mailto:samantha@hackshackers.com) if you have any questions, or just want to brainstorm.
+  * If you need some startup money, let us know. We might have some money (not much) we can funnel to startup chapters, but $50 can go a long way in a bar toward appetizers
 
 **If you want to get more involved…**
 
-  * The first Tuesday of every month, we hold an [open call][5]
   * Subscribe to [the weekly newsletter][6]
+  * Join our [open call][5] the first Wednesday of every month
   * Check out the [calendar of all Hacks/Hackers meetups][7] worldwide
-  * Join the [Slack channel][8], if you&#8217;re on Slack (get an [invite here][13])
+  * Join the [Slack channel][8]
 
-**If you&#8217;re planning an event&#8230;**
+**If you&#8217want to grow your chapter&#8230;**
 
-  * Hacks/Hackers Africa has a [list of potential meetups][9]
-  * Erika Owens in Philadelphia published [a list of suggestions][10] for organizers
-  * London shared their template for [organizer roles and responsibilities][11], and [task assignment worksheet][12]
+  * London shared their template for [organizer roles and responsibilities][11] (warning: link will download a Word doc), and [task assignment worksheet][12] (Word doc)
   * Try finding sponsors by making a verbal announcement at your meetup or reaching out to potential sponsors by email
-  * Make a venue database for your city, so that you (and future organizers) have a place to find/record potential venues
+  * Make a venue database for your city, so that you (and future organizers) have a place to refer back to
 
- [1]: http://hackshackers.com/resources/join/
+ [1]: https://hackshackers.com/resources/start-a-group/
  [2]: https://groups.google.com/forum/#!forum/hackshackersorganizers
  [3]: http://connect.hackshackers.com
  [4]: http://meetupnyc.hackshackers.com/
- [5]: https://calendar.google.com/calendar/render?eid=aHQzMHY1dW5kMzR1cDc2ZTBtaW5lNzNrYmdfMjAxNjA0MDVUMTUwMDAwWiBiMWJmNWVnYzdyM2Nub3FnZWtvNTkzMjhwc0Bn&ctz=America/Chicago&sf=true&output=xml#eventpage_6
+ [5]: https://hackshackers.com/resources/global-open-call/
  [6]: http://hackshackers.com/blog/tag/newsletter-2/
- [7]: http://matchmaker.hhldn.co.uk/calendars
+ [7]: https://hackshackers.com/
  [8]: https://hackshackers.slack.com
  [9]: https://github.com/HacksHackersAfrica/wiki/wiki/Organising-Meetings
  [10]: http://erikaowens.com/blog/some-tips-local-hackshackers-organizers
