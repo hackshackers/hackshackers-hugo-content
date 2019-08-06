@@ -1,5 +1,5 @@
 ---
-title: Tools and tips for organizers
+title: Tools and Tips for Organizers
 url: resources/tools-tips-organizers
 ---
 Do you want to start a new chapter, join an existing group, or just get more involved in general? Fantastic! Here, we compiled a list of resources as well as some crowdsourced tips from other organizers.
