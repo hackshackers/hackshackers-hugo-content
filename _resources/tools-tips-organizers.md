@@ -10,6 +10,7 @@ Do you want to start a new chapter, join an existing group, or just get more inv
   * Read our [list of suggested meetups](https://hackshackers.com/resources/suggested-meetups/)
   * Or Hacks/Hackers Africa's [list of potential meetups][9]
   * Erika Owens in Philadelphia published [a list of suggestions][10] for organizers
+  * Cindy Royal in Austin shared [tips for a successful hackathon](https://hackshackers.com/resources/hackathon-tips/)
   * Pose a question on the [Google Group for organizers][2]
   * Try holding intermittent or quarterly events (quality over quantity!)
   * Instead of planning a chapter-wide event, plan a dinner or outing for you and your co-organizers.
