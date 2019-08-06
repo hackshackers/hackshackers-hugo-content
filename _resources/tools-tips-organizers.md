@@ -25,7 +25,7 @@ Do you want to start a new chapter, join an existing group, or just get more inv
   * Check out the [calendar of all Hacks/Hackers meetups][7] worldwide
   * Join the [Slack channel][8]
 
-**If you&#8217want to grow your chapter&#8230;**
+**If you want to grow your chapter&#8230;**
 
   * London shared their template for [organizer roles and responsibilities][11] (warning: link will download a Word doc), and [task assignment worksheet][12] (Word doc)
   * Try finding sponsors by making a verbal announcement at your meetup or reaching out to potential sponsors by email
