@@ -1,5 +1,5 @@
 ---
-Title: Have you seen H/H London’s YouTube channel?
+Title: Have you seen H/H London’s Q&A series?
 authors: 
 - Samantha Sunne
 date: "2019-09-08"
