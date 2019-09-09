@@ -47,7 +47,6 @@ US | inewsource | [Web producer](https://twitter.us7.list-manage.com/track/click
 US | WSJ | [Freelance product designer](https://www.gorkanajobs.co.uk/job/78144/freelance-product-designer-the-wall-street-journal-ny/?deviceType=Desktop&TrackID=136038&utm_source=jbe&utm_medium=email&utm_campaign=DateUnknown&BatchID=4897#sc=jbe&me=email&cm=2018-02-16)
 US | Marshall Project | [Web developer](http://ire.org/jobs/job/1204/)
 
-{{< tweet 963846116809805824 >}}
 
 **Upcoming events:**
 
