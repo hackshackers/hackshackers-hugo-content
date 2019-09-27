@@ -11,7 +11,7 @@ Hello, hacks and hackers! [Registration is now open](https://www.eventbrite.com/
 
 {{< tweet 1175078376035553285 >}}
 
-And don’t forget about our [monthly global open call](https://hackshackers.com/resources/global-open-call/) this Wednesday!
+And don’t forget about our monthly global open call this Wednesday! Join in anytime from the top of the hour at 1200 US Eastern time.
 
 **The week ahead:**
 
