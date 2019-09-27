@@ -7,7 +7,7 @@ categories:
 - Newsletter
 ---
 
-Hello, hacks and hackers! [Registration is now open](https://www.eventbrite.com/e/misinfocon-london-2019-a-global-summit-on-misinformation-tickets-68502002333) for [MisinfoCon London](https://london.misinfocon.com/), which will focus on how misinformation affects elections, media literacy and algorithmic society. It’ll take place the 23rd of October at the Royal Society for the Arts, as part of [MozFest House](https://www.mozillafestival.org/en/house/). 
+Hello, hacks and hackers! [Registration is now open](https://www.eventbrite.com/e/misinfocon-london-2019-a-global-summit-on-misinformation-tickets-68502002333) for [MisinfoCon London](https://london.misinfocon.com/), a joint anti-misinformation project between Hacks/Hackers and Mozilla. It’ll take place the 23rd of October at the Royal Society for the Arts, as part of [MozFest House](https://www.mozillafestival.org/en/house/). 
 
 {{< tweet 1175078376035553285 >}}
 
