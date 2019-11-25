@@ -1,5 +1,5 @@
 ---
-Title: Managing is a function, leadership is a practice; plus more takeaways from SRCCONLEAD
+Title: Managing is a function, leadership is a practice, plus more takeaways from SRCCONLEAD
 authors: 
 - Samantha Sunne
 date: "2019-11-24"
