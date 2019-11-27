@@ -9,8 +9,6 @@ categories:
 
 Greetings, hacks and hackers! You may have seen [conversations](https://twitter.com/kimbui/status/1196799386094882816) from [#SRCCONLEAD](https://twitter.com/hashtag/SRCCONLEAD?src=hashtag_click) floating across your timeline, as there were a lot of media leaders there, and they had a lot to share.
 
-{{< tweet 1197177502327812096 >}}
-
 You can find tons of leadership advice on the hashtag, or [read transcriptions](https://lead.srccon.org/transcription/) from the event itself.
 
 **The week ahead:**
@@ -23,8 +21,6 @@ You can find tons of leadership advice on the hashtag, or [read transcriptions](
 * NiemanLab compiled the results from several studies on [the neuroscience behind fake news](https://www.niemanlab.org/2019/11/galaxy-brain-the-neuroscience-of-how-fake-news-grabs-our-attention-produces-false-memories-and-appeals-to-our-emotions/) and found that humans are more likely to notice and remember new, outlandish claims over expected ones (NiemanLab)
 * In an interview about data journalism tools, an NYT economics reporter [said he still believes](https://www.nytimes.com/2019/11/13/technology/personaltech/data-journalism-economics.html) "the best stories almost always emerge from talking to people" (NYTimes)
 * A data reporter from NJ Advance Media [created a Github repo](https://github.com/sstirling/journo-salaries) documenting his process as he works on cleaning the data from [the media salaries spreadsheet](https://www.cjr.org/cjr_outbox/google-doc-journalism-media-pay.php) (CJR)
-
-{{< tweet 1194654152779018241 >}}
 
 **Upcoming events:**
 
