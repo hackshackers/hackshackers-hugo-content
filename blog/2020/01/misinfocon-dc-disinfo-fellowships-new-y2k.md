@@ -13,6 +13,9 @@ Welcome to the new year, hacks and hackers. Last year saw the addition of [North
 
 In case you missed the announcement last week, our joint project [MisinfoCon](https://misinfocon.com/) is holding an upcoming gathering in Washington, D.C. [MisinfoCon @ NASEM](https://misinfocon.com/misinfocon-nasem-is-here-misinfocon-7-0-is-focused-on-health-and-science-misinformation-71baa93d8717) will focus on health and science misinformation, in partnership with the [U.S. National Academies of Sciences](https://www.nationalacademies.org/).
 
+**The week ahead:**
+* Montreal is [meeting at the pub](https://www.meetup.com/HacksHackersMontreal/events/266595748/)
+
 **Worth a read:**
 
 * Data privacy has been a hot issue for a long time, with a fringe group even advocating for users to be paid for their data. But how would that work? A team from Berkeley's AI research team [ran an experiment](https://bair.berkeley.edu/blog/2019/12/16/data-worth/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20200108+data+nl&mkt_tok=eyJpIjoiWkROa01qUmhOalE0TmpNMSIsInQiOiIzR3dWaDdXWVhtT3pqaWlNdjRBdnJTOU5mY3J1b2pPR0NkSVwvZ0c4R1JFeFhrRWNocE5PM2JDdmRzOVROZjBucTNHR2NyODIxM21aS1dacjh3Y2FkaENacElndFZmVTlYODFJTktLMjBvYStcLzBXbFpicWF3REZySjYrNGZWNnlVIn0%3D) (BAIR)
