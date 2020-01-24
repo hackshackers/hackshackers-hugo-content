@@ -48,7 +48,7 @@ US | WABC-TV | [Data Journalist](https://www.ire.org/archives/jobs/job/data-jour
 | ----- | --- | ---- | ------- | ----- |
 February | 18-20 | Chiang Mai | Thailand | [Splice Asian Media Conference](https://www.splicemedia.com/splicebeta2019/)
 February | 22 | Washington, DC | US | [MisinfoCon @ NASEM](https://misinfocon.com/misinfocon-nasem-is-here-misinfocon-7-0-is-focused-on-health-and-science-misinformation-71baa93d8717)
-February 25-26 | London | UK | [DataViz Live](https://tucana-global.com/datavizlive/)
+February | 25-26 | London | UK | [DataViz Live](https://tucana-global.com/datavizlive/)
 March | 5-8 | New Orleans | US | [NICAR Conference](https://www.ire.org/events-and-training/conferences/nicar-2020)
 March | 20-21 | Boston | US | [Computation + Journalism Symposium](https://cj2020.northeastern.edu/)
 March | 20-22 | Boston | US | [Power of Narrative](http://www.bu.edu/com/narrative/index.html)
