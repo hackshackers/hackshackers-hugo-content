@@ -51,6 +51,7 @@ March | 20-21 | Boston | US | [Computation + Journalism Symposium](https://cj202
 March | 20-22 | Boston | US | [Power of Narrative](http://www.bu.edu/com/narrative/index.html)
 April | 1-5 | Perugia | Italy | [International Journalism Conference](https://www.journalismfestival.com/)
 April | 3 | Bloomington | US | [Midwest Journalism Conference](http://midwestjournalism.com/)
+April 3-5 | Boston | US | [Information Ethics Roundtable](https://www.northeastern.edu/csshresearch/ethics/information-ethics-roundtable/)
 April | 5-6 | Washington, DC | US | [Society for News Design Conference](https://www.snd.org/dc2020/)
 April | 20-23 | London | UK | [O’Reilly Strata Data & AI Conference](https://conferences.oreilly.com/strata-data-ai/stai-eu)
 April | 23 | Austin | US | [Code Before the Vote Hackathon](https://isoj.org/texas-tribune-and-isoj-join-forces-on-hackathon-to-promote-engagement-ahead-of-2020-election/)
@@ -64,7 +65,6 @@ May | 29-31 | Montreal | Canada | [Canadian Associations of Journalists Conferen
 
 | Deadline | Fund |
 | -------- | ---- |
-April 3-5 | [Information Ethics Roundtable in Boston](https://www.northeastern.edu/csshresearch/ethics/information-ethics-roundtable/)
 Rolling | [ECFJ grants for stories on elections, AI, disinformation, etc.](https://www.eyebeam.org/eyebeam-center-for-the-future-of-journalism/)
 Rolling | [Solutions Journalism Network Freelance Fund](https://thewholestory.solutionsjournalism.org/now-offering-travel-funds-for-freelancers-857c49f9b395)
 Rolling | [Ukraine Media Development Fund](http://ijnet.org/en/opportunities/media-development-grants-available-ukraine)
