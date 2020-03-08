@@ -2,7 +2,7 @@
 Title: Covering the coronavirus outbreak
 authors: 
 - Samantha Sunne
-date: "2020-03-01"
+date: "2020-03-07"
 categories:
 - Newsletter
 ---
