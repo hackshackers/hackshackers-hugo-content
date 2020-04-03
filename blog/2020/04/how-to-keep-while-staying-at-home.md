@@ -1,5 +1,5 @@
 ---
-Title: How to gather online
+Title: How to keep in touch while staying at home
 authors: 
 - Samantha Sunne
 date: "2020-04-06"
