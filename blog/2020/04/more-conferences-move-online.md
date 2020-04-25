@@ -7,7 +7,7 @@ categories:
 - Newsletter
 ---
 
-If you haven't heard, [SRCCON](https://srccon.org) is moving online. The [Collaborative Journalism Summit](https://collaborativejournalism.org/cjs2020/) next month is happening online too.
+If you haven't heard, [SRCCON](https://srccon.org) is moving online. So are the joint [NABJxNAHJ conference](https://www.nabj.org/news/503870/NABJNAHJ20-Will-Be-A-Virtual-Convention-in-August-2020.htm) and the [Collaborative Journalism Summit](https://collaborativejournalism.org/cjs2020/) happening next month.
 
 {{< tweet 1253359937142603782 >}} 
 
