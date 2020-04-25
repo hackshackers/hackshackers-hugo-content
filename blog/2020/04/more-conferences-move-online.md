@@ -1,5 +1,5 @@
 ---
-Title: New conferences online
+Title: More conferences move online
 authors: 
 - Samantha Sunne
 date: "2020-04-26"
