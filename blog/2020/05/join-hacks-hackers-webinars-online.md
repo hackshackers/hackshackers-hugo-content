@@ -1,5 +1,5 @@
 ---
-Title: Join Hacks/Hackers meetups online
+Title: Join Hacks/Hackers webinars online
 authors: 
 - Samantha Sunne
 date: "2020-05-17"
