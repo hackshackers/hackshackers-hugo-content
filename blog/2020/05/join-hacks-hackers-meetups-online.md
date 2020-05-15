@@ -1,5 +1,5 @@
 ---
-Title: More shifts in the journalism industry
+Title: Join Hacks/Hackers meetups online
 authors: 
 - Samantha Sunne
 date: "2020-05-17"
@@ -7,11 +7,15 @@ categories:
 - Newsletter
 ---
 
-Welcome again, hacks and hackers! News of more layoffs have hit the journalism industry, unfortunately.
+Welcome again, hacks and hackers! While some countries and regions are starting to meet in person again, online meetups are continuing apace.
 
-{{< tweet 1261303572718858249 >}}
+{{< tweet 1260863919268249603 >}}
 
-This week we have some non-remote jobs in the UK and the US, but we'd love to have a wider variety. Please reach out if you know of a job opening or a platform we should be checking.
+London has reached more than 100 people with their online webinars, and you can join [the next one](https://www.eventbrite.co.uk/e/hackshackers-london-may-2020-meetup-tickets-91592241861) on Wednesday.
+
+The week ahead:
+
+* London is [discussing investigative journalism techniques](https://www.eventbrite.co.uk/e/hackshackers-london-may-2020-meetup-tickets-91592241861) online
 
 **Worth a read:**
 
