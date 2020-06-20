@@ -29,7 +29,7 @@ And a reminder that if you are a Hacks/Hackers organizer who would like to hold 
 **Job openings:**
 
 * Kenya or South Africa - [Programme Manager](https://twitter.com/Code4Africa/status/1273994834211201032), Code for Africa
-* China - [Mobile App Developer](https://www.cpjobs.com/hk/job/mobile-app-developer-(android-ios--3536936), Oriental Press Group
+* China - [Mobile App Developer](https://www.cpjobs.com/hk/job/mobile-app-developer-android-ios--3536936), Oriental Press Group
 * US - [Asst. Digital Editor](https://careers.journalists.org/jobs/13666477/asst-digital-editor), Trib Total Media
 * US - [Data Analyst](https://protectdemocracy.org/x/jobs/data-analyst-voteshield/), Protect Democracy
 * US - [Data Journalist](https://careers.journalists.org/jobs/13651289/data-journalist-science-research), World Resources Institute
