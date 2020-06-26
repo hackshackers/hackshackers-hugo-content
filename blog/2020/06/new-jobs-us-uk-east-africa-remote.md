@@ -46,7 +46,7 @@ Plus, a reminder: if you are a Hacks/Hackers organizer who would like to hold re
 * Aug 5-9, Online, [NABJxNAHJ Convention](https://www.nabjnahjconvention.com/index.cfm)
 * Aug 9-15, Online, [AAJA Conference](https://www.aaja20.org)
 * Aug 27-30, Online, [IRE Conference](https://www.ire.org/events-and-training/event/4125)
-* Sep 10-12, Washington DC, US, [Excellence in Journalism Conference](https://excellenceinjournalism.org/
+* Sep 10-12, Washington DC, US, [Excellence in Journalism Conference](https://excellenceinjournalism.org)
 * Sep 10-13, Chicago, US, [The Association of LGBTQ journalists (NLGA)](https://www.nlgja.org/2020/speakers/)
 * Sep 23-27, Online, [Environmental Journalism Conference](https://conference.sej.org)
 * Sep - Nov, Online, [EIJC & Dataharvest](https://dataharvest.eu/)
