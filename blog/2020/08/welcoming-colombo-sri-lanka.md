@@ -19,7 +19,7 @@ You can also follow them on [Twitter](https://twitter.com/HacksHackersCMB) and [
 * Young Millennials and Gen Z are [turning to Instagram for news](https://www.theguardian.com/lifeandstyle/2020/jul/27/instagram-news-source-social-media) more than any other source, according to new research by the Reuters Institute
 * The amount of Coronavirus misinformation is large, but [its effects on people's actions](https://www.niemanlab.org/2020/07/how-much-does-fake-coronavirus-news-affect-peoples-real-life-health-behavior/) may be small, Irish researchers found
 
-{{<tweet 1286357135161466882 >}}
+{{<tweet 1287685430540935169 >}}
 
 **Job openings:**
 
